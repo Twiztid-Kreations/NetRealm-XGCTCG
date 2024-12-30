@@ -1,0 +1,154 @@
+Energy Types:
+
+Coding
+
+Theme: Logic, control, and recursion.
+Playstyle: Combos, efficient optimization, and manipulating resources.
+Example Cards:
+Syntax Debugger: Cancels an opponent’s action and grants energy.
+Algorithmic Swarm: Summons multiple weak constructs that grow over time.
+Meme
+
+Theme: Chaos, unpredictability, and humor.
+Playstyle: Random effects, surprise strategies, and disrupting opponents.
+Example Cards:
+Rickroll Resonance: Forces an opponent to discard their strongest card.
+Cat Loops: Creates a repeating effect each turn.
+Creep
+
+Theme: Horror, decay, and the eerie side of the web.
+Playstyle: Draining opponents’ energy, lingering effects, and attrition.
+Example Cards:
+404 Ghosting: Banishes an enemy card to the “dead link” zone.
+Digital Parasite: Slowly drains energy from opponents each turn.
+Gaming
+
+Theme: Strategy, competition, and leveling up.
+Playstyle: Powering up units, using combos, and “achievement” bonuses.
+Example Cards:
+Speedrun Tactician: Reduces energy cost for all cards in your hand.
+PvP Champion: Gains strength based on enemy actions.
+Drama
+
+Theme: Conflict, manipulation, and social influence.
+Playstyle: Stealing resources, forcing bad trades, and creating chaos.
+Example Cards:
+Cancel Storm: Negates all actions from the last turn.
+Toxic Whisperer: Forces opponents to attack each other.
+Movie
+
+Theme: Storytelling, epic moments, and cinematic action.
+Playstyle: Grandiose effects, synergy, and spectacle.
+Example Cards:
+Blockbuster Finale: Deals massive damage but drains all your energy.
+Director’s Cut: Lets you replay an earlier turn.
+
+Colorless
+
+Theme: Neutrality, adaptability, and universality.
+Playstyle: Works with any energy type, often requiring additional costs.
+Example Cards:
+Glitch Construct: Adapts to gain traits of another energy type.
+Neutral Nexus: Adds 1 of any energy type to your pool.
+
+Cardtypes
+
+WorldWeavers (Planeswalker Equivalent)
+WorldWeavers are powerful beings that travel between realms, weaving the fabric of the digital multiverse. These act as a centerpiece for decks, offering unique abilities and gameplay-altering effects.
+
+Characteristics:
+
+Have Starting Firewall (equivalent to loyalty points).
+Abilities are triggered through a cost mechanic called "Threads," representing their influence across realms.
+Each deck can only include one WorldWeaver, and they must match at least one of your deck's energy types.
+Example WorldWeaver:
+
+Zyx, Viral Architect (Meme/Energy)
+Firewall: 5
++1: Spread a Viral Effect onto one enemy Unit (it gets -1/-1 each turn).
+-2: Summon a 3/3 Meme Construct with “When this Unit dies, deal 2 damage to the opponent’s Firewall.”
+-7: All opponents discard their hands, and you draw 7 cards.
+
+2. Units (Monster Equivalent)
+Units represent the creatures, programs, or entities that populate the multiverse. They are your primary offensive and defensive tools.
+
+Characteristics:
+
+Have Attack and Defense stats (e.g., 3/2).
+Some are tied to energy types (e.g., a "Coding Unit" or "Creep Unit"), while others are Neutral Units.
+Many have Keywords, which define their unique powers, such as:
+Stealth: Cannot be targeted for attacks until it deals damage.
+Overclock: Can attack immediately upon being summoned.
+Decay: Gains power when an opponent loses energy.
+Example Units:
+
+Code Revenant (Coding)
+2/3 for 3 Coding Energy
+Effect: When Code Revenant dies, return it to your hand instead of your discard pile.
+Drama Hound (Drama)
+4/1 for 2 Drama Energy
+Stealth. If it destroys a Unit, all opponents lose 1 Firewall.
+
+3. Scripts (Spell Equivalent)
+Scripts are one-time-use cards that represent instant actions, bursts of code, or dramatic moments. They can be used to alter the battlefield or change the flow of the game.
+
+Characteristics:
+
+Can be Offensive, Defensive, or Utility in nature.
+Some Scripts are specific to energy types, while others are Colorless.
+Example Scripts:
+
+Patch Update (Coding)
+Cost: 3 Coding Energy
+Effect: Repair one Relic and give all Units +1 Defense until the end of the turn.
+Viral Meme (Meme)
+Cost: 2 Meme Energy
+Effect: All Units gain "When this dies, deal 1 Firewall damage to its controller."
+
+4. Relics (Artifact Equivalent)
+Relics are powerful, persistent cards that represent ancient technologies, tools, or viral constructs. They stay in play until destroyed and provide long-term advantages.
+
+Characteristics:
+
+Require energy to activate certain abilities.
+Can be targeted by effects that specifically destroy Relics.
+Often enhance your deck’s core strategy or energy efficiency.
+Example Relics:
+
+Infinite Loop Drive (Coding)
+Cost: 4 Coding Energy
+Effect: Pay 2 Energy of any type to copy a Script you just played.
+Oblivion Shard (Creep)
+Cost: 3 Creep Energy
+Effect: At the end of your turn, deal 1 damage to all Units and Firewalls.
+
+5. Programs (Enchantment Equivalent)
+Programs are long-lasting digital constructs that alter the rules of the game while they are active. Unlike Relics, they are intangible and harder to destroy.
+
+Characteristics:
+
+Typically tied to specific energy types.
+Provide buffs, debuffs, or new mechanics for the game.
+Example Programs:
+
+Hacker’s Uplink (Coding)
+Cost: 3 Coding Energy
+Effect: At the start of your turn, draw one extra card if you control a Relic.
+Trending Now (Meme)
+Cost: 4 Meme Energy
+Effect: Viral Effects spread to one additional target each turn.
+
+6. Nodes (Land Equivalent)
+Nodes generate energy and represent key locations or systems in the multiverse.
+
+Characteristics:
+
+Provide energy of their respective type.
+Some are Basic Nodes (e.g., generate only one type of energy), while others are Advanced Nodes with secondary effects.
+Example Nodes:
+
+Code Repository (Coding Node)
+Tap: Add 1 Coding Energy.
+Tap: Pay 3 Coding Energy and draw 1 card.
+Glitching Nexus (Colorless Node)
+Tap: Add 1 Energy of any type.
