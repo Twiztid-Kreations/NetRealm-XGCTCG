@@ -1,0 +1,58 @@
+Unit = Inch
+
+Page = 5, 7,PORTRAIT,MV
+CARDSIZE=5,7
+
+Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx
+
+line=1,0,0,100%,100%,#FF0000,20%
+line=1,0,100%,100%,0,#FF0000,20%
+icon=,1,1.png
+icons=1,11111,50%,0,30%,100%,20%,10%,0,PN
+
+ICON=1,1,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\1.png
+ICON=1,2,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\2.png
+ICON=1,3,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\3.png
+ICON=1,4,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\4.png
+ICON=1,a,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_code.png
+ICON=1,b,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_creep.png
+ICON=1,c,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_drama.png
+ICON=1,d,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_game.png
+ICON=1,e,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_glitch.png
+ICON=1,f,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_meme.png
+ICON=1,g,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_movie.png
+
+
+VISUAL=G, 27, 30
+;IMAGE(snap)
+IMAGE="1-{(IMAGE)}",[IMAGE],{100/27}%,0%,{23333/250}%,100%
+;FRAME(snap)
+IMAGE="1-{(FRAME)}",[FRAME],0%,0%,100%,100%
+;Font(snap)
+FONT=Satans,14,T,#FFFFFF
+;NAME(snap)
+TEXT="1-{(NAME)}",[NAME],{300/27}%,{200/30}%,{38799/500}%,{319/100}%
+FONT=Satans,32,T,#FFFFFF
+;ATTACK
+TEXT="1-{(ATTACK)}",[ATTACK],-46.4%,{13183/350}%,113.8%,{77533/700}%
+;DEFENSE
+TEXT="1-{(DEFENSE)}",[DEFENSE],{8233/250}%,{26333/700}%,{569/5}%,{77533/700}%
+;Font(snap)
+FONT=Satans,11,TB,#FFFFFF
+;UNIT TYPE
+TEXT="1-{(UNIT TYPE)}",[UNIT TYPE],-4.8%,{6383/350}%,100%,{100/1}%,CENTER,CENTER
+;Font(snap)
+FONT=Arial,10,TN,#FFFFFF
+;ABILITY1
+TEXT="1-{(ABILITY1)}",[ABILITY1],8.8%,{24833/350}%,82.6%,{5133/700}%,LEFT,WORDWRAP
+;ABILITY2
+TEXT="1-{(ABILITY2)}",[ABILITY2],8.4%,{536/7}%,{20783/250}%,{47/7}%,LEFT,WORDWRAP
+;ABILITY3
+TEXT="1-{(ABILITY3)}",[ABILITY3],{4033/500}%,{578/7}%,{20783/250}%,{55/7}%,LEFT,WORDWRAP
+;Font(snap)
+FONT=Satans,8,T,#FFFFFF
+;FLAVOR TEXT
+TEXT="1-{(FLAVOR TEXT)}",[FLAVOR TEXT],18.8%,{648/7}%,{15483/250}%,{1683/350}%,CENTER,WORDWRAP
+;COST1
+ICONS="1-{(COST1)}",[COST1],0%,0%,100%,100%,11%,11%,0,PN,CENTER,CENTER
+ENDVISUAL
