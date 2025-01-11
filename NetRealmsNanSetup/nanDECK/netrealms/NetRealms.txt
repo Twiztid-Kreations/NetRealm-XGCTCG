@@ -3,9 +3,9 @@ Unit = Inch
 Page = 5, 7,PORTRAIT,MV
 CARDSIZE=5,7
 
-Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!lands
-Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!WorldWeavers
-Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Units
+``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!lands
+``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!WorldWeavers
+``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Units
 Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Relics
 
 line=1,0,0,100%,100%,#FF0000,20%
@@ -17,13 +17,13 @@ ICON=1,1,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\1.png
 ICON=1,2,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\2.png
 ICON=1,3,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\3.png
 ICON=1,4,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\4.png
-ICON=1,c,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_code.png
-ICON=1,b,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_creep.png
-ICON=1,c,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_drama.png
-ICON=1,g,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_game.png
+ICON=1,CO,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_code.png
+ICON=1,CR,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_creep.png
+ICON=1,DR,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_drama.png
+ICON=1,GA,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_game.png
 ICON=1,GL,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_glitch.png
-ICON=1,f,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_meme.png
-ICON=1,g,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_movie.png
+ICON=1,ME,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_meme.png
+ICON=1,MO,C:\Users\TK\Desktop\nanDECK\netrealms\symbols\symbol_movie.png
 
 
 VISUAL=HVG, 27, 30
@@ -57,7 +57,7 @@ FONT=Satans,8,T,#FFFFFF
 ;FLAVOR TEXT
 TEXT="1-{(FLAVOR TEXT)}",[FLAVOR TEXT],18.8%,{648/7}%,{15483/250}%,{1683/350}%,CENTER,WORDWRAP
 ;COST1
-ICONS="1-{(COST1)}",[COST1],-42.2%,-31%,100%,100%,11%,11%,0,PN,CENTER,CENTER
+ICONS=2-90,[COST1],-42.2%,-31%,100%,100%,11%,11%,0,PN,CENTER,CENTER
 ;COST2
-ICONS="1-{(COST2)}",[COST2],-36.6%,{-178/7}%,100%,100%,11%,11%,0,PN,CENTER,CENTER
+ICONS=2-90,[COST2],-36.6%,{-178/7}%,100%,100%,11%,11%,0,PN,CENTER,CENTER
 ENDVISUAL
