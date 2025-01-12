@@ -1,0 +1,189 @@
+Card Name: Project N3M3SIS
+Type: Unit
+Rarity: Epic
+Attack/Defense: 8/6
+Casting Cost: 4GLGLGL
+
+Ability:
+Overwhelming Presence: When Project N3M3SIS enters the field, all enemy Units lose 2 Attack and Defense until the end of your next turn.
+
+Rocket Barrage: Pay 3 Game Energy: Deal 5 damage to all enemy Units. This ability can only be activated once per turn.
+
+Indomitable: If this Unit is destroyed, it returns to your hand instead of the discard pile.
+
+Flavor Text:
+"An unstoppable weapon of annihilation, it exists only to hunt and destroy. Resistance is futile."
+
+Card Name: Project L1CK3R
+Type: Unit
+Rarity: Uncommon
+Attack/Defense: 4/3
+Casting Cost: 2GLGL
+
+Ability:
+Adaptive Strike: When Project L1CK3R attacks a Program or Unit, it gains +2 Attack until the end of the turn.
+
+Lingering Corruption: When Project L1CK3R damages an enemy Unit, that Unit cannot regain abilities or defense until your next turn.
+
+Flavor Text:
+"Born from the glitches of failed experiments, its hunger is endless, and its prey has nowhere to hide."
+
+1. Fragmented Marionette
+Energy Cost: 2G (2 Generic, 1 Glitch Energy)
+Attack/Defense: 2/2
+Rarity: Common
+Ability: When Fragmented Marionette enters the Grid, mill 2 cards.
+Flavor Text: “It dances to a broken rhythm, never finding its strings.”
+Prompt: A patchwork marionette composed of mismatched, glitching polygons. Its wooden limbs flicker with digital static, and its strings are faintly visible as jagged, electrified lines tethered to the void. One eye glows brightly, the other is hollow and emits a soft hum. The background shows corrupted files cascading like a waterfall behind it.
+
+2. Data Phantom
+Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+Attack/Defense: 3/2
+Rarity: Uncommon
+Ability: Flying. Whenever Data Phantom deals damage to a player, they exile the top card of their archive.
+Flavor Text: “It feeds on what you’ll never see again.”
+Prompt: A ghostly figure made of shattered code fragments floats ominously in a dimly lit void. Its face is obscured, replaced by an endlessly scrolling stream of corrupted text. Trails of digital distortion follow its every move, and its outstretched hands seem to phase in and out of existence.
+
+3. Looped Rogue
+Energy Cost: 2GG (2 Generic, 2 Glitch Energy)
+Attack/Defense: 3/3
+Rarity: Rare
+Ability: Whenever Looped Rogue attacks, it phases out until your next turn.
+Flavor Text: “You’ll never catch it, but it will find you.”
+Prompt: A humanoid figure with an incomplete face, its features constantly shifting between random avatars. It sprints forward, leaving a trail of afterimages that each dissipate into cascading binary code. The Grid around it is visibly damaged, with fragmented geometry and static.
+
+4. System Eraser
+Energy Cost: 4G (4 Generic, 1 Glitch Energy)
+Attack/Defense: 4/5
+Rarity: Mythic Rare
+Ability: When System Eraser enters the Grid, exile up to two target Units.
+Flavor Text: “All it leaves behind is the absence of what once was.”
+Prompt: A sleek, angular construct with razor-like edges and an unsettling, black-and-white design. Its surface is covered in reflective digital screens that display fragmented memories of the things it destroys. The environment bends and glitches around it as though reality itself is being rewritten.
+
+5. Patchwork Soldier
+Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+Attack/Defense: 3/2
+Rarity: Common
+Ability: Whenever Patchwork Soldier is damaged, its controller mills 1 card.
+Flavor Text: “Built from scraps, it still finds a way to fight.”
+Prompt: A bulky, humanoid warrior made of salvaged parts—some mechanical, others seemingly organic. Sparks fly from its joints as it marches forward, holding a jagged blade that flickers in and out of existence. Its armor is incomplete, with data streams visible through the gaps.
+
+6. Disruptor Drone
+Energy Cost: 1G (1 Generic, 1 Glitch Energy)
+Attack/Defense: 1/1
+Rarity: Common
+Ability: Tap: Target Unit loses Shielded until end of turn.
+Flavor Text: “Small, silent, and devastating.”
+Prompt: A tiny, spherical drone with glowing red eyes and jagged edges that pulse with static energy. Its body emits a faint hum, and it leaves trails of broken code in its wake. The background features a shattered Grid with warning symbols flashing.
+
+7. Null Stalker
+Energy Cost: 2G (2 Generic, 1 Glitch Energy)
+Attack/Defense: 3/2
+Rarity: Uncommon
+Ability: Null Stalker can’t be blocked by Units with Shielded.
+Flavor Text: “No shield can stop the void.”
+Prompt: A sleek, shadowy creature with elongated limbs and glowing white eyes. It moves silently across a fragmented Grid, its body occasionally distorting like a corrupted video file. The lights of distant structures flicker as it passes.
+
+8. Overclocked Harbinger
+Energy Cost: 5G (5 Generic, 1 Glitch Energy)
+Attack/Defense: 6/4
+Rarity: Mythic Rare
+Ability: Haste. At the end of your turn, exile Overclocked Harbinger.
+Flavor Text: “Too much power burns away too quickly.”
+Prompt: A towering, humanoid figure surrounded by an aura of intense, unstable energy. Its body crackles with lightning, and its limbs are encased in glowing circuits that overload as it moves. The background shows the Grid fracturing under the strain of its presence.
+
+9. Virus Spawn
+Energy Cost: 1G (1 Generic, 1 Glitch Energy)
+Attack/Defense: 1/1
+Rarity: Common
+Ability: When Virus Spawn enters the Grid, create a 1/1 “Infected Token.”
+Flavor Text: “One glitch leads to many.”
+Prompt: A small, insect-like creature with a metallic body and glowing red eyes. Its legs are sharp and spindly, dripping with corrupted code. Behind it, dozens of smaller, identical creatures scuttle into view, spreading chaos wherever they go.
+
+10. Recursive Assassin
+Energy Cost: 4G (4 Generic, 1 Glitch Energy)
+Attack/Defense: 4/4
+Rarity: Rare
+Ability: Whenever Recursive Assassin destroys a Unit, return it to your hand.
+Flavor Text: “You can’t kill what’s already been rewritten.”
+Prompt: A cybernetic figure cloaked in a shifting, pixelated shroud. Its arms extend into long, blade-like appendages that glow faintly. Each strike it makes leaves behind distorted, ghostly echoes of its victims.
+
+11. Proxy Saboteur
+Energy Cost: 2GG (2 Generic, 2 Glitch Energy)
+Attack/Defense: 3/3
+Rarity: Rare
+Ability: When Proxy Saboteur enters the Grid, destroy target Relic.
+Flavor Text: “It doesn’t knock—it deletes.”
+Prompt: A humanoid figure covered in sleek, black armor with glowing blue veins running across its body. It holds a small device that emits a pulse of energy, causing nearby objects to collapse into pixels.
+
+12. Shard Runner
+Energy Cost: 2G (2 Generic, 1 Glitch Energy)
+Attack/Defense: 3/1
+Rarity: Common
+Ability: Haste. Shard Runner deals 1 damage to its controller at the end of each turn.
+Flavor Text: “Fast, unstable, and unpredictable.”
+Prompt: A jagged, crystalline creature made of shimmering, fragmented polygons. Its body pulses with energy as it moves erratically, leaving behind shards of broken light.
+
+13. Glitched Colossus
+Energy Cost: 6G (6 Generic, 1 Glitch Energy)
+Attack/Defense: 8/6
+Rarity: Mythic Rare
+Ability: Trample. When Glitched Colossus attacks, mill 3 cards.
+Flavor Text: “Its steps rewrite the battlefield.”
+Prompt: A massive, lumbering titan made of corrupted files and jagged, broken code. Its body emits bursts of static, and its every step causes the Grid to fracture beneath it.
+
+14. Errorbound Wraith
+Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+Attack/Defense: 2/4
+Rarity: Uncommon
+Ability: Whenever Errorbound Wraith is targeted by a spell, its controller loses 1 Integrity.
+Flavor Text: “Touch it, and you’ll share its curse.”
+Prompt: A ghostly, humanoid figure flickering in and out of existence. Its face is obscured, replaced by a glitching void, and its body is made of jagged, floating fragments of code. Around it, warning symbols flash, casting a dim red light over the scene.
+
+15. Glitchborn Knight
+Energy Cost: 4G (4 Generic, 1 Glitch Energy)
+Attack/Defense: 4/3
+Rarity: Rare
+Ability: First strike. Whenever Glitchborn Knight deals combat damage, exile the top card of its controller’s archive.
+Flavor Text: “Its blade cuts through code and reality alike.”
+Prompt: A heavily armored knight standing tall amidst a storm of corrupted data. Its sword glows with a pulsating, glitching energy, and cracks in its armor reveal a chaotic swirl of neon light. The Grid around it is warped, bending under its presence.
+
+16. Static Weaver
+Energy Cost: 2GG (2 Generic, 2 Glitch Energy)
+Attack/Defense: 2/5
+Rarity: Uncommon
+Ability: Tap: Target Unit gains +1/+1 and becomes Glitched until end of turn.
+Flavor Text: “It rewrites the code of reality to its advantage.”
+Prompt: A spider-like construct with elongated, glitching legs that spin a web of glowing, corrupted energy. Tiny shards of code float through the air as it pulls reality into its trap. The background shows a tangled mess of digital pathways, each glowing faintly.
+
+17. Distorted Overseer
+Energy Cost: 5G (5 Generic, 1 Glitch Energy)
+Attack/Defense: 5/6
+Rarity: Mythic Rare
+Ability: Other Glitched Units you control gain +1/+1.
+Flavor Text: “It controls the chaos, bending it to its will.”
+Prompt: A towering, humanoid figure with multiple arms, each holding a glowing orb of fragmented energy. Its head is an incomplete hologram, flickering with static, and its chest glows with a pulsing core. Around it, smaller Units kneel, their forms warped by its presence.
+
+18. Anomaly Hunter
+Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+Attack/Defense: 3/4
+Rarity: Rare
+Ability: Whenever Anomaly Hunter enters the Grid, target opponent reveals their hand. You may exile a card from it until Anomaly Hunter leaves the Grid.
+Flavor Text: “It seeks out inconsistencies and eliminates them.”
+Prompt: A lithe, robotic figure with sharp, angular features. Its glowing eyes scan the environment, and a holographic interface displays a stream of corrupted data around it. In its hand, it wields a blade that seems to phase in and out of existence.
+
+19. Codebreaker Sentinel
+Energy Cost: 4GG (4 Generic, 2 Glitch Energy)
+Attack/Defense: 5/5
+Rarity: Rare
+Ability: Whenever Codebreaker Sentinel attacks, you may return a Glitched card from your exile to your archive.
+Flavor Text: “It unravels the mysteries of lost data.”
+Prompt: A hulking, robotic sentinel with a massive, glowing key-shaped weapon. Its chest is adorned with spinning, circular glyphs that emit faint streams of code. In the background, corrupted pathways are illuminated as it unlocks hidden potential.
+
+20. Corrupted Avatar
+Energy Cost: 7G (7 Generic, 1 Glitch Energy)
+Attack/Defense: 7/7
+Rarity: Mythic Rare
+Ability: Flying, Trample. When Corrupted Avatar enters the Grid, mill 5 cards.
+Flavor Text: “An ancient presence, awakened and broken.”
+Prompt: A colossal, angelic figure with shattered wings and a body fractured into glowing shards of corrupted data. Streams of static energy flow from its form, and its eyes glow a piercing white. Below it, the Grid collapses, consumed by the sheer magnitude of its presence.
