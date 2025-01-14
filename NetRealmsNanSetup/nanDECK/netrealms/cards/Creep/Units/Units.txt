@@ -1,0 +1,160 @@
+Anonymous Leaker
+Energy Cost: 2C (2 Generic, 1 Creep Energy)
+Attack/Defense: 2/2
+Rarity: Common
+Ability: Tap: Exile the top card of target opponent's archive. You may look at and play that card until the end of your next turn.
+Flavor Text: “The truth will come out, even if it’s buried deep.”
+
+Clickbait Lurker
+Energy Cost: 1C (1 Generic, 1 Creep Energy)
+Attack/Defense: 1/3
+Rarity: Common
+Ability: Whenever Clickbait Lurker blocks, target opponent mills 2 cards.
+Flavor Text: “It knows how to draw you in, whether you like it or not.”
+
+Doxxing Phantom
+Energy Cost: 3C (3 Generic, 1 Creep Energy)
+Attack/Defense: 2/4
+Rarity: Uncommon
+Ability: When Doxxing Phantom enters the Grid, target opponent reveals their hand. Choose a card from it. That player discards that card.
+Flavor Text: “It feeds on your vulnerabilities, leaving you exposed.”
+
+Drama Stirrer
+Energy Cost: 2CC (2 Generic, 2 Creep Energy)
+Attack/Defense: 3/2
+Rarity: Rare
+Ability: Whenever a Unit enters the Grid, each opponent loses 1 Integrity.
+Flavor Text: “A single whisper can create an avalanche.”
+
+Catfish Predatrix
+Energy Cost: 4C (4 Generic, 1 Creep Energy)
+Attack/Defense: 4/4
+Rarity: Rare
+Ability: When Catfish Predatrix enters the Grid, you may exchange control of it with target opponent's Unit until the end of your next turn.
+Flavor Text: “What you see isn’t always what you get.”
+
+Sock Puppet Army
+Energy Cost: 2C (2 Generic, 1 Creep Energy)
+Attack/Defense: 1/1
+Rarity: Common
+Ability: When Sock Puppet Army enters the Grid, create two 1/1 “Puppet” tokens.
+Flavor Text: “A single voice, multiplied and magnified.”
+
+Cancel Construct
+Energy Cost: 5C (5 Generic, 1 Creep Energy)
+Attack/Defense: 4/5
+Rarity: Rare
+Ability: When Cancel Construct enters the Grid, exile target Unit. If it was Shielded, exile it permanently.
+Flavor Text: “Once it starts, there’s no escape.”
+
+Spam Bot Swarm
+Energy Cost: 1C (1 Generic, 1 Creep Energy)
+Attack/Defense: 1/1
+Rarity: Common
+Ability: Tap: Create a 1/1 “Spam Token” with “This Unit cannot block.”
+Flavor Text: “They’re endless and unavoidable.”
+
+Parasocial Devotee
+Energy Cost: 3C (3 Generic, 1 Creep Energy)
+Attack/Defense: 3/2
+Rarity: Uncommon
+Ability: When Parasocial Devotee attacks, you may pay 1C. If you do, draw a card.
+Flavor Text: “Their loyalty knows no limits—even when it should.”
+
+Keyboard Warrior
+Energy Cost: 2C (2 Generic, 1 Creep Energy)
+Attack/Defense: 2/3
+Rarity: Common
+Ability: Tap: Target opponent mills 1 card for each card you drew this turn.
+Flavor Text: “Fighting battles one post at a time.”
+
+Darkweb Broker
+Energy Cost: 3CC (3 Generic, 2 Creep Energy)
+Attack/Defense: 3/3
+Rarity: Rare
+Ability: Tap: Exile a card from your archive. Create a 2/2 “Black Market Dealer” token.
+Flavor Text: “Secrets have a price.”
+
+Influencer Hunter
+Energy Cost: 4C (4 Generic, 1 Creep Energy)
+Attack/Defense: 5/3
+Rarity: Rare
+Ability: Whenever Influencer Hunter deals damage to a player, exile target Unit they control.
+Flavor Text: “No follower count can protect you.”
+
+Creep Dragon
+Energy Cost: 6CC (6 Generic, 2 Creep Energy)
+Attack/Defense: 7/7
+Rarity: Mythic Rare
+Ability: Flying. When Creep Dragon attacks, target opponent exiles the top three cards of their archive.
+Flavor Text: "It watches from the shadows, a predator of secrets."
+
+Malware Infector
+Energy Cost: 2C (2 Generic, 1 Creep Energy)
+Attack/Defense: 3/1
+Rarity: Common
+Ability: When Malware Infector enters the Grid, target opponent's Unit becomes Glitched until the end of your next turn.
+Flavor Text: “One click, and the infection spreads.”
+
+Phishing Fiend
+Energy Cost: 3C (3 Generic, 1 Creep Energy)
+Attack/Defense: 2/3
+Rarity: Uncommon
+Ability: When Phishing Fiend deals damage to a player, you may draw a card and discard a card.
+Flavor Text: “It promises riches, but you’ll only lose everything.”
+
+Forum Flamewalker
+Energy Cost: 4C (4 Generic, 1 Creep Energy)
+Attack/Defense: 4/3
+Rarity: Rare
+Ability: Whenever a Unit becomes damaged, its controller mills a card.
+Flavor Text: “They throw matches into every fire they see.”
+
+Data Breach Specter
+Energy Cost: 5C (5 Generic, 1 Creep Energy)
+Attack/Defense: 3/5
+Rarity: Rare
+Ability: Flying. When Data Breach Specter enters the Grid, exile the top three cards of each opponent's archive.
+Flavor Text: “It takes what you thought was secure and makes it public.”
+
+Pop-Up Poltergeist
+Energy Cost: 2C (2 Generic, 1 Creep Energy)
+Attack/Defense: 1/4
+Rarity: Uncommon
+Ability: Tap: Each opponent loses 1 Integrity unless they discard a card.
+Flavor Text: “It haunts your screen, no matter how many times you close it.”
+
+Black Hat Hacker
+Energy Cost: 3C (3 Generic, 1 Creep Energy)
+Attack/Defense: 2/3
+Rarity: Rare
+Ability: Tap: Exile a card from an opponent’s archive. Create a 1/1 “Glitched File” token.
+Flavor Text: “They work in the shadows, dismantling the Grid piece by piece.”
+
+Rumor Swarm
+Energy Cost: 3CC (3 Generic, 2 Creep Energy)
+Attack/Defense: 3/3
+Rarity: Rare
+Ability: Whenever a card is exiled from an opponent's archive, create a 1/1 “Rumor Token.”
+Flavor Text: “Whispers grow louder, until they drown out the truth.”
+
+Exposé Revenant
+Energy Cost: 5CC (5 Generic, 2 Creep Energy)
+Attack/Defense: 6/4
+Rarity: Mythic Rare
+Ability: Whenever Exposé Revenant attacks, target opponent reveals their hand. You may choose a card from it and exile it.
+Flavor Text: “Some secrets refuse to stay buried.”
+
+Crimson Scammer
+Energy Cost: 2C (2 Generic, 1 Creep Energy)
+Attack/Defense: 3/1
+Rarity: Common
+Ability: When Crimson Scammer enters the Grid, each opponent mills 1 card.
+Flavor Text: “It promises riches but delivers ruin.”
+
+Underworld Forum Lord
+Energy Cost: 6CC (6 Generic, 2 Creep Energy)
+Attack/Defense: 5/5
+Rarity: Mythic Rare
+Ability: At the beginning of your end step, exile the top card of each opponent's archive. For each card exiled this way, create a 2/2 “Corrupt Moderator” token.
+Flavor Text: “Every thread leads back to them, pulling the strings in the dark.”

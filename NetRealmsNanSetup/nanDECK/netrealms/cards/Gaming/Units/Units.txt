@@ -1,0 +1,139 @@
+Pixel Knight
+Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+Attack/Defense: 3/2
+Rarity: Common
+Ability: First strike.
+Flavor Text: "Defending the digital realms, one pixel at a time."
+
+Respawn Scout
+Energy Cost: 1G (1 Generic, 1 Gaming Energy)
+Attack/Defense: 1/1
+Rarity: Common
+Ability: When Respawn Scout dies, return it to your hand.
+Flavor Text: "Failure is just a checkpoint."
+
+Critical Striker
+Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+Attack/Defense: 4/2
+Rarity: Uncommon
+Ability: Whenever Critical Striker attacks, it gains +2/+0 until end of turn.
+Flavor Text: "Victory favors the bold—and the lucky."
+
+Glitch Dragon
+Energy Cost: 6GG (6 Generic, 2 Gaming Energy)
+Attack/Defense: 7/7
+Rarity: Mythic Rare
+Ability: Flying, Trample. Whenever Glitch Dragon deals combat damage to a player, draw a card.
+Flavor Text: "Even dragons adapt to the endless levels of the gaming grid."
+
+Avatar Hero
+Energy Cost: 4G (4 Generic, 1 Gaming Energy)
+Attack/Defense: 5/5
+Rarity: Rare
+Ability: When Avatar Hero enters the Grid, choose a player. That player creates a 1/1 "Sidekick" token with Shielded.
+Flavor Text: "Every hero needs a loyal sidekick."
+
+Dungeon Crawler
+Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+Attack/Defense: 2/3
+Rarity: Uncommon
+Ability: Whenever Dungeon Crawler deals combat damage to a player, you may search your archive for an Equipment card and put it into your hand.
+Flavor Text: "Treasure always lies just behind the next corner."
+
+AFK Ranger
+Energy Cost: 1G (1 Generic, 1 Gaming Energy)
+Attack/Defense: 0/4
+Rarity: Common
+Ability: AFK Ranger can't attack or block but has "Tap: Gain 1 Integrity."
+Flavor Text: "They may be away, but they're still contributing."
+
+Speedrun Assassin
+Energy Cost: 2GG (2 Generic, 2 Gaming Energy)
+Attack/Defense: 4/1
+Rarity: Rare
+Ability: Haste. When Speedrun Assassin deals combat damage to a player, untap it.
+Flavor Text: "Beating records, one strike at a time."
+
+Beta Tester
+Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+Attack/Defense: 2/3
+Rarity: Common
+Ability: Tap: Target Unit gains Debugged until end of turn.
+Flavor Text: "They see the flaws no one else notices."
+
+Rage Quitter
+Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+Attack/Defense: 5/1
+Rarity: Uncommon
+Ability: Trample. Rage Quitter can't block.
+Flavor Text: "Anger is a strategy—just not a good one."
+
+Boss Monster
+Energy Cost: 5G (5 Generic, 1 Gaming Energy)
+Attack/Defense: 6/6
+Rarity: Rare
+Ability: When Boss Monster enters the Grid, all other Units get -1/-1 until end of turn.
+Flavor Text: "The fight’s just getting started."
+
+Level-Up Warrior
+Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+Attack/Defense: 2/2
+Rarity: Common
+Ability: At the beginning of your upkeep, put a +1/+1 counter on Level-Up Warrior.
+Flavor Text: "Grinding through battles, gaining strength with every fight."
+
+Patch Notes Guru
+Energy Cost: 3GG (3 Generic, 2 Gaming Energy)
+Attack/Defense: 2/5
+Rarity: Rare
+Ability: When Patch Notes Guru enters the Grid, choose one: buff all Units by +1/+1, or nerf all Units by -1/-1 until end of turn.
+Flavor Text: "The digital balance keeper."
+
+Stream Sniper
+Energy Cost: 1G (1 Generic, 1 Gaming Energy)
+Attack/Defense: 1/1
+Rarity: Common
+Ability: When Stream Sniper enters the Grid, look at the top card of your opponent's archive.
+Flavor Text: "Always watching, always waiting."
+
+RNG Manipulator
+Energy Cost: 4G (4 Generic, 1 Gaming Energy)
+Attack/Defense: 3/3
+Rarity: Rare
+Ability: When RNG Manipulator enters the Grid, roll a six-sided die. Draw cards equal to the result.
+Flavor Text: "Luck isn’t random when you know the code."
+
+Lag Beast
+Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+Attack/Defense: 3/5
+Rarity: Uncommon
+Ability: Units your opponent controls enter the Grid tapped.
+Flavor Text: "It thrives on delay and frustration."
+
+Arcade Brawler
+Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+Attack/Defense: 4/3
+Rarity: Common
+Ability: Whenever Arcade Brawler blocks or is blocked, you may pay 1 Energy to give it +2/+0 until end of turn.
+Flavor Text: "Punch, kick, win—repeat."
+
+Memory Corruptor
+Energy Cost: 4GG (4 Generic, 2 Gaming Energy)
+Attack/Defense: 2/4
+Rarity: Rare
+Ability: When Memory Corruptor enters the Grid, target player mills cards equal to the number of Units they control.
+Flavor Text: "It rewrites your past, leaving you defenseless."
+
+Savepoint Guardian
+Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+Attack/Defense: 0/6
+Rarity: Uncommon
+Ability: Shielded. Tap: Target Unit gains Indestructible until end of turn.
+Flavor Text: "A beacon of safety in an unforgiving world."
+
+Final Boss Avatar
+Energy Cost: 8GG (8 Generic, 2 Gaming Energy)
+Attack/Defense: 8/8
+Rarity: Mythic Rare
+Ability: Flying, Trample. When Final Boss Avatar enters the Grid, destroy all other Units.
+Flavor Text: "The final stage awaits—are you ready?"
