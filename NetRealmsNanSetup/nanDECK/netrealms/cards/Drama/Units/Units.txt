@@ -1,0 +1,138 @@
+Queen of Cancelation
+Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+Rarity: Mythic Rare
+Attack/Defense: 5/4
+Ability: When Queen of Cancelation enters the Grid, choose a Unit. Until the end of the game, that Unit cannot attack, block, or activate abilities.
+Flavor Text: "One tweet, one downfall."
+
+Tea Spiller
+Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 2/2
+Ability: When Tea Spiller enters the Grid, draw a card.
+Flavor Text: "It’s piping hot, and everyone’s watching."
+
+Subtweet Assassin
+Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Attack/Defense: 3/2
+Ability: Tap: Deal 2 damage to a Unit that has already attacked this turn.
+Flavor Text: "Sharp words hit harder when they’re vague."
+
+Clout Chaser
+Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 2/1
+Ability: Whenever Clout Chaser attacks, gain 1 Integrity.
+Flavor Text: "Fame is fleeting, but the chase never ends."
+
+Flame War General
+Energy Cost: 5DE (5 Generic, 1 Drama Energy)
+Rarity: Rare
+Attack/Defense: 6/4
+Ability: Units you control gain +2/+0 during your turn.
+Flavor Text: "Fueled by chaos, armed with outrage."
+
+Apology Video Star
+Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+Rarity: Rare
+Attack/Defense: 2/3
+Ability: Tap: Regain 2 Integrity.
+Flavor Text: "I’m here to take accountability... mostly."
+
+Drama Channel Gossipmonger
+Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 1/3
+Ability: Tap: Draw a card if an opponent controls a Unit with Drama Energy.
+Flavor Text: "Always in the know, never in the clear."
+
+Receipts Collector
+Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Attack/Defense: 2/2
+Ability: Whenever an opponent activates an ability, you may pay 1. If you do, draw a card.
+Flavor Text: "Screenshots never lie—unless they’re cropped."
+
+The Gaslighter
+Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+Rarity: Rare
+Attack/Defense: 3/3
+Ability: Target Unit an opponent controls loses all abilities until your next turn.
+Flavor Text: "Are you sure that’s what happened?"
+
+Petty Argument Goblin
+Energy Cost: 1DE (1 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 1/1
+Ability: Tap: Target opponent loses 1 Integrity.
+Flavor Text: "Why stop when I’m winning?"
+
+Viral Callout Champion
+Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+Rarity: Rare
+Attack/Defense: 4/3
+Ability: When Viral Callout Champion enters the Grid, target Unit gains -3/-3 until your next turn.
+Flavor Text: "They said it, and the internet saw."
+
+Keyboard Crusader
+Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 2/2
+Ability: Whenever an opponent activates an ability, Keyboard Crusader gains +1/+1 until end of turn.
+Flavor Text: "One argument at a time, the internet will be saved."
+
+Drama Magnet
+Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Attack/Defense: 3/3
+Ability: Whenever a Unit enters the Grid, Drama Magnet gains +1/+0 until the end of turn.
+
+Gatekeeping Sentinel
+Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 2/2
+Ability: Tap: Target Unit cannot attack or block this turn unless its controller pays 1 Energy.
+Flavor Text: "True fans only."
+
+Anonymous Whisperer
+Energy Cost: 1DE (1 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 1/2
+Ability: Tap: Target Unit gains -1/-1 until the end of turn.
+Flavor Text: "Behind every rumor, there’s a whisper in the dark."
+
+Dramageddon Witness
+Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Attack/Defense: 2/4
+Ability: When Dramageddon Witness enters the Grid, draw a card.
+Flavor Text: "They didn’t start the fire, but they’re here to watch it burn."
+
+Toxic Threadmaster
+Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+Rarity: Rare
+Attack/Defense: 3/5
+Ability: Tap: Choose a Unit. It cannot attack or block until your next turn.
+Flavor Text: "Once you’re tangled, there’s no escape."
+
+The Scandalous Shadow
+Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+Rarity: Common
+Attack/Defense: 2/1
+Ability: When The Scandalous Shadow attacks, target opponent loses 1 Integrity.
+Flavor Text: "In the darkness, secrets come to light."
+
+The Clapback King
+Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+Rarity: Rare
+Attack/Defense: 4/2
+Ability: When The Clapback King enters the Grid, deal 2 damage to a Unit or Player.
+Flavor Text: "They always have the last word."
+
+The Exposer
+Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+Rarity: Mythic Rare
+Attack/Defense: 5/5
+Ability: When The Exposer enters the Grid, all opponent-controlled Units lose all abilities until the end of your next turn.
+Flavor Text: "Nothing stays hidden forever."
