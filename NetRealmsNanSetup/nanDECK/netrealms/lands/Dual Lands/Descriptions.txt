@@ -1,0 +1,47 @@
+Darknet Nexus
+Type: Land – Dual (Creep/Code Energy)
+Rarity: Rare
+Ability:
+Darknet Nexus enters the Grid tapped unless you pay 1 Integrity.
+Tap: Add 1C (1 Creep Energy) or 1CO (1 Code Energy).
+Flavor Text: "At the crossroads of shadows and firewalls lies the true core of the hidden web."
+
+Fractured Repository
+Type: Land – Dual (Glitch/Code Energy)
+Rarity: Rare
+Ability:
+Fractured Repository enters the Grid tapped unless you exile the top card of your archive.
+Tap: Add 1G (1 Glitch Energy) or 1CO (1 Code Energy).
+Flavor Text: "The key to innovation lies in the fractures of perfection."
+
+Cinema Archive Nexus
+Type: Land – Dual (Movie/Code Energy)
+Rarity: Rare
+Ability:
+Cinema Archive Nexus enters the Grid tapped unless you reveal a Movie or Code Unit from your hand.
+Tap: Add 1MO (1 Movie Energy) or 1CO (1 Code Energy).
+Flavor Text: "Where the magic of storytelling meets the precision of code, legends are immortalized in endless loops."
+
+Haunted Cineplex
+Type: Land – Dual (Creep/Movie Energy)
+Rarity: Rare
+Ability:
+Haunted Cineplex enters the Grid tapped unless you reveal a Creep or Movie Unit from your hand.
+Tap: Add 1CR (1 Creep Energy) or 1MO (1 Movie Energy).
+Flavor Text: "In the shadows between the reels, the stories become too real to escape."
+
+Streaming Arena
+Type: Land – Dual (Gaming/Drama Energy)
+Rarity: Rare
+Ability:
+Streaming Arena enters the Grid tapped unless you control a Gaming or Drama Unit.
+Tap: Add 1GM (1 Gaming Energy) or 1DR (1 Drama Energy).
+Flavor Text: "Where victory and betrayal are broadcast to millions, every move is a spectacle."
+
+Fractured Arcade
+Type: Land – Dual (Gaming/Glitch Energy)
+Rarity: Rare
+Ability:
+Fractured Arcade enters the Grid tapped unless you’ve milled a card this turn.
+Tap: Add 1GM (1 Gaming Energy) or 1GL (1 Glitch Energy).
+Flavor Text: "Where high scores are haunted by broken pixels and echoes of corrupted code."
