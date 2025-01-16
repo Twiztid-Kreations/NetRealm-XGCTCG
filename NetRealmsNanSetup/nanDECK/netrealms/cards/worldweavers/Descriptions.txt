@@ -1,0 +1,58 @@
+2. Lyra, Chaos Puppeteer
+Casting Cost: 3DD (3 Generic, 2 Drama Energy)
+Starting Loyalty: 5
+Abilities:
+[+1] Stir the Pot: Each player draws a card, then discards a card. For each card discarded this way, you gain 1 Integrity.
+[-3] Frenzied Allegiance: Gain control of target Unit until end of turn. It gains Haste and “When this Unit deals damage, exile it.”
+[-8] Viral Scandal: Destroy all Units target player controls. For each Unit destroyed this way, create a 1/1 “Drama Fiend” token.
+Flavor Text: “I don’t create chaos. I just hold the strings.”
+
+3. ProtoMyke, Codebreaker Warden
+Casting Cost: 4GG (4 Generic, 2 Glitch Energy)
+Starting Loyalty: 6
+Abilities:
+[+2] Data Rewrite: Mill three cards, then return one Glitch card from your archive to your hand.
+[-3] Virus Uplink: Exile up to two target Units. Their owners mill cards equal to their combined energy costs.
+[-9] System Reset: Return all Glitch cards from your exile to the Grid under your control. They gain Haste until end of turn.
+Flavor Text: “Corruption isn’t a flaw; it’s the key to perfection.”
+4. Rich, Master of High Scores
+Casting Cost: 3GG (3 Generic, 2 Gaming Energy)
+Starting Loyalty: 4
+Abilities:
+[+1] Achievement Unlocked: Create a “1/1 Gamerling” token with “This token gets +1/+0 for each Gaming Relic you control.”
+[-2] Co-Op Strategy: Target Unit you control gains +3/+3 and Haste until end of turn.
+[-7] High Score Reset: Search your archive for any number of Gaming Units and put them onto the Grid. Then shuffle your archive.
+Flavor Text: “It’s not about the game. It’s about the glory.”
+
+5. Vexis, Webbed Shadows
+Casting Cost: 4CC (4 Generic, 2 Creep Energy)
+Starting Loyalty: 5
+Abilities:
+[+1] Web of Whispers: Target player reveals their hand. Choose one card from it; they must discard it.
+[-3] Digital Stalker: Create a 2/2 “Shadow Spy” token with “When this token deals combat damage, mill 3 cards.”
+[-10] All-Encompassing Net: Exile all Units in opponents’ archives. Create X 1/1 “Creep Spawn” tokens, where X is the number of cards exiled this way.
+Flavor Text: “The darkest corners hold the brightest secrets.”
+
+6. Xieon, Architect of Code
+Casting Cost: 2CC (2 Generic, 2 Code Energy)
+Starting Loyalty: 3
+Abilities:
+[+1] Blueprint Analysis: Reveal the top card of your archive. If it’s a Code Relic, put it into your hand. Otherwise, mill it.
+[-2] Compiler’s Edge: Create a 3/3 “Program Construct” Unit token with “This token gains +1/+1 for each Code Relic you control.”
+[-6] Endless Execution: Choose a Code card from your archive or exile. You may cast it without paying its energy cost.
+Flavor Text: “Every line of code is a thread in the fabric of reality.”
+
+1. Ashke, Cinematic Visionary
+Casting Cost: 2MM (2 Generic, 2 Movie Energy)
+Starting Loyalty: 4
+Abilities:
+[+1] Blockbuster Insight: Reveal the top two cards of your archive. You may exile one Movie Relic or Unit revealed this way. Add 1M for each card exiled.
+[-2] Epic Montage: Create a 3/3 “Heroic Protagonist” Unit token with “Whenever this token attacks, draw a card.”
+[-7] Grand Finale: Exile up to five target non-Movie Units. For each Unit exiled this way, create a 4/4 “Cinematic Specter” Unit token with Flying.
+Flavor Text: “Every frame tells a story, but the endings are mine to choose.”
+
+
+
+
+
+
