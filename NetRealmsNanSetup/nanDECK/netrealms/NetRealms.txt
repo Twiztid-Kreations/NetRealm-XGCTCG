@@ -4,8 +4,8 @@ Page = 5, 7,PORTRAIT,MV
 CARDSIZE=5,7
 
 ``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Lands
-Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!WorldWeavers
-``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Units
+``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!WorldWeavers
+Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Units
 ``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Relics
 
 line=1,0,0,100%,100%,#FF0000,20%
@@ -44,6 +44,8 @@ TEXT="1-{(DEFENSE)}",[DEFENSE],{8233/250}%,{26333/700}%,{569/5}%,{77533/700}%
 FONT=Satans,11,TB,#FFFFFF
 ;UNIT TYPE
 TEXT="1-{(UNIT TYPE)}",[UNIT TYPE],-4.8%,{6383/350}%,100%,{100/1}%,CENTER,CENTER
+;CARD ICON
+IMAGE="1-{(CARD ICON)}",[CARD ICON],31%,{499/7}%,36.2%,{138/7}%,0,N
 ;Font(snap)
 FONT=Arial,10,TN,#FFFFFF
 ;ABILITY1
@@ -57,7 +59,11 @@ FONT=Satans,8,T,#FFFFFF
 ;FLAVOR TEXT
 TEXT="1-{(FLAVOR TEXT)}",[FLAVOR TEXT],18.8%,{648/7}%,{15483/250}%,{1683/350}%,CENTER,WORDWRAP
 ;COST1
-ICONS="1-{(COST1)}",[COST1],{21033/-500}%,{207/-7}%,{49999/500}%,100%,7%,7%,0,PN
+IMAGE="1-{(COST1)}",[COST1],3.4%,{139/7}%,9.4%,{47/7}%
 ;COST2
-ICONS="1-{(COST1)}",[COST1],{-21233/500}%,{173/-7}%,{49999/500}%,100%,7%,7%,0,NP
+IMAGE="1-{(COST2)}",[COST2],3.2%,{188/7}%,9.4%,{47/7}%
+;COST3
+IMAGE="1-{(COST3)}",[COST3],3.4%,{236/7}%,9.4%,{47/7}%
+;COST4
+IMAGE="1-{(COST4)}",[COST4],3.4%,{285/7}%,9.4%,{47/7}%
 ENDVISUAL
