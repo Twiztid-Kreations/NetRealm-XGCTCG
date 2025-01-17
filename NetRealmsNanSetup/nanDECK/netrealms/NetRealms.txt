@@ -4,8 +4,8 @@ Page = 5, 7,PORTRAIT,MV
 CARDSIZE=5,7
 
 ``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Lands
-Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!WorldWeavers
-``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Units
+``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!WorldWeavers
+Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Units
 ``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Relics
 
 line=1,0,0,100%,100%,#FF0000,20%
