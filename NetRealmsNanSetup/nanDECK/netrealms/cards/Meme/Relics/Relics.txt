@@ -1,0 +1,104 @@
+1. Keyboard Warrior’s Shield
+Casting Cost: 2M
+Rarity: Common
+Ability: Equipped Unit gains +1/+1 and “Whenever this Unit is blocked, draw a card.”
+Flavor Text: “The strongest defense is a snarky comment.”
+Prompt: A brightly colored keyboard, glowing with rainbow backlighting, is raised like a shield. In the reflection of the keyboard, furious typing can be seen alongside exaggerated emojis of rage and laughter. The background is a digital battlefield, with text bubbles flying like arrows.
+
+2. Doomscrolling Device
+Casting Cost: 1M
+Rarity: Common
+Ability: Whenever a player draws a card, they lose 1 Integrity.
+Flavor Text: “One more scroll couldn’t hurt... right?”
+Prompt: A cracked smartphone with a never-ending feed of memes and ominous news headlines. The screen glows eerily, casting an unsettling light on a shadowy room littered with empty energy drink cans and crumpled papers.
+
+3. Cheeseburger of Wisdom
+Casting Cost: 3M
+Rarity: Uncommon
+Ability: Tap: Add 1M. If this energy is used for a Meme Unit, draw a card.
+Flavor Text: “All the answers you seek are between the buns.”
+Prompt: A golden cheeseburger sits atop a glowing pedestal, enshrined as if it were a holy artifact. The cheese drips in slow motion, forming mystical runes as it falls. The background features a crowd of anthropomorphic animals bowing in awe.
+
+4. Unstoppable Trend Engine
+Casting Cost: 5M
+Rarity: Rare
+Ability: At the beginning of your upkeep, create a 1/1 “Viral Meme” token.
+Flavor Text: “You can’t stop what’s already been shared.”
+Prompt: A giant, whirring machine covered in trending hashtags and glowing neon lights. Memes pop out of a conveyor belt at high speed, each glowing with its own unique aura. A crowd of silhouettes eagerly awaits to grab them.
+
+5. Cursed Reply Button
+Casting Cost: 2M
+Rarity: Uncommon
+Ability: Whenever an opponent activates an ability, they lose 1 Integrity.
+Flavor Text: “Never press it, but you always do.”
+Prompt: A broken keyboard key marked “Reply” with glitching cracks spreading from it. Shadows of ominous comments rise from the cracks, forming distorted, ghostly text.
+
+6. Pepegrail of Eternity
+Casting Cost: 3M
+Rarity: Rare
+Ability: All Meme Units you control get +1/+1.
+Flavor Text: “The one grail to rule them all, now in meme form.”
+Prompt: A glowing golden chalice with a familiar green frog face etched into it. The chalice is surrounded by beams of radiant light, and figures dressed in meme-related attire kneel before it.
+
+7. Infinite Scroll
+Casting Cost: 2MM
+Rarity: Rare
+Ability: At the beginning of your turn, draw a card. If this is the third card you’ve drawn this turn, lose 1 Integrity.
+Flavor Text: “You’ll never reach the end.”
+Prompt: A massive scroll unrolling into the void, filled with images, comments, and gifs. It extends infinitely, with distant, blurry content still visible on the horizon.
+
+8. Bottom Text Generator
+Casting Cost: 1M
+Rarity: Common
+Ability: Tap: Target Unit gains +1/+0 until end of turn.
+Flavor Text: “Bottom text.”
+Prompt: An ancient, glowing machine with a giant screen displaying the phrase “BOTTOM TEXT” in bold, pixelated letters. Sparks fly as the machine sputters, but the phrase remains untouched.
+
+9. Distracted Duelist
+Casting Cost: 2M
+Rarity: Common
+Ability: Equipped Unit gets +2/+0 and must attack each turn if able.
+Flavor Text: “Always chasing the next big thing.”
+Prompt: A knight in shining armor, distracted by an attractive figure walking past. Behind him, a dragon breathes fire, but his gaze is locked on the other figure.
+
+10. Dank Archives
+Casting Cost: 4M
+Rarity: Rare
+Ability: Tap: Look at the top three cards of your archive. Put one into your hand and the rest into exile.
+Flavor Text: “Where the rarest memes are kept alive.”
+Prompt: A dimly lit room filled with dusty shelves containing glowing meme relics. A ghostly librarian, wearing sunglasses, hovers between the rows, guarding the ancient treasures.
+
+11. Mega Oof Button
+Casting Cost: 2M
+Rarity: Uncommon
+Ability: Tap: Target player loses 2 Integrity.
+Flavor Text: “Press it, and feel the regret.”
+Prompt: A bright red button labeled “OOF,” surrounded by caution tape. A shadowy figure reaches for it with a hesitant hand as ominous text hovers above: “Are you sure?”
+
+12. Salty Streamer’s Headset
+Casting Cost: 3M
+Rarity: Common
+Ability: Equipped Unit gains +2/+1. If it deals damage, draw a card.
+Flavor Text: “Let the rage fuel you.”
+Prompt: A broken gaming headset with sparks flying from the microphone. A small puddle of tears forms below it, and the words “GG EZ” hover in the background.
+
+13. Power of the Wojak
+Casting Cost: 4M
+Rarity: Rare
+Ability: Meme Units you control gain +2/+0.
+Flavor Text: “One Wojak leads to another.”
+Prompt: A glowing wojak figure standing on a digital mountain, surrounded by a cheering crowd of pixelated memes.
+
+14. Shiba Shrine
+Casting Cost: 3M
+Rarity: Uncommon
+Ability: Add 2M. This mana can only be used for Meme Units or Relics.
+Flavor Text: “Wow. Much shrine. Very holy.”
+Prompt: A glowing shrine with a giant doge statue at its center. Golden coins litter the ground, and glowing emojis hover in the air around it.
+
+15. Internet Historian’s Tome
+Casting Cost: 5M
+Rarity: Mythic Rare
+Ability: Tap: Search your archive for a Meme Unit or Relic, then shuffle your archive.
+Flavor Text: “To understand memes, you must first know their history.”
+Prompt: An ancient, leather-bound book glowing with otherworldly light. Its pages are filled with memes from different eras, from ASCII art to viral images. Figures peer into its glow, transfixed.
