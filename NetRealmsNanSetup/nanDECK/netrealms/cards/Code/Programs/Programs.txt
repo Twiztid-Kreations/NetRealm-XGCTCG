@@ -1,0 +1,160 @@
+Binary Overload
+Casting Cost: 2C (2 Generic, 1 Code Energy)
+Rarity: Uncommon
+Effect: Target player mills 5 cards. If three or more Programs are milled this way, draw a card.
+Flavor Text: "When ones and zeroes collide, chaos is inevitable."
+
+Prompt: A storm of glowing binary code swirls around a central point, forming a vortex of ones and zeroes. In the center of the storm, a figure made entirely of holographic light is suspended, their limbs stretched as if trying to escape. The surrounding background is a mix of dark blues and greens, representing a cyberspace grid with nodes of energy pulsing sporadically. The air crackles with arcs of light, and fragments of data scatter like shards of broken glass.
+
+Debug the Void
+Casting Cost: 3C (3 Generic, 1 Code Energy)
+Rarity: Rare
+Effect: Exile target Unit. Its controller may draw a card.
+Flavor Text: "Some errors can't be fixed—only erased."
+
+Prompt: A sleek, futuristic terminal with a glowing red warning message displayed: "Critical Error Detected." Below it, a black humanoid silhouette begins to dissolve into streams of bright white light, leaving behind nothing but static-filled voids. The edges of the terminal pulse with bright blue energy as the deletion process reaches its peak, causing parts of the cyberspace to stabilize around it.
+
+Overclocked Directive
+Casting Cost: 4C (4 Generic, 1 Code Energy)
+Rarity: Mythic Rare
+Effect: All Units you control gain +2/+0 and haste until end of turn.
+Flavor Text: "Push the system beyond its limits; greatness awaits."
+
+Prompt: A massive, glowing command interface fills the frame, surrounded by holographic screens displaying increasing system performance metrics. Various Units with cybernetic enhancements—humanoids, drones, and beasts—rush forward, their bodies glowing with newly amplified energy. The background is a neon-lit battlefield with data streams flowing like rivers.
+
+Data Purge
+Casting Cost: 1C (1 Generic, 1 Code Energy)
+Rarity: Common
+Effect: Destroy target Relic.
+Flavor Text: "The only solution is a clean slate."
+
+Prompt: A towering, futuristic server stack crumbles into a shower of broken circuits and sparks. Blue and green energy beams shoot out of a handheld device in the foreground, controlled by a figure cloaked in a holographic veil. Behind them, the world is a fractured digital wasteland.
+
+Corrupted Command
+Casting Cost: 3CC (3 Generic, 2 Code Energy)
+Rarity: Rare
+Effect: Gain control of target Unit until end of turn. It gains haste.
+Flavor Text: "One line of code can turn an ally into a pawn."
+
+Prompt: A glowing blue screen with cascading lines of code dominates the image, with a single, ominous red line of text: “COMMAND EXECUTED.” In the background, a massive robotic Unit turns its glowing red eyes toward its former allies, preparing to strike. Glitches ripple across its surface, as if its programming is being overwritten.
+
+Firewall Protocol
+Casting Cost: 2C (2 Generic, 1 Code Energy)
+Rarity: Uncommon
+Effect: Prevent all combat damage that would be dealt this turn.
+Flavor Text: "A wall of code as impenetrable as steel."
+
+Prompt: A luminous barrier of orange and yellow hexagonal patterns stretches across the battlefield, shimmering like an unbreakable shield. Behind it, Units brace for impact as a wave of cybernetic enemies crashes against the wall, their weapons and attacks dissolving into harmless sparks of light.
+
+Recursive Analysis
+Casting Cost: 3C (3 Generic, 1 Code Energy)
+Rarity: Rare
+Effect: Look at the top five cards of your archive. Put one into your hand and the rest into your exile.
+Flavor Text: "The answers lie in the code. Sometimes, you must dig deep to find them."
+
+Prompt: A sleek, futuristic supercomputer hums with energy, its display showing countless lines of rapidly scrolling data. A cybernetic figure studies the output with glowing eyes, their hands moving through holographic projections of archives and schematics. The background is filled with floating orbs representing fragments of knowledge.
+
+Packet Surge
+Casting Cost: 1C (1 Generic, 1 Code Energy)
+Rarity: Common
+Effect: Draw a card, then discard a card.
+Flavor Text: "In the chaos of data transfer, clarity emerges."
+
+Prompt: A chaotic explosion of glowing data packets erupts across the scene, each packet trailing vibrant streaks of light. In the foreground, a hand reaches out, pulling one specific packet from the chaos, while others are left to disintegrate into glowing particles.
+
+Encrypt Reality
+Casting Cost: 5C (5 Generic, 1 Code Energy)
+Rarity: Mythic Rare
+Effect: Units you control gain Hexproof until your next turn.
+Flavor Text: "When the world is hidden, danger cannot find you."
+
+Prompt: The battlefield becomes shrouded in glowing, golden code that forms intricate patterns around every Unit. Opponents' attacks dissolve harmlessly against the shield, their projectiles and weapons disintegrating into harmless streams of energy.
+
+Syntax Error
+Casting Cost: 2C (2 Generic, 1 Code Energy)
+Rarity: Uncommon
+Effect: Counter target Program unless its controller pays an additional 2 Energy.
+Flavor Text: "Even the strongest code can falter with one misplaced line."
+
+Prompt: A glowing red error message dominates a vast screen, with fragments of corrupted data spreading outward like cracks in glass. The error cascades through nearby systems, causing everything around to glitch and shimmer.
+
+Infinite Loop
+Casting Cost: 4C (4 Generic, 1 Code Energy)
+Rarity: Rare
+Effect: Return target Program card from your exile to your archive.
+Flavor Text: "The cycle of creation, destruction, and rebirth exists even in code."
+
+Prompt: Two glowing lines of code chase each other in a perfect circle, forming a loop that pulses with energy. The background is filled with floating, fractured script and cascading lines of fragmented programs. The loop glows brighter than everything else, drawing the viewer's eye to its unending motion.
+
+Compile Failure
+Casting Cost: 1C (1 Generic, 1 Code Energy)
+Rarity: Common
+Effect: Exile target Unit unless its controller pays 1 Energy.
+Flavor Text: "Some code should never see the light of day."
+
+Prompt: A humanoid robot dissolves into fragmented data, its body breaking apart into glowing squares of code. In the background, a large monitor flashes the words “COMPILATION FAILED” in bold red letters. The atmosphere is tense, with sparks of energy crackling as the Unit vanishes.
+
+Algorithmic Precision
+Casting Cost: 3C (3 Generic, 1 Code Energy)
+Rarity: Rare
+Effect: Deal 3 damage to any target. If that target is a Unit, scry 2.
+Flavor Text: "Even the smallest error is a target."
+
+Prompt: A sleek, futuristic sniper rifle glows with digital lines, its barrel aiming at a distant enemy Unit. The weapon fires a pinpoint beam of light, carving through obstacles with surgical precision. The background is a dark, smoky battlefield, illuminated by neon grids and scattered sparks.
+
+Cache Retrieval
+Casting Cost: 2C (2 Generic, 1 Code Energy)
+Rarity: Uncommon
+Effect: Return up to two Relics from your exile to your archive.
+Flavor Text: "The past holds treasures yet untapped."
+
+Prompt: A glowing holographic hand reaches into a shimmering archive of glowing cubes, each containing fragments of forgotten knowledge. The background is filled with floating relics and artifacts, all suspended in the ether of a vast, digital cosmos.
+
+Server Crash
+Casting Cost: 5CC (5 Generic, 2 Code Energy)
+Rarity: Mythic Rare
+Effect: Destroy all Units and Relics. Each player discards their hand, then draws that many cards.
+Flavor Text: "When the server fails, so does the world it sustains."
+
+Prompt: A massive, monolithic server explodes, sending shards of data and sparks of light scattering across the void. Nearby Units and structures disintegrate into particles, their forms dissolving into chaotic streams of code. The explosion illuminates a dark cyberspace, casting everything in stark, blinding light.
+
+Code Injection
+Casting Cost: 2C (2 Generic, 1 Code Energy)
+Rarity: Common
+Effect: Target Unit gains +2/+2 and First Strike until end of turn.
+Flavor Text: "A few lines of code can rewrite an entire destiny."
+
+Prompt: A syringe filled with glowing green code pierces the arm of a cybernetic warrior. The warrior’s body begins to pulse with energy, its circuits glowing brighter. Behind them, their allies look on in awe, as though watching an unstoppable force come to life.
+
+System Reboot
+Casting Cost: 6C (6 Generic, 1 Code Energy)
+Rarity: Rare
+Effect: Shuffle all cards from your exile into your archive. Draw a card.
+Flavor Text: "When everything breaks, start from scratch."
+
+Prompt: A massive holographic sphere glows with swirling lines of code, resetting the entire digital landscape around it. Fractured data streams reverse their direction, and broken machines begin to reconstruct themselves as the reboot progresses. The scene feels hopeful, as though a new beginning is underway.
+
+Decrypt Secrets
+Casting Cost: 3C (3 Generic, 1 Code Energy)
+Rarity: Rare
+Effect: Look at target opponent’s hand. You may choose a Program card from it and cast it without paying its casting cost.
+Flavor Text: "Every locked code has a key."
+
+Prompt: A glowing holographic key rotates in the foreground, its surface covered with intricate glyphs and runes. Behind it, lines of encrypted text unravel into legible script, revealing hidden truths. The atmosphere is tense, with a sense of forbidden knowledge being uncovered.
+
+Patch Update
+Casting Cost: 1C (1 Generic, 1 Code Energy)
+Rarity: Common
+Effect: Target Unit you control gains +1/+1 until end of turn. Draw a card.
+Flavor Text: "Even perfection can be improved."
+
+Prompt: A sleek, cybernetic warrior kneels as lines of glowing green code flow into their body. Their armor shines brighter with each update, and their mechanical components hum with newfound efficiency. Behind them, a digital skyline looms.
+
+Compile the Future
+Casting Cost: 4C (4 Generic, 1 Code Energy)
+Rarity: Mythic Rare
+Effect: Exile the top ten cards of your archive. You may cast any number of Program cards exiled this way without paying their casting costs.
+Flavor Text: "Build tomorrow, one line at a time."
+
+Prompt: A massive, glowing compiler dominates the scene, its towering form surrounded by swirling fragments of data. Around it, digital constructs and Units form from pure energy, taking shape as lines of glowing code solidify into real forms. The air is charged with energy, and the scene radiates potential.
+
