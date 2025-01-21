@@ -1,0 +1,172 @@
+1. Pixelated Realms
+Casting Cost: 2GG (2 Generic, 2 Gaming Energy)
+Rarity: Mythic
+Ability: Units you control gain +1/+1 for each Gaming Energy you control. Whenever a Gaming Energy is spent, draw a card.
+Flavor Text: "In the realm of pixels, every adventure begins anew."
+Prompt: A glowing pixelated landscape stretches into the distance, featuring retro 8-bit mountains, a sun with jagged rays, and scattered treasures shimmering like jewels. In the center stands an adventurer holding a glowing sword, rendered in a mix of 8-bit and modern 3D textures.
+
+2. Glitchworld Arena
+Casting Cost: 4GG (4 Generic, 2 Gaming Energy)
+Rarity: Mythic
+Ability: When Glitchworld Arena enters the Grid, exile all Units on the Grid. At the beginning of your upkeep, return a Unit from exile under its owner’s control.
+Flavor Text: "Battle amidst the errors—only the strongest will respawn."
+Prompt: A fragmented battlefield where platforms and stages float mid-air. Characters flicker and glitch, as if reality itself is unstable. Energy swirls between the combatants, showing remnants of gaming worlds past and present.
+
+3. Respawn Protocol
+Casting Cost: 2G (2 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: Whenever a Unit you control dies, return it to your hand at the beginning of your next end step.
+Flavor Text: "Death is just a checkpoint to victory."
+Prompt: A glowing respawn portal emerges from the ground, surrounded by holographic runes. A warrior stands up from the center, revitalized and ready to fight again.
+
+4. Achievement Unlocked
+Casting Cost: 1G (1 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: When Achievement Unlocked enters the Grid, choose a permanent type. Double all triggers from that type.
+Flavor Text: "One victory down, a lifetime of rewards to go."
+Prompt: A gleaming trophy with glowing particles rising from it, accompanied by a banner displaying “Victory!” in bold, shimmering letters.
+
+5. Arcade Revival
+Casting Cost: 3G (3 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: At the beginning of your end step, create a 1/1 Pixel Warrior token with "This Unit gains +1/+0 for each Gaming Energy you control."
+Flavor Text: "Insert coin to begin the battle."
+Prompt: A retro arcade machine surrounded by energy streams. Tiny pixelated warriors jump out from the machine’s screen, ready to join the fray.
+
+6. Boss Battle Prelude
+Casting Cost: 5GG (5 Generic, 2 Gaming Energy)
+Rarity: Rare
+Ability: At the beginning of your combat step, choose an opponent’s Unit. That Unit cannot block this turn and loses all abilities until the end of the turn.
+Flavor Text: "Prepare your power-ups—this fight will test your limits."
+Prompt: A massive, ominous shadow looms over a glowing battlefield, representing a larger-than-life boss monster. Characters are shown gathering their weapons in anticipation.
+
+7. Game Over Reset
+Casting Cost: 4G (4 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: When Game Over Reset enters the Grid, shuffle all Units into their owners' libraries. Each player may draw a card.
+Flavor Text: "The end is just the beginning."
+Prompt: A shattered game screen with the words “GAME OVER” flickering faintly. Glowing hands reach through the cracks, pulling the shattered pieces back into place.
+
+8. Extra Life
+Casting Cost: 2G (2 Generic, 1 Gaming Energy)
+Rarity: Uncommon
+Ability: If a Unit you control would die, exile it instead. Return it to the Grid at the beginning of your next end step with an additional +1/+1 counter.
+Flavor Text: "One more chance to win it all."
+Prompt: A glowing 1-Up mushroom-like symbol radiates light in a dark dungeon, symbolizing hope and survival.
+
+9. Digital Avatar Bond
+Casting Cost: 3G (3 Generic, 1 Gaming Energy)
+Rarity: Uncommon
+Ability: Units you control gain "Tap: Add one Gaming Energy."
+Flavor Text: "Your character, your rules."
+Prompt: A glowing humanoid avatar, shimmering with digital effects, stands ready to battle, surrounded by a grid-like hologram.
+
+10. High Score Pursuit
+Casting Cost: 1G (1 Generic, 1 Gaming Energy)
+Rarity: Uncommon
+Ability: Whenever you deal damage to a player, scry 1 and gain 1 Integrity.
+Flavor Text: "Each hit brings you closer to the top."
+Prompt: A glowing scoreboard with a character’s name rising to the top, leaving defeated competitors in the dust.
+
+11. E-Sports Arena
+Casting Cost: 3G (3 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: At the beginning of your combat step, choose one: give a Unit you control +2/+2, or tap an opponent’s Unit.
+Flavor Text: "The crowd roars for the ultimate champion."
+Prompt: A high-tech stadium filled with cheering digital fans and glowing banners celebrating a fierce battle.
+
+12. Speedrun Momentum
+Casting Cost: 2G (2 Generic, 1 Gaming Energy)
+Rarity: Uncommon
+Ability: At the beginning of your upkeep, draw a card if you have cast three or more spells this turn.
+Flavor Text: "No glitches, only precision."
+Prompt: A character races through an obstacle course, their glowing feet leaving behind streaks of energy.
+
+13. Final Boss Call
+Casting Cost: 6G (6 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: At the beginning of your combat step, target Unit you control gains “Double Strike” and “Trample” until end of turn.
+Flavor Text: "The ultimate showdown begins."
+Prompt: A towering, armored enemy with glowing weak points stands at the end of a treacherous path.
+
+Let me know if you'd like the remaining 10 to be listed!
+
+
+
+
+
+
+
+You said:
+continue
+ChatGPT said:
+ChatGPT
+14. Glowing Loot Chest
+Casting Cost: 1G (1 Generic, 1 Gaming Energy)
+Rarity: Uncommon
+Ability: At the beginning of your end step, if a Unit you control dealt damage to an opponent this turn, create a Treasure token.
+Flavor Text: "Victory comes with its rewards."
+Prompt: A golden chest with glowing runes, radiating beams of light. Surrounding it are scattered pixelated coins and gems, with a faint silhouette of an adventurer reaching out to claim the loot.
+
+15. Power-Up Infusion
+Casting Cost: 2G (2 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: Enchanted Unit gains +3/+3 and "If this Unit would leave the Grid, return it to its owner’s hand instead."
+Flavor Text: "With every level gained, strength follows."
+Prompt: A glowing orb of power envelops a character, their silhouette becoming larger and more menacing as sparks of light spiral outward.
+
+16. Pixel Storm
+Casting Cost: 4G (4 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: At the beginning of your upkeep, create a 2/2 Pixel Elemental Unit token. Pixel Elementals you control have “This Unit can’t be blocked except by two or more Units.”
+Flavor Text: "A cascade of pixels to overwhelm the competition."
+Prompt: A swirling vortex of pixelated storms cascading across a battlefield, forming humanoid shapes with glowing, unformed faces.
+
+17. Checkpoint Save
+Casting Cost: 3G (3 Generic, 1 Gaming Energy)
+Rarity: Uncommon
+Ability: When Checkpoint Save enters the Grid, choose a Unit. If that Unit dies, return it to the Grid under your control with a +1/+1 counter on it.
+Flavor Text: "Every step forward is a step worth remembering."
+Prompt: A glowing save-point crystal hovering in mid-air. Beneath it lies a worn path, flanked by glowing footprints leading forward into the unknown.
+
+18. Lag Shield
+Casting Cost: 2G (2 Generic, 1 Gaming Energy)
+Rarity: Common
+Ability: Enchanted Unit gains Hexproof. If an opponent targets enchanted Unit with a spell, counter that spell unless they pay 2 Integrity.
+Flavor Text: "Lag—it’s the ultimate defense mechanism."
+Prompt: A knight with shimmering, pixelated armor stands at the ready, their shield flickering between visible and invisible states.
+
+19. Arcade Cabinet Nexus
+Casting Cost: 3G (3 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: At the beginning of your end step, draw a card if you spent Gaming Energy this turn.
+Flavor Text: "A thousand worlds await beyond the screen."
+Prompt: An old-school arcade machine with glowing joysticks and buttons, its screen radiating colorful beams of light. The cabinet seems to dissolve into a swirling vortex of alternate realities.
+
+20. Health Bar Overflow
+Casting Cost: 2G (2 Generic, 1 Gaming Energy)
+Rarity: Common
+Ability: Enchanted Unit gains +2/+2 and “Whenever this Unit deals combat damage to a player, you gain that much Integrity.”
+Flavor Text: "Sometimes, all you need is a boost to outlast the opponent."
+Prompt: A glowing green health bar fills to the brim above a glowing warrior, surrounded by pixelated hearts floating in the air.
+
+21. Controller’s Grip
+Casting Cost: 3G (3 Generic, 1 Gaming Energy)
+Rarity: Uncommon
+Ability: At the beginning of your upkeep, you may gain control of target tapped Unit until end of turn.
+Flavor Text: "In the hands of a skilled player, even foes become allies."
+Prompt: A ghostly, glowing hand tightly grips a classic controller, with energy tendrils extending from the buttons to surrounding characters, who now follow the controller’s will.
+
+22. Retro Revival
+Casting Cost: 4G (4 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: When Retro Revival enters the Grid, create a 3/3 Retro Warrior token with “When this Unit attacks, exile target artifact.”
+Flavor Text: "Old-school tactics never go out of style."
+Prompt: A glowing pixelated knight emerges from a retro game console, holding a sword alight with neon power. The console’s screen shimmers with static.
+
+23. Final Victory Banner
+Casting Cost: 6G (6 Generic, 1 Gaming Energy)
+Rarity: Rare
+Ability: Units you control gain +1/+1 for each Gaming Energy you control. When Final Victory Banner leaves the Grid, exile all Units on the Grid.
+Flavor Text: "Raise the flag of triumph—it’s game over for your foes."
+Prompt: A towering golden banner rises above a battlefield, with glowing symbols representing high scores and trophies, emanating beams of light into the skies.

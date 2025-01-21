@@ -1,0 +1,160 @@
+1. Bugged Backup
+Casting Cost: 3GG (3 Generic, 2 Glitch Energy)
+Rarity: Mythic
+Ability: Whenever a Unit you control dies, you may exile it. If you do, create a token that's a copy of that Unit except it’s 1/1 and has “Glitch Energy: Exile this token at the beginning of your next end step.”
+Flavor Text: “Restoration doesn't always work as intended.”
+Prompt: A holographic figure half-formed with static and missing pixels, surrounded by flickering backup drives. The scene exudes a sense of urgency as the hologram begins to dissolve, creating ghostly duplicates.
+
+2. Code Jam
+Casting Cost: 2G (2 Generic, 1 Glitch Energy)
+Rarity: Common
+Ability: Units can't attack or block as long as they share a name with another Unit on the Grid.
+Flavor Text: “Collisions in the code leave everything stuck in place.”
+Prompt: Rows of identical figures frozen in mid-step, their digital bodies tangled in a mess of overlapping data. A chaotic storm of code fragments hovers around them.
+
+3. Corrupted Cache
+Casting Cost: 1G (1 Generic, 1 Glitch Energy)
+Rarity: Common
+Ability: At the beginning of your upkeep, exile the top card of your archive. If it’s a Unit card, you may put it into your hand.
+Flavor Text: “You never know what you’ll find in a corrupted system.”
+Prompt: A glowing cache box with a menacing aura, its lid barely containing jagged streams of glitchy code. Shadowy hands reach out toward the box as if drawn to its dark allure.
+
+4. Crash Sequence
+Casting Cost: 2GG (2 Generic, 2 Glitch Energy)
+Rarity: Rare
+Ability: Whenever a Unit dies, destroy all Programs attached to it.
+Flavor Text: “One error spirals into chaos.”
+Prompt: A battlefield littered with broken Programs, their remnants sparking and glitching as a wave of destruction rolls through. The wave glows with jagged energy, destabilizing everything it touches.
+
+5. Data Corruption
+Casting Cost: 3G (3 Generic, 1 Glitch Energy)
+Rarity: Uncommon
+Ability: At the beginning of each player's upkeep, they discard a card at random, then draw a card.
+Flavor Text: “When the data is tainted, so is the outcome.”
+Prompt: A towering server stack leaks streams of corrupted data that twist and writhe like tendrils. The data infects the surrounding landscape, turning everything into chaotic static.
+
+6. Error Cascade
+Casting Cost: 4GG (4 Generic, 2 Glitch Energy)
+Rarity: Rare
+Ability: Whenever an opponent casts a spell, they must discard a card.
+Flavor Text: “One glitch leads to another.”
+Prompt: Streams of code cascade downward like a waterfall, each line of text distorting into unrecognizable symbols. A figure struggles to shield themselves from the relentless torrent.
+
+7. Error Overflow
+Casting Cost: 2G (2 Generic, 1 Glitch Energy)
+Rarity: Common
+Ability: Whenever you scry, exile the top card of your archive. You may cast it until the end of turn.
+Flavor Text: “The system can’t handle this much input.”
+Prompt: A screen filled with red error messages, the words spilling out into the air like physical objects. Each word sparks as it lands, hinting at its volatile nature.
+
+8. Fatal Loop
+Casting Cost: 3GG (3 Generic, 2 Glitch Energy)
+Rarity: Rare
+Ability: At the beginning of your upkeep, you may return a Program card from your archive to the Grid.
+Flavor Text: “An infinite cycle, forever flawed.”
+Prompt: A swirling vortex of light and dark code, its core a glowing infinity symbol. Figures trapped within the loop repeat their actions endlessly, unable to escape.
+
+9. Fragmented Reality
+Casting Cost: 4G (4 Generic, 1 Glitch Energy)
+Rarity: Rare
+Ability: Exile all Units, then return them to the Grid at the beginning of the next end step.
+Flavor Text: “Reality itself shatters and reforms, each time more unstable.”
+Prompt: Pieces of the environment float disconnected in a void, each fragment flickering with static. Figures caught mid-movement appear ghostly, as if only partially real.
+
+10. Frozen Program
+Casting Cost: 2G (2 Generic, 1 Glitch Energy)
+Rarity: Uncommon
+Ability: Tap: Target Unit doesn’t untap during its controller’s next untap step.
+Flavor Text: “A program stuck in limbo becomes a liability.”
+Prompt: A lone figure encased in a cube of ice-like energy, their movements frozen as glitching particles swirl around them.
+
+11. Glitch Storm
+Casting Cost: 4G (4 Generic, 1 Glitch Energy)
+Rarity: Rare
+Ability: Whenever a player casts a spell, exile the top card of their archive. You may play those cards until the end of your next turn.
+Flavor Text: “The storm spares no system—it rips through archives like paper.”
+Prompt: A swirling tempest of digital energy, with jagged, pixelated lightning bolts striking the ground. Pieces of data, in the form of glowing cubes, are swept up in the maelstrom.
+
+12. Looping Malfunction
+Casting Cost: 3GG (3 Generic, 2 Glitch Energy)
+Rarity: Rare
+Ability: At the beginning of your end step, you may return a Unit from your archive to the Grid. It gains “Glitch Energy: Sacrifice this Unit at the beginning of your next upkeep.”
+Flavor Text: “Sometimes the same error is the only solution.”
+Prompt: A humanoid figure that repeatedly phases in and out of existence, their form glitching with each reappearance. A trail of distorted afterimages lingers in the air.
+
+13. Memory Leak
+Casting Cost: 2G (2 Generic, 1 Glitch Energy)
+Rarity: Uncommon
+Ability: Whenever an opponent draws a card, you may exile the top card of their archive.
+Flavor Text: “What’s lost in the system often becomes yours to claim.”
+Prompt: Streams of glowing, liquid-like code flowing out of a cracked memory module. The liquid takes on a spectral form, spreading chaos as it moves.
+
+14. Phantom Process
+Casting Cost: 3G (3 Generic, 1 Glitch Energy)
+Rarity: Uncommon
+Ability: At the beginning of your upkeep, create a 1/1 Glitch Token with “Glitch Energy: Exile this token at the beginning of the next end step.”
+Flavor Text: “Phantom processes consume resources without producing results.”
+Prompt: A shadowy figure made entirely of pixelated code hovers ominously, its form constantly shifting as it duplicates itself across the landscape.
+
+15. Program Breaker
+Casting Cost: 4GG (4 Generic, 2 Glitch Energy)
+Rarity: Rare
+Ability: Whenever a Unit enters the Grid, destroy all Programs attached to it.
+Flavor Text: “The quickest way to fix a bug is to smash the entire system.”
+Prompt: A massive robotic figure slamming its fist into the ground, sending shockwaves of glitchy energy outward. Surrounding Programs flicker and disintegrate in the blast.
+
+16. System Failure
+Casting Cost: 5G (5 Generic, 1 Glitch Energy)
+Rarity: Mythic
+Ability: When System Failure enters the Grid, destroy all other Programs. Then exile all Unit cards from all archives.
+Flavor Text: “When the system collapses, nothing escapes.”
+Prompt: A city of servers crumbles into a chasm of static-filled void, with glowing energy streams being sucked into the abyss. Shadows of figures reach out, trying to escape the collapse.
+
+17. Flickering Protocol
+Casting Cost: 2G (2 Generic, 1 Glitch Energy)
+Rarity: Common
+Ability: At the beginning of your upkeep, exile target Program. Return it to the Grid under its owner's control at the beginning of your next upkeep.
+Flavor Text: “Sometimes, turning it off and on again is the only answer.”
+Prompt: A terminal glowing brightly, with a flickering image of a program restarting. In the background, shadowy figures struggle with broken systems.
+
+18. Scrambled Logic
+Casting Cost: 3GG (3 Generic, 2 Glitch Energy)
+Rarity: Rare
+Ability: Units cannot block unless their controller pays 2 Glitch Energy for each blocking Unit.
+Flavor Text: “Good luck finding clarity in the chaos.”
+Prompt: A digital grid filled with intersecting lines of glowing code, all twisted and distorted into nonsensical patterns. Units within the grid stumble as the ground shifts.
+
+19. Digital Disturbance
+Casting Cost: 2G (2 Generic, 1 Glitch Energy)
+Rarity: Common
+Ability: Whenever a player activates an ability of a Program, you may scry 1.
+Flavor Text: “Each glitch ripples through the system, revealing more than intended.”
+Prompt: A control panel with flashing error messages, each one leaking streams of glowing code that form patterns in the air. A shadowed figure peers at the shapes, searching for meaning.
+
+20. Instability Field
+Casting Cost: 3G (3 Generic, 1 Glitch Energy)
+Rarity: Uncommon
+Ability: All Units gain “Glitch Energy: At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice this Unit.”
+Flavor Text: “No code is safe within the field.”
+Prompt: A shimmering dome of unstable energy envelops a group of Units. Inside, their forms flicker and distort, as though barely holding together.
+
+21. Terminal Corruption
+Casting Cost: 5GG (5 Generic, 2 Glitch Energy)
+Rarity: Mythic
+Ability: Whenever a Program enters the Grid under your control, double its effects.
+Flavor Text: “Corruption magnifies everything—both brilliance and destruction.”
+Prompt: A massive server core glowing with corrupted energy, its circuits twisting and branching like veins. Streams of amplified glitch data pour from its center, warping the environment around it.
+
+22. Error Loop
+Casting Cost: 2GG (2 Generic, 2 Glitch Energy)
+Rarity: Rare
+Ability: At the beginning of your upkeep, return target Program card from your discard pile to the Grid. If that card would leave the Grid, exile it instead.
+Flavor Text: “An error that feeds itself becomes a perpetual problem.”
+Prompt: A digital vortex spiraling endlessly, with fragments of glowing code repeatedly being sucked in and ejected out, creating a chaotic loop. In the center, a glitched console endlessly flashes "RETRY."
+
+23. Ghost in the Protocol
+Casting Cost: 3G (3 Generic, 1 Glitch Energy)
+Rarity: Uncommon
+Ability: Whenever a Program is exiled, create a 1/1 Glitch Spirit token with “Glitch Energy: Sacrifice this token to add one Glitch Energy to your pool.”
+Flavor Text: “When a program dies, sometimes its ghost lingers.”
+Prompt: A glowing, spectral figure rises from a shattered console, its translucent body formed of fragmented data. Around it, small glowing tokens swarm, like fireflies in a dark room.

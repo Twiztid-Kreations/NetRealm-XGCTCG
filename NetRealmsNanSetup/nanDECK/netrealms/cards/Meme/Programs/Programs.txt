@@ -1,0 +1,84 @@
+1. Cat Lord's Blessing
+Casting Cost: 2M (2 Generic, 1 Meme Energy)
+Rarity: Common
+Ability: Units you control have +1/+1 as long as they are Cats.
+Flavor Text: "The internet bows to its true rulers—felines."
+Prompt: A majestic golden cat wearing a crown sits atop a throne made of keyboards. In the background, beams of light shine through clouds, and pixelated mice scurry around its paws.
+
+2. Big Chungus Ascends
+Casting Cost: 4MM (4 Generic, 2 Meme Energy)
+Rarity: Rare
+Ability: Whenever a Unit you control deals damage to an opponent, draw a card.
+Flavor Text: "He thicc, he wise, he unstoppable."
+Prompt: A colossal cartoon rabbit, glowing with divine energy, towers over a digital battlefield. Its enormous size dwarfs the other Units, and a golden aura surrounds it.
+
+3. "This Is Fine"
+Casting Cost: 3M (3 Generic, 1 Meme Energy)
+Rarity: Uncommon
+Ability: At the beginning of your upkeep, you lose 1 Integrity. If you have 5 or less Integrity, all Units you control gain indestructible.
+Flavor Text: "As the flames rise, serenity prevails."
+Prompt: A cartoon dog sits calmly at a table in a burning room. The flames are pixelated, flickering between red and orange, and a cup of coffee rests undisturbed on the table.
+
+4. Dancing Coffin Parade
+Casting Cost: 3M (3 Generic, 1 Meme Energy)
+Rarity: Rare
+Ability: Whenever a Unit dies, create a 1/1 Dancing Bear token with “Tap: Add one Meme Energy.”
+Flavor Text: "Rest in power, carried to the beat of Meme history."
+Prompt: A group of pixelated pallbearers in sharp suits carries a coffin through a neon-lit landscape. Their confident, rhythmic steps create trails of light behind them.
+
+5. Distracted Partner
+Casting Cost: 2M (2 Generic, 1 Meme Energy)
+Rarity: Common
+Ability: When Distracted Partner enters the Grid, target Unit an opponent controls loses all abilities until your next turn.
+Flavor Text: "Eyes always wander toward the newer thing."
+Prompt: A couple walks down a digital street; the man glances back at a glowing, humanoid figure with a dazzling aura. His partner glares at him with an exasperated expression.
+
+6. Mocking Parrot
+Casting Cost: 3MM (3 Generic, 2 Meme Energy)
+Rarity: Rare
+Ability: When Mocking Parrot enters the Grid, choose a keyword ability an opponent’s Unit has. All Units you control gain that ability until end of turn.
+Flavor Text: "Repeat, amplify, conquer."
+Prompt: A colorful parrot squawks atop a tree branch made of pixelated vines. Floating above it are speech bubbles with sarcastic phrases, glowing in exaggerated fonts.
+
+7. Forever Alone
+Casting Cost: 2M (2 Generic, 1 Meme Energy)
+Rarity: Common
+Ability: At the beginning of your upkeep, if you control no other Units, gain 2 Integrity.
+Flavor Text: "Loneliness is temporary; memes are eternal."
+Prompt: A small, lonely cartoon figure sits under a single spotlight in a vast, empty grid. Above it, a faint, glowing text bubble reads, “...hello?”
+
+8. Pepe's Redemption
+Casting Cost: 5M (5 Generic, 1 Meme Energy)
+Rarity: Mythic Rare
+Ability: At the beginning of your upkeep, double the amount of Meme Energy in your energy pool.
+Flavor Text: "The internet evolves, and so do its symbols."
+Prompt: A noble-looking frog dressed in regal attire holds a staff glowing with Meme Energy. A digital sun rises behind it, symbolizing a new beginning for the once-controversial figure.
+
+9. Doomer's Anthem
+Casting Cost: 4MM (4 Generic, 2 Meme Energy)
+Rarity: Rare
+Ability: Units you control get +2/+1. At the beginning of your end step, sacrifice a Unit.
+Flavor Text: "The struggle is real, but the memes persist."
+Prompt: A shadowy figure with a hoodie stands in an apocalyptic cityscape, surrounded by crumbling digital skyscrapers. The atmosphere is gloomy, with rain made of binary code.
+
+10. Internet Explorer’s Legacy
+Casting Cost: 1M (1 Generic, 1 Meme Energy)
+Rarity: Common
+Ability: Units your opponents control enter the Grid tapped.
+Flavor Text: "Slow but unforgettable."
+Prompt: A vintage web browser icon, dusty and cracked, is enshrined in a glowing holographic display. Cobwebs drape its edges, emphasizing its outdated status.
+
+11. We Live in a Society
+Casting Cost: 3M (3 Generic, 1 Meme Energy)
+Rarity: Uncommon
+Ability: Whenever a player loses Integrity, you gain 1 Integrity.
+Flavor Text: "Civilization is a meme in itself."
+Prompt: A masked figure stands on a neon-lit rooftop, overlooking a chaotic city filled with clashing advertisements and distorted memes.
+
+12. “No U” Counterspell
+Casting Cost: 2M (2 Generic, 1 Meme Energy)
+Rarity: Uncommon
+Ability: Whenever an opponent targets you or a Unit you control, copy that ability and target them instead.
+Flavor Text: "The ultimate clapback."
+Prompt: Two glowing mirrors face each other, endlessly reflecting beams of Meme Energy between them. The words “No U” are engraved in glowing, comic-style text on each mirror.
+
