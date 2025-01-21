@@ -3,10 +3,11 @@ Unit = Inch
 Page = 5, 7,PORTRAIT,MV
 CARDSIZE=5,7
 
-``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Lands
-``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!WorldWeavers
-Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Units
-``Link=C:\Users\TK\Desktop\nanDECK\cards.xlsx!Relics
+``Link=C:\Users\TK\Desktop\nanDECK\cards2.xlsx!Lands
+``Link=C:\Users\TK\Desktop\nanDECK\cards2.xlsx!WorldWeavers
+``Link=C:\Users\TK\Desktop\nanDECK\cards2.xlsx!Units
+``Link=C:\Users\TK\Desktop\nanDECK\cards2.xlsx!Relics
+Link=C:\Users\TK\Desktop\nanDECK\cards2.xlsx!Programs
 
 line=1,0,0,100%,100%,#FF0000,20%
 line=1,0,100%,100%,0,#FF0000,20%
