@@ -1,90 +1,142 @@
 Web of Deceit
-Prompt: A shadowy spider made of writhing code sits at the center of a dark web. Threads shimmer with faint lights, each holding snippets of stolen data. The background is dimly lit, with faint silhouettes of human figures tangled in the strands.
+Casting Cost: 2CC (2 Generic, 2 Creep Energy)
+Rarity: Uncommon
+Ability: Whenever an opponent searches their library, they lose 2 Integrity.
+Flavor Text: “One click and you're caught.”
 
 Echo Chamber
-Prompt: A room of endless mirrors reflects distorted images, each one mutating into something more grotesque than the last. Glowing words—angry and fragmented—hover in the air like ghosts.
+Casting Cost: 3C (3 Generic, 1 Creep Energy)
+Rarity: Common
+Ability: Whenever a player draws a card, they lose 1 Integrity if they already have a card with the same name in their hand.
+Flavor Text: “Reinforced lies become truth.”
 
 Puppet Strings
-Prompt: A pair of ghostly hands manipulates glowing strings attached to a digital marionette. The marionette’s hollow eyes flicker with red light as it moves with unnerving precision.
+Casting Cost: 2C (2 Generic, 1 Creep Energy)
+Rarity: Common
+Ability: Gain control of target 1-cost Unit until end of turn. It gains +1/+0 and haste.
+Flavor Text: “A simple tug, and they’ll do anything.”
 
 Dark Market
-Prompt: A sinister marketplace stretches into the distance, where shadowy figures exchange glowing artifacts. The wares range from eerie relics to glowing fragments of identity, displayed under flickering, blood-red neon lights.
+Casting Cost: 3CC (3 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: At the beginning of each opponent’s upkeep, they must pay 1 energy or sacrifice a relic.
+Flavor Text: “Everything has a price, but some prices are too high.”
 
 Veil of Anonymity
-Prompt: A cloaked figure fades into the shadows of a dimly lit alley. Their face is replaced by a glitching mask of swirling static, giving the illusion of an untraceable presence.
+Casting Cost: 1C (1 Generic, 1 Creep Energy)
+Rarity: Common
+Ability: Units you control have hexproof as long as you have no cards in hand.
+Flavor Text: “Hiding in plain sight.”
 
 Catfish’s Charm
-Prompt: A glowing smartphone screen displays a beautiful face that distorts into a grotesque mask. Shadows creep around the phone, forming claw-like hands reaching toward the viewer.
+Casting Cost: 2CC (2 Generic, 2 Creep Energy)
+Rarity: Uncommon
+Ability: At the beginning of your upkeep, each opponent loses 1 Integrity unless they discard a card.
+Flavor Text: “A smile, a lie, a stolen soul.”
 
 Forum Firestorm
-Prompt: A chaotic scene unfolds as fiery threads of energy rip through a forum-like interface. Figures trapped in their own words scream in digital agony as glowing embers consume their avatars.
+Casting Cost: 4CC (4 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: Whenever a player casts a Program, they must sacrifice a Unit unless they pay 2 energy.
+Flavor Text: “One post, endless destruction.”
 
 Doxx Vault
-Prompt: A glowing vault door opens, revealing shelves filled with files and photographs. Floating above it are glowing numbers—social security numbers, phone numbers, and other private data—intertwined with dark red tendrils.
+Casting Cost: 2CC (2 Generic, 2 Creep Energy)
+Rarity: Uncommon
+Ability: Whenever an opponent loses Integrity, you may draw a card.
+Flavor Text: “Knowledge is power, but stolen knowledge is control.”
 
 Watcher’s Curse
-Prompt: A glowing, red eye looms over a dark cityscape. Its gaze pierces through buildings, illuminating shadowy figures attempting to hide.
+Casting Cost: 3C (3 Generic, 1 Creep Energy)
+Rarity: Common
+Ability: Units your opponents control enter the Grid tapped.
+Flavor Text: “They’re always watching, waiting.”
 
 Phishing Ward
-Prompt: A glowing, fishhook-like shape arcs through a grid of blue light. As it pierces through the grid, data fragments break apart like shattered glass.
+Casting Cost: 2CC (2 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: Whenever an opponent casts a Relic, you may exile it unless they pay 3 energy.
+Flavor Text: “One wrong click, and it’s gone forever.”
 
 Shadow Cache
-Prompt: A glowing chest with a digital lock sits in a void-like space. Inside, shadowy, indistinct figures seem trapped, their eyes glowing faintly.
+Casting Cost: 2C (2 Generic, 1 Creep Energy)
+Rarity: Uncommon
+Ability: Whenever a Unit dies, you may exile it. If you do, add 1 energy of any type.
+Flavor Text: “What’s lost is never truly gone.”
 
 Echoes of Infamy
-Prompt: A ghostly figure emerges from a screen, holding a scroll filled with screenshots and accusations. Behind it, shadowy crowds whisper and point fingers, their faces filled with disdain.
+Casting Cost: 5CC (5 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: At the beginning of each opponent’s upkeep, they must discard a card unless they lose 3 Integrity.
+Flavor Text: “The internet never forgets.”
 
 Virus Garden
-Prompt: A dark, overgrown garden filled with glowing, pulsating digital flowers. Each flower seems to release toxic code into the air, forming faint skull shapes as it dissipates.
+Casting Cost: 4CC (4 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: Whenever an opponent casts a Program, create a 1/1 black Virus Unit token with deathtouch.
+Flavor Text: “Beautiful but deadly—like all forbidden things.”
 
 Reputation Shredder
-Prompt: A glowing machine shreds pictures, documents, and usernames, spewing fragments of digital particles into the void. Shadows linger behind the machine, their features blurred.
+Casting Cost: 3C (3 Generic, 1 Creep Energy)
+Rarity: Uncommon
+Ability: Whenever a Unit an opponent controls is destroyed, exile it and reduce that player’s Integrity by 1.
+Flavor Text: “One post, and their name disappears forever.”
 
 Eternal Whisper
-Prompt: A shadowy figure whispers into the ear of another, their breath forming glowing tendrils that spread like vines. The whispered words are faintly visible as malicious, half-formed truths.
+Casting Cost: 4CC (4 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: Whenever an opponent draws a card, they must reveal it. If it’s a Relic, they lose 2 Integrity.
+Flavor Text: “The whisper spreads faster than truth ever could.”
 
 Black Hat Covenant
-Prompt: A group of hooded figures, their faces obscured by glowing masks, gather around a massive screen displaying stolen treasures. Digital chains link the artifacts to the figures’ hands.
+Casting Cost: 3CC (3 Generic, 2 Creep Energy)
+Rarity: Mythic Rare
+Ability: Units you control have “Whenever this Unit deals damage to a player, gain control of target Relic that player controls.”
+Flavor Text: “Power is for those bold enough to take it.”
 
 Corrupted Nexus
-Prompt: A massive, glowing nexus of wires and circuits pulses with dark energy. Shadowy figures attempt to sever the connections but are consumed by the spreading corruption.
+Casting Cost: 6CC (6 Generic, 2 Creep Energy)
+Rarity: Mythic Rare
+Ability: At the beginning of your end step, each opponent loses Integrity equal to the number of Units you control with deathtouch.
+Flavor Text: “Everything connects, and every connection is a weakness.”
 
 Mimic Curse
-Prompt: A friendly-looking face glitches into a terrifying, malformed mimic. Its mouth opens unnaturally wide, revealing rows of sharp, pixelated teeth.
+Casting Cost: 1C (1 Generic, 1 Creep Energy)
+Rarity: Common
+Ability: When Mimic Curse enters the Grid, choose a Unit. It becomes a copy of that Unit but loses its abilities.
+Flavor Text: “You thought it was a friend, but it’s your worst enemy.”
 
 Forgotten Files
-Prompt: A pile of dusty, glowing files sits in a corner of a virtual space. As one file is opened, haunting images and data leak out like spectral fog.
+Casting Cost: 2CC (2 Generic, 2 Creep Energy)
+Rarity: Uncommon
+Ability: Whenever a card is exiled, each opponent loses 1 Integrity.
+Flavor Text: “Once buried, never forgotten.”
 
 Malware Trap
-Prompt: A glowing trap in the shape of a bear trap lies open, surrounded by faint warning signs. A shadowy hand reaches toward it, oblivious to the danger.
+Casting Cost: 3C (3 Generic, 1 Creep Energy)
+Rarity: Uncommon
+Ability: When an opponent plays a Relic, you may pay 2 energy. If you do, counter it unless its controller pays 3 energy.
+Flavor Text: “A simple click can undo everything.”
 
 Oblivion’s Whispers
-Prompt: A dark void filled with faint, glowing whispers that snake toward an unsuspecting figure. Each whisper forms a tendril that pierces into their mind.
+Casting Cost: 5CC (5 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: Whenever a player discards a card, you may exile it. If you do, each opponent loses 1 Integrity.
+Flavor Text: “The softest whispers carry the heaviest secrets.”
 
 Digital Parasite
-Prompt: A sleek Relic is overrun by writhing, glowing parasites, each one embedding itself deeper into the device’s circuitry.
+Casting Cost: 2CC (2 Generic, 2 Creep Energy)
+Rarity: Common
+Ability: Attach to target Relic. That Relic doesn’t untap during its controller’s untap step unless they pay 2 energy.
+Flavor Text: “It feeds on progress.”
 
 Encrypted Abyss
-Prompt: A massive abyss made of swirling, glowing code. At its edges, hands made of light try to grasp onto anything solid, but the pull is too strong.
+Casting Cost: 6CC (6 Generic, 2 Creep Energy)
+Rarity: Rare
+Ability: At the beginning of your upkeep, exile a card from your opponent’s library. If it’s a Relic, you may play it without paying its energy cost.
+Flavor Text: “The deeper you go, the darker it gets.”
 
 
-
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\WebofDeceit.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\EchoChamber.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\PuppetStrings.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\DarkMarket.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\VeilofAnonymity.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\CatfishsCharm.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\ForumFirestorm.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\DoxxVault.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\WatchersCurse.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\PhishingWard.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\ShadowCache.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\EchoesofInfamy.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\VirusGarden.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\ReputationShredder.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\EternalWhisper.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\BlackHatCovenant.JFIF
 C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\CorruptedNexus.JFIF
 C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\MimicCurse.JFIF
 C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\ForgottenFiles.JFIF
