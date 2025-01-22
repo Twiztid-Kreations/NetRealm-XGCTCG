@@ -137,10 +137,4 @@ Ability: At the beginning of your upkeep, exile a card from your opponent’s li
 Flavor Text: “The deeper you go, the darker it gets.”
 
 
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\CorruptedNexus.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\MimicCurse.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\ForgottenFiles.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\MalwareTrap.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\OblivionsWhispers.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\DigitalParasite.JFIF
-C:\Users\TK\Desktop\nanDECK\netrealms\cards\Creep\Programs\EncryptedAbyss.JFIF
+

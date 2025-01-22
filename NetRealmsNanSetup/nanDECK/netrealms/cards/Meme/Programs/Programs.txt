@@ -61,7 +61,7 @@ Ability: Units you control get +2/+1. At the beginning of your end step, sacrifi
 Flavor Text: "The struggle is real, but the memes persist."
 Prompt: A shadowy figure with a hoodie stands in an apocalyptic cityscape, surrounded by crumbling digital skyscrapers. The atmosphere is gloomy, with rain made of binary code.
 
-10. Internet Explorer’s Legacy
+10. Explorer’s Legacy
 Casting Cost: 1M (1 Generic, 1 Meme Energy)
 Rarity: Common
 Ability: Units your opponents control enter the Grid tapped.
@@ -82,3 +82,79 @@ Ability: Whenever an opponent targets you or a Unit you control, copy that abili
 Flavor Text: "The ultimate clapback."
 Prompt: Two glowing mirrors face each other, endlessly reflecting beams of Meme Energy between them. The words “No U” are engraved in glowing, comic-style text on each mirror.
 
+13. Keyboard Warrior’s Resilience
+Casting Cost: 2M (2 Generic, 1 Meme Energy)
+Rarity: Uncommon
+Ability: Whenever a Unit you control is dealt damage, you may pay 1M. If you do, deal that much damage to any target.
+Flavor Text: "A battle fought from behind a glowing screen."
+Prompt: A heavily armored figure sits at a glowing keyboard, surrounded by digital shields bearing sarcastic emoji symbols. Bright sparks fly from their hands as they type furiously, generating pixelated weapons above them.
+
+14. Rickroll Redirect
+Casting Cost: 4MM (4 Generic, 2 Meme Energy)
+Rarity: Rare
+Ability: Whenever a player searches their deck, you may force them to shuffle it instead.
+Flavor Text: "Never gonna let you finish..."
+Prompt: A retro-style cassette tape marked with “Rickroll” in bold letters glows ominously. Behind it, pixelated chains swirl around a confused figure holding a glowing search bar.
+
+15. Swamp of Solace
+Casting Cost: 3MM (3 Generic, 2 Meme Energy)
+Rarity: Rare
+Ability: At the beginning of your end step, if you control no Units, create a 3/3 green Ogre Unit token with trample.
+Flavor Text: "What are you doing in my swamp?"
+Prompt: A serene swamp glows with a faint greenish hue. A tall ogre-like silhouette can be seen in the mist, standing next to a small wooden sign that reads, “Keep Out.”
+
+16. Doge's Prosperity
+Casting Cost: 2M (2 Generic, 1 Meme Energy)
+Rarity: Common
+Ability: Add 2 Meme Energy to your pool whenever you cast a Program.
+Flavor Text: "Such wealth. Much power. Wow."
+Prompt: A golden Shiba Inu stands proudly on a glowing cryptocurrency coin, surrounded by beams of light and piles of digital gold.
+
+17. Troll Bridge
+Casting Cost: 3MM (3 Generic, 2 Meme Energy)
+Rarity: Uncommon
+Ability: Whenever an opponent draws a card, they lose 1 Integrity unless they pay 1.
+Flavor Text: "Pay the toll, or face the troll."
+Prompt: A grinning troll-like figure sits on a pixelated bridge made of glowing memes, demanding payment from passing figures shrouded in shadow.
+
+18. Impostor Among Us
+Casting Cost: 4M (4 Generic, 1 Meme Energy)
+Rarity: Rare
+Ability: When Impostor Among Us enters the Grid, choose a Unit an opponent controls. It becomes a copy of that Unit until your next turn.
+Flavor Text: "Sus until proven otherwise."
+Prompt: A shadowy figure in a spacesuit stands in a dimly lit room, its visor glowing with an ominous red hue. Behind it, an emergency button flashes as pixelated text says, “Report!”
+
+19. Meme Overload
+Casting Cost: 5M (5 Generic, 1 Meme Energy)
+Rarity: Mythic Rare
+Ability: At the beginning of your upkeep, create a 1/1 Token for each Meme Energy you control. Tokens are 1/1 Meme Creatures with “Sacrifice: Add one Meme Energy.”
+Flavor Text: "When memes collide, chaos thrives."
+Prompt: A swirling vortex of internet memes spins in a chaotic whirlwind. Iconic objects like pixelated glasses, “deal with it” text, and rainbow trails collide in a glowing spiral of energy.
+
+20. Social Media Amplifier
+Casting Cost: 3MM (3 Generic, 2 Meme Energy)
+Rarity: Rare
+Ability: Whenever you cast a Unit, double its attack and defense until end of turn.
+Flavor Text: "With the right platform, anyone can go viral."
+Prompt: A colossal digital megaphone floats above a glowing landscape, amplifying shimmering bursts of text and emojis into the sky. The crowd below cheers, with holographic hashtags glowing around them.
+
+21. Meme Archive
+Casting Cost: 2M (2 Generic, 1 Meme Energy)
+Rarity: Common
+Ability: You may cast Unit cards from your discard pile by paying 1 extra Meme Energy.
+Flavor Text: "Memes never die—they’re just reposted."
+Prompt: A vast library filled with glowing scrolls and books, each bearing an iconic internet image or phrase. A hooded figure reverently places a scroll marked with a popular meme on a glowing shelf.
+
+22. Reaction Reel
+Casting Cost: 3MM (3 Generic, 2 Meme Energy)
+Rarity: Rare
+Ability: Whenever an opponent casts a Program, you may create a 2/2 Reaction Unit Token with “This creature gains +1/+0 for each Program cast this turn.”
+Flavor Text: "Their action fuels your reaction."
+Prompt: A spinning reel of video thumbnails featuring exaggerated reactions—surprise, laughter, and anger—glows with Meme Energy. Each thumbnail seems to morph into glowing digital creatures that leap from the screen into battle.
+
+23. Infinite Scrolling
+Casting Cost: 4M (4 Generic, 1 Meme Energy)
+Rarity: Mythic Rare
+Ability: At the beginning of your upkeep, reveal the top card of your deck. If it’s a Unit or Program, you may cast it without paying its energy cost. Otherwise, place it at the bottom of your deck.
+Flavor Text: "The scroll never ends, just like the content."
+Prompt: A glowing phone screen stretches into infinity, with an endless cascade of images, videos, and icons falling from the screen into the void below. A digital figure sits mesmerized at the center, their hands glowing as they try to grasp the endless feed.

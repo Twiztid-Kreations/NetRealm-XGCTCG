@@ -1,0 +1,146 @@
+1. Silver Screen Reverie
+Casting Cost: 2MM (2 Generic, 2 Movie Energy)
+Rarity: Rare
+Ability: At the beginning of your upkeep, draw a card if you control at least three Relics.
+Flavor Text: "In the glow of the silver screen, imagination becomes reality."
+Prompt: A grand movie theater from the 1920s stands illuminated in a dark cityscape, its towering marquee glowing with golden letters that pulse faintly. Inside, the seats are empty, but a surreal projection spills from the screen—scenes of fantastical realms and epic battles overlapping and blending together in the air. Wisps of ethereal light flow from the screen, coalescing into shimmering shapes of creatures and relics. A single reel of film spirals upward, glowing faintly as if alive.
+
+2. Starlight Montage
+Casting Cost: 3MM (3 Generic, 2 Movie Energy)
+Rarity: Uncommon
+Ability: Whenever you cast a Program, put a +1/+1 counter on target Unit.
+Flavor Text: "A thousand scenes, a single unforgettable story."
+Prompt: A glowing montage of scenes spreads across a vast, cosmic sky. A knight wields a shining blade, a spaceship soars through the void, and a couple dances in a dimly lit ballroom. Threads of golden film connect the images, forming constellations of cinematic wonders. Beneath this spectacle, a lone figure holds an old-fashioned film camera, its lens aimed upward, capturing the magic.
+
+3. Director’s Cut
+Casting Cost: 4M (4 Generic, 1 Movie Energy)
+Rarity: Mythic Rare
+Ability: When Director’s Cut enters the Grid, exile up to three Units. Return them to the Grid at the beginning of your next upkeep under your control.
+Flavor Text: "Sometimes, the story needs rewriting."
+Prompt: A shadowy director looms over a holographic editing console, their face obscured by the glow of the screens. On the console, glowing reels of film are spliced and reshaped, each showing different realities—one with a battlefield, another with a peaceful village, and a third with a starry void. The director's hands glow with the same light as the film, suggesting their power to rewrite existence itself.
+
+4. Cinematic Panorama
+Casting Cost: 1M (1 Generic, 1 Movie Energy)
+Rarity: Common
+Ability: Whenever a Relic enters the Grid under your control, draw a card.
+Flavor Text: "The world is a set; every prop holds a story."
+Prompt: A vast, endless desert stretches into the horizon, dotted with towering relics—an ancient sword half-buried in the sand, a glowing staff sticking out of a dune, and a massive skeleton of an unknown beast. The setting sun casts long shadows that seem to move and flicker as if alive. Above the scene, faint golden light forms the outline of a projector, casting the desert like a movie set.
+
+5. Screenwriter’s Quill
+Casting Cost: 2MM (2 Generic, 2 Movie Energy)
+Rarity: Rare
+Ability: Whenever you cast a Unit, you may return a Program from your archive to your hand.
+Flavor Text: "Every character deserves their arc."
+Prompt: An ornate quill rests on a glowing, holographic scroll. As the quill writes, shimmering text rises from the scroll, forming images of heroic battles, tragic deaths, and triumphant victories. In the background, stacks of glowing scripts hover in mid-air, their pages flipping as though alive. The faint shadow of a writer lingers, their form indistinct, as if they are a part of the story themselves.
+
+6. Epic Showdown
+Casting Cost: 5M (5 Generic, 1 Movie Energy)
+Rarity: Rare
+Ability: Units you control gain +2/+2 and trample until end of turn.
+Flavor Text: "The final battle leaves no audience unmoved."
+Prompt: A massive battlefield stretches across the frame, with warriors, monsters, and machines locked in combat. In the center, two towering figures clash—a knight with a blazing sword and a dark figure cloaked in shadows. Above them, the sky is split in two—one half golden sunlight, the other an ominous storm. In the foreground, a glowing director’s chair sits empty, a symbol of someone orchestrating this grand finale.
+
+7. Box Office Bloom
+Casting Cost: 2M (2 Generic, 1 Movie Energy)
+Rarity: Uncommon
+Ability: Whenever a player draws a card, they lose 1 Integrity.
+Flavor Text: "Popularity comes at a cost."
+Prompt: A massive theater marquee blazes with light, advertising a film called "NetRealms: The Rise." Crowds gather outside, their forms blurred and indistinct, yet their faces glow with eager anticipation. Golden tickets float in the air, vanishing into the theater as though alive.
+
+8. Climactic Crescendo
+Casting Cost: 3MM (3 Generic, 2 Movie Energy)
+Rarity: Mythic Rare
+Ability: When Climactic Crescendo enters the Grid, destroy all other enchantments. For each one destroyed, create a 2/2 “Illusion” Unit token.
+Flavor Text: "The story's climax rewrites the rules."
+Prompt: A swirling vortex of light and shadow dominates the image, with shards of broken film reels spiraling outward. Within the vortex, ghostly forms of creatures, heroes, and villains appear, their faces contorted in a mix of awe and despair. A glowing clapboard floats at the center of the chaos, as though marking the final take.
+
+9. Projectionist’s Domain
+Casting Cost: 2M (2 Generic, 1 Movie Energy)
+Rarity: Uncommon
+Ability: Units you control have "Pay 1 Integrity: This Unit gains indestructible until end of turn."
+Flavor Text: "What’s real is what you choose to believe."
+Prompt: A dark room filled with massive, glowing projectors that cast their light onto the world outside. Each beam creates a scene—a lush forest, a futuristic city, and an alien landscape. The projectionist, a hooded figure with glowing eyes, stands at the controls, adjusting the sliders with an otherworldly precision.
+
+10. Popcorn Utopia
+Casting Cost: 3MM (3 Generic, 2 Movie Energy)
+Rarity: Rare
+Ability: At the beginning of each player's upkeep, that player creates a 1/1 "Audience Member" Unit token with "This Unit cannot attack or block."
+Flavor Text: "Every story needs an audience."
+Prompt: A sprawling, magical movie theater filled with endless rows of seats. The seats are occupied by glowing, semi-transparent silhouettes of people, each clutching a shimmering bag of popcorn. Golden streams of light pour from the projector booth, illuminating the crowd and forming surreal shapes in the air—scenes of knights, dragons, and space battles. A single glowing ticket hovers above the central aisle, pulsating with a strange energy.
+
+11. Rising Tension
+Casting Cost: 4M (4 Generic, 1 Movie Energy)
+Rarity: Uncommon
+Ability: Units you control gain +1/+1. Opponents' Units get -1/-1.
+Flavor Text: "As the story builds, so does the pressure."
+Prompt: A swirling spiral staircase made of film strips rises into a stormy sky, each step glowing faintly with scenes of impending doom—an army gathering, a hero struggling, and a villain smirking ominously. Lightning flashes overhead, illuminating the tension in the air.
+
+12. Fade to Black
+Casting Cost: 2M (2 Generic, 1 Movie Energy)
+Rarity: Common
+Ability: Exile target Unit until Fade to Black leaves the Grid.
+Flavor Text: "Every story ends, but not every character is forgotten."
+Prompt: A darkened room, lit only by the flickering light of an old-fashioned film reel spinning its last frames. The reel emits a soft, glowing mist that engulfs a lone figure on a screen, pulling them into the void. The scene is somber and haunting, evoking the finality of an unforgettable story.
+
+13. Behind the Curtains
+Casting Cost: 3M (3 Generic, 1 Movie Energy)
+Rarity: Rare
+Ability: Look at the top three cards of your Grid. You may reveal a Unit or Relic card and put it into your hand. Put the rest on the bottom of your archive.
+Flavor Text: "Every masterpiece hides a secret."
+Prompt: An elaborate red velvet curtain drawn slightly apart reveals a backstage area filled with glowing props and costumes. Each item glimmers faintly, hinting at a hidden magic. A shadowy figure peeks through the curtain, their hand gripping a mysterious script.
+
+14. Encore Effect
+Casting Cost: 4MM (4 Generic, 2 Movie Energy)
+Rarity: Rare
+Ability: Whenever a Unit enters the Grid under your control, you may return a Unit from your discard to your hand.
+Flavor Text: "The curtain call is only the beginning."
+Prompt: A grand stage with bright spotlights shining down. Ethereal figures of past performers rise from the ground, bowing to an unseen audience. The stage glows with an otherworldly golden light, and musical notes float through the air like stars.
+
+15. Film Noir Shadows
+Casting Cost: 2M (2 Generic, 1 Movie Energy)
+Rarity: Uncommon
+Ability: Target Unit gains deathtouch and “Whenever this Unit deals damage to a player, draw a card” until end of turn.
+Flavor Text: "In the darkest tales, even the smallest light can be blinding."
+Prompt: A shadowy city alley drenched in rain. The scene is illuminated by a single flickering neon sign that casts dramatic shadows of trench coats and fedoras. Smoke rises from a glowing cigarette in the foreground, curling into shapes of mysterious symbols.
+
+16. Blockbuster Boom
+Casting Cost: 5MM (5 Generic, 2 Movie Energy)
+Rarity: Mythic Rare
+Ability: When Blockbuster Boom enters the Grid, destroy all Relics. For each Relic destroyed, create a 4/4 "Epic Spectacle" Unit token.
+Flavor Text: "Bigger, louder, unforgettable."
+Prompt: A massive explosion fills the screen, sending fragments of golden film reels flying in every direction. In the aftermath, colossal holographic giants made of light and sound rise from the debris, each carrying an aura of unstoppable energy.
+
+17. Critic’s Curse
+Casting Cost: 2M (2 Generic, 1 Movie Energy)
+Rarity: Uncommon
+Ability: At the beginning of each player’s upkeep, they lose 2 Integrity unless they sacrifice a Relic.
+Flavor Text: "One bad review can topple an empire."
+Prompt: A massive pen, dripping with black ink, hovers ominously over a crumbling golden statue. The statue, shaped like a figure holding a film reel, is cracked and weathered as if the ink itself is sapping its strength.
+
+18. Script Rewrite
+Casting Cost: 3MM (3 Generic, 2 Movie Energy)
+Rarity: Rare
+Ability: Exile target Unit. Its controller may play a Unit from their hand without paying its cost.
+Flavor Text: "Change the plot, change the fate."
+Prompt: An enchanted typewriter sits on a wooden desk in a dimly lit room. Each keystroke glows with golden energy, reshaping the room around it—a battlefield turns into a peaceful meadow, and an ancient castle morphs into a futuristic cityscape.
+
+19. Marquee Madness
+Casting Cost: 4M (4 Generic, 1 Movie Energy)
+Rarity: Uncommon
+Ability: Whenever a Unit attacks, its controller may pay 2. If they do, that Unit gains +3/+0 until end of turn.
+Flavor Text: "Names in lights, actions in shadows."
+Prompt: A towering theater marquee dominates the scene, glowing with vibrant lights that spell out “Marquee Madness.” Beneath it, shadowy figures prepare for an unseen event, their forms flickering as though not entirely real.
+
+20. Cinema Loop
+Casting Cost: 3MM (3 Generic, 2 Movie Energy)
+Rarity: Rare
+Ability: At the beginning of your upkeep, you may return target Program from your discard to your hand.
+Flavor Text: "A story worth telling is a story worth repeating."
+Prompt: A golden film reel spins endlessly in mid-air, surrounded by ghostly images of repeating scenes—heroes triumphing, villains laughing, and cities crumbling, all overlaid on one another. A glowing infinity symbol is etched into the reel.
+
+21. Premiere Night
+Casting Cost: 5M (5 Generic, 1 Movie Energy)
+Rarity: Rare
+Ability: When Premiere Night enters the Grid, draw three cards. You may reveal a Relic from among them and play it without paying its cost.
+Flavor Text: "The lights dim, the magic begins."
+Prompt: A red carpet stretches toward a grand theater entrance. Spectral figures in elegant attire float down the carpet, their forms glowing faintly under the dazzling flash of ethereal cameras. Above the theater’s doors, a glowing sign reads, "Premiere Night."
