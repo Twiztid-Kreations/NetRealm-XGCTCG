@@ -1,0 +1,171 @@
+1. Echoes of Accusation
+Casting Cost: 2D (2 Generic, 1 Drama Energy)
+Rarity: Common
+Ability: Whenever an opponent draws a card, they lose 1 Integrity if they control three or more Units.
+Flavor Text: “Whispers spread faster than facts.”
+Prompt: A shadowy courtroom with ghostly figures seated in the gallery. The judge’s gavel, glowing with a sinister light, slams down as whispers and accusations ripple through the air like smoke. The gallery seems alive, pointing and murmuring, creating an oppressive atmosphere.
+
+2. The Lolcow Effect
+Casting Cost: 3D (3 Generic, 1 Drama Energy)
+Rarity: Common
+Ability: Whenever a Unit an opponent controls takes damage, they lose 1 Integrity.
+Flavor Text: “Laughingstocks generate endless fodder.”
+Prompt: A cartoonish cow, but its face is distorted with exaggerated features, symbolizing ridicule. In the background, a crowd of faceless silhouettes holds up phones, recording and laughing as the cow stumbles under a spotlight.
+
+3. Flame War Inciter
+Casting Cost: 2DD (2 Generic, 2 Drama Energy)
+Rarity: Uncommon
+Ability: Whenever a player casts a Program, deal 1 damage to each Unit they control.
+Flavor Text: “Throwing fuel on the fire—an art form perfected.”
+Prompt: A digital flame engulfs a forum post, with angry, emoji-like faces emerging from the fire. Threads of data, twisted and burning, spiral outward like tendrils, consuming everything in their path.
+
+4. Cancel Culture Manifest
+Casting Cost: 4D (4 Generic, 1 Drama Energy)
+Rarity: Rare
+Ability: When this Program enters the Grid, exile target Unit an opponent controls. If that Unit is a Mythic, exile all other Units with the same name.
+Flavor Text: “One wrong step, and the mob remembers forever.”
+Prompt: A massive red "X" looms over a shadowy figure on a digital stage. The figure cowers under the weight of pixelated text bubbles flashing "CANCELED." In the background, an endless crowd of hands holds glowing devices, ready to condemn.
+
+5. Drama Queen's Proclamation
+Casting Cost: 5D (5 Generic, 1 Drama Energy)
+Rarity: Mythic Rare
+Ability: All Units you control gain +1/+1 for each Integrity an opponent has lost this turn.
+Flavor Text: “She thrives on chaos, crowning herself in controversy.”
+Prompt: A regal throne room with a monarch wearing an exaggerated crown and holding a scepter shaped like a microphone. The figure’s dramatic pose dominates the scene as lightning crashes behind them, amplifying the intensity.
+
+6. Tabloid Tactics
+Casting Cost: 3D (3 Generic, 1 Drama Energy)
+Rarity: Common
+Ability: Whenever an opponent gains Integrity, they lose 2 additional Integrity instead.
+Flavor Text: “Twist the story, reap the clicks.”
+Prompt: A holographic newspaper spins in the air, headlines morphing into clickbait phrases. In the corners of the image, hands frantically type on keyboards, creating a blur of motion as new headlines constantly appear.
+
+7. Fabricated Evidence
+Casting Cost: 2DD (2 Generic, 2 Drama Energy)
+Rarity: Rare
+Ability: Exile target Unit. If that Unit was a Mythic, you gain 4 Integrity.
+Flavor Text: “The truth doesn’t matter when a lie is more entertaining.”
+Prompt: A shadowy figure holding a glowing red file marked "CLASSIFIED" stands before a digital crowd. The file radiates a sinister aura as the crowd’s glowing eyes widen in shock and judgment.
+
+8. Public Outcry
+Casting Cost: 2D (2 Generic, 1 Drama Energy)
+Rarity: Common
+Ability: Whenever a Unit deals combat damage to you, its controller loses 1 Integrity.
+Flavor Text: “The louder the noise, the heavier the guilt.”
+Prompt: A giant megaphone blares over a desolate cityscape, with soundwaves rippling out, shattering windows. Shadowy silhouettes cover their ears, some falling to their knees under the oppressive noise.
+
+9. Digital Witch Hunt
+Casting Cost: 4DD (4 Generic, 2 Drama Energy)
+Rarity: Mythic Rare
+Ability: When this Program enters the Grid, choose an opponent. That player exiles two Units they control and loses Integrity equal to their total power.
+Flavor Text: “Online, everyone’s a suspect.”
+Prompt: A fiery digital pyre burns in a darkened forum, with shadowy hands pointing toward a screaming figure tied to the stake. Above them, lines of code swirl ominously, feeding the flames.
+
+10. Troll’s Playground
+Casting Cost: 3D (3 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Ability: Whenever a player casts a Unit spell, they lose 1 Integrity unless they pay 1 energy.
+Flavor Text: “Where chaos reigns, trolls thrive.”
+Prompt: A desolate battlefield filled with tiny troll-like figures, their faces twisted in mischievous grins. They toss glowing projectiles labeled with insults and baiting phrases, creating a chaotic, swirling storm of drama.
+
+(11–23 to follow shortly!) Let me know if you'd like more adjustments.
+
+
+
+
+
+
+You said:
+continue
+ChatGPT said:
+ChatGPT
+11. Clout Chaser's Arena
+Casting Cost: 3D (3 Generic, 1 Drama Energy)
+Rarity: Rare
+Ability: At the beginning of each player’s turn, they must pay 1 energy or lose 2 Integrity for each Unit they control.
+Flavor Text: “Fame comes at a price, even in the spotlight of the web.”
+Prompt: A glowing digital stage surrounded by floating cameras and audience reactions in the form of emoji faces and likes. A lone figure stands under a harsh spotlight, their shadow stretched unnaturally long, almost as though it’s reaching for the crowd.
+
+12. Internet Trial by Fire
+Casting Cost: 5DD (5 Generic, 2 Drama Energy)
+Rarity: Rare
+Ability: When Internet Trial by Fire enters the Grid, exile all opposing Units with Integrity less than 3.
+Flavor Text: “No one escapes judgment in the court of online opinion.”
+Prompt: A burning courtroom where the walls are made of lines of code, and holographic figures of judges and jurors glare down at a lone defendant. Flames lick at their feet as accusatory phrases float in the air above them.
+
+13. Echo Chamber Nexus
+Casting Cost: 2D (2 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Ability: Units you control gain +1/+1 for each other Unit you control that shares the same type.
+Flavor Text: “The louder the agreement, the deeper the void of dissent.”
+Prompt: A swirling vortex of text bubbles, all repeating the same statement in various fonts and sizes. The vortex pulls in lone figures standing on the outskirts, warping their appearance as they’re consumed.
+
+14. Feigning Apology
+Casting Cost: 1D (1 Generic, 1 Drama Energy)
+Rarity: Common
+Ability: Sacrifice this Program: Restore 3 Integrity to an opponent and draw two cards.
+Flavor Text: “A performance for the crowd, not the wronged.”
+Prompt: A digital message board where a character dramatically types “I’m sorry” in glowing letters. Behind them, they smirk at the camera, holding up crossed fingers.
+
+15. Conflict Algorithm
+Casting Cost: 3D (3 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Ability: At the beginning of your upkeep, target opponent loses 2 Integrity unless they exile a card from their hand.
+Flavor Text: “The system thrives on discord.”
+Prompt: A shadowy algorithm represented as a giant clockwork machine with gears made of hashtags and trending topics. Sparks fly as the gears grind against one another, creating an aura of chaos.
+
+16. Cloud of Misunderstanding
+Casting Cost: 2D (2 Generic, 1 Drama Energy)
+Rarity: Common
+Ability: Opponents cannot target your Units with abilities unless they pay 2 additional energy.
+Flavor Text: “In the haze of miscommunication, chaos reigns supreme.”
+Prompt: A thick, glowing fog hovers over a forum thread, with shadowy figures in the background gesturing and yelling at each other in confusion. Words like “misquoted” and “out of context” float through the mist.
+
+17. Piling On
+Casting Cost: 1DD (1 Generic, 2 Drama Energy)
+Rarity: Uncommon
+Ability: Whenever an opponent loses Integrity, they lose an additional point.
+Flavor Text: “The mob always adds weight to the fall.”
+Prompt: A large digital dogpile of glowing avatars, all stacking on top of a collapsed figure. Each avatar holds a sign with accusatory phrases, and the pile emits a sinister red glow.
+
+18. Social Fallout
+Casting Cost: 3DD (3 Generic, 2 Drama Energy)
+Rarity: Rare
+Ability: When Social Fallout enters the Grid, all opponents discard a card and lose 3 Integrity.
+Flavor Text: “The aftermath is often louder than the drama itself.”
+Prompt: A shattered social media feed with pixelated cracks spreading out from the center. Posts and comments fall like shards of glass, while shadowy figures recoil from the explosion.
+
+19. Reputation Recycler
+Casting Cost: 4D (4 Generic, 1 Drama Energy)
+Rarity: Rare
+Ability: Sacrifice a Unit: Restore 3 Integrity to yourself or target player.
+Flavor Text: “Rebuilding an image is easier when no one remembers the truth.”
+Prompt: A digital factory with conveyor belts turning scandalous headlines into sparkling trophies. The process emits a golden glow, masking the machinery’s jagged, harsh edges.
+
+20. Frenzy Feed
+Casting Cost: 3DD (3 Generic, 2 Drama Energy)
+Rarity: Mythic Rare
+Ability: At the beginning of each player’s turn, that player may exile a card from their hand. If they don’t, they lose 3 Integrity.
+Flavor Text: “Feeding the fire is easier than quelling it.”
+Prompt: A glowing feed filled with flashing notifications and viral posts, each more incendiary than the last. The glowing red and blue lights cast harsh shadows over faceless figures eagerly scrolling.
+
+21. Virtue Signal Beacon
+Casting Cost: 2D (2 Generic, 1 Drama Energy)
+Rarity: Common
+Ability: Sacrifice this Program: Target Unit gains +2/+2 until end of turn.
+Flavor Text: “It’s all for show, but the effects are undeniable.”
+Prompt: A tall, glowing signal tower shaped like a hand holding a heart. The beam of light projects social justice slogans into the digital sky, with shadowy figures kneeling in admiration below.
+
+22. Drama Magnet
+Casting Cost: 3D (3 Generic, 1 Drama Energy)
+Rarity: Uncommon
+Ability: At the beginning of your end step, target opponent must choose one: exile a card from their hand or lose 2 Integrity.
+Flavor Text: “It’s impossible to resist the pull of chaos.”
+Prompt: A glowing, pulsing magnet in the center of a digital battlefield, drawing in swirling fragments of text, emojis, and broken comment threads. Figures trapped in its pull reach out desperately, their faces warped with anxiety and regret.
+
+23. Cancel Culture Circuit
+Casting Cost: 4DD (4 Generic, 2 Drama Energy)
+Rarity: Mythic Rare
+Ability: When Cancel Culture Circuit enters the Grid, exile all opposing Units with Integrity of 4 or less. Whenever an opponent plays a new Unit, they must pay 2 additional energy or have it exiled immediately.
+Flavor Text: “A relentless loop, judging and erasing.”
+Prompt: A chaotic courtroom in cyberspace where shadowy figures bang gavels, each sending a glowing figure into a void of swirling code. The scene is lit by harsh, flickering screens, and the floor is a fragmented mosaic of shattered social media profiles.
