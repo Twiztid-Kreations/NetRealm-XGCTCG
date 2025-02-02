@@ -1,0 +1,96 @@
+Units (112 total)
+	Code: 21
+		Codeweaver Adept
+		Cipher Guardian
+		Algorithmic Dragon
+		Syntax Slicer
+		Debugger Infiltrator
+		Quantum Hacker
+		Code Harvester
+		Logic Arbiter
+		Firewall Golem
+		Protocol Enforcer
+		Recursive Construct
+		Assembler Bot
+		Codebound Sentinel
+		Gridwalker Adept
+		Encrypted Courier
+		Hexcode Serpent
+		Codebreaker Thief
+		Core Guardian
+		Logic Sentinel
+		Overclocked Hacker
+		Digital Phoenix
+	Creep: 21
+		Anonymous Leaker
+		Clickbait Lurker
+		Doxxing Phantom
+		Drama Stirrer
+		Catfish Predatrix
+		Sock Puppet Army
+		Cancel Construct
+		Spam Bot Swarm
+		Parasocial Devotee
+		Keyboard Warrior
+		Darkweb Broker
+		Influencer Hunter
+		Creep Dragon
+		Malware Infector
+		Phishing Fiend
+		Data Breach Specter
+		Pop-Up Poltergeist
+		Black Hat Hacker
+		Rumor Swarm
+		Exposé Revenant
+		Underworld Forum Lord
+	Glitch: 21
+		Project N3M3SIS
+		Project L1CK3R
+		Fragmented Marionette
+		Looped Rogue
+		System Eraser
+		Patchwork Soldier
+		Disruptor Drone
+		Null Stalker
+		Overclocked Harbinger
+		Virus Spawn
+		Recursive Assassin
+		Proxy Saboteur
+		Glitched Colossus
+		Errorbound Wraith
+		Glitchborn Knight
+		Static Weaver
+		Distorted Overseer
+		Anomaly Hunter
+		Codebreaker Sentinel
+		Corrupted Avatar
+
+	Gaming: 21
+	Drama: 21
+	Multicolor (Hybrid): 7
+Lands (20 total)
+	Nonbasic Lands: 15
+	Basic Lands: 5
+Relics (7 total)
+	Colorless Artifacts: 7
+Programs (18 total)
+	Code: 4
+	Creep: 2
+	Glitch: 3
+	Gaming: 3
+	Drama: 3
+	Multicolor (Hybrid): 3
+Scripts (37 total)
+	Code: 6
+	Creep: 7
+	Glitch: 6
+	Gaming: 6
+	Drama: 6
+	Multicolor (Hybrid): 6
+Updates (23 total)
+	Code: 4
+	Creep: 3
+	Glitch: 5
+	Gaming: 5
+	Drama: 4
+	Multicolor (Hybrid): 2
