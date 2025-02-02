@@ -124,6 +124,15 @@ Lands (20 total)
 		Haunted Cineplex
 		Streaming Arena
 		Fractured Arcade
+		Hacked Datastream
+		Ghost in the Wires
+		PvP Coliseum
+		Error 404 Nexus
+		Shadow Market
+		Glitched Game Lobby
+		Corrupted Server Farm
+		Viral Propagation Node
+		Backdoor Exploit Hub
 	Basic Lands: 5
 		Glitch Node
 		Code Node
@@ -166,9 +175,34 @@ Programs (18 total)
 		Behind the Curtains
 Scripts (37 total)
 	Code: 6
+		Root Access Breach
+		Execute Command: Override
+		Quantum Debugger
+		Forced System Reboot
+		Encrypt Data
+		Compile Subroutine
 	Creep: 7
+		Deep Web Scraper
+		Malware Injection
+		Blackmail Cache
+		Shadow Forum Raid
+		Zero-Day Breach
+		Identity Leak
+		DDoS Cataclysm
 	Glitch: 6
+		Script: Data Corruption
+		Glitch Loop
+		Digital Overload
+		Memory Leak
+		System Anomaly
+		Overclocked Debug
 	Gaming: 6
+		Final Boss Showdown
+		Glitching Victory
+		No Respawns
+		Ultimate Power-Up
+		Combo Breaker
+		Lag Spike
 	Drama: 6
 	Multicolor (Hybrid): 6
 Updates (23 total)

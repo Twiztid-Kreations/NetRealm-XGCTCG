@@ -1,0 +1,87 @@
+1. Script: Data Corruption
+Casting Cost: 3 Glitch Energy (3 Generic, 1 Glitch)
+Rarity: Rare
+Ability: Target player exiles the top three cards of their library. For each Program card exiled this way, that player loses 1 Integrity.
+Flavor Text: "When the data decays, nothing survives unscathed."
+
+Prompt:
+In a desolate digital void, a monstrous wave of corrupted data surges through a network, devouring everything in its path. The air shimmers with pixelated fragments as they disintegrate upon impact, turning into corrupted code that rapidly spreads, growing larger and more chaotic. A central pulse of unstable energy bursts from a fractured server, releasing tendrils of fractured data that stretch across the void, consuming entire data packets.
+
+Shattered screens with flickering error messages hover around the scene, flashing warning signs like "DATA LOSS" and "CRITICAL ERROR." Digital constructs—representations of programs and files—appear to disintegrate as the corruption spreads, turning into glitching silhouettes that fade into the swirling mass of broken code.
+
+The corrupted energy travels with a determined frenzy, each wave visibly distorting the surrounding digital environment as bits and bytes swirl and fragment, leaving behind jagged shapes and floating remains of once-stable code. The sense of inevitable destruction fills the air as the environment collapses into complete chaos, leaving only the fractured remnants of its former structure.
+
+2. Script: Glitch Loop
+Casting Cost: 2 Glitch Energy (2 Generic, 1 Glitch)
+Rarity: Rare
+Ability: Choose one—either return target Program from your discard pile to your hand or exile target Program from the Grid.
+Flavor Text: "The cycle never truly ends; it simply starts again."
+
+Prompt:
+A massive, glowing spiral of broken code pulses at the center of the image, representing the Glitch Loop. As the energy swirls within the spiral, fragments of corrupted data extend outward like streams of particles. Some of these particles fall into black voids, while others merge back into the spiral, completing the endless cycle of duplication and erasure.
+
+Surrounding the spiral are broken servers and digital structures, each one crumbling and glitching as the loop pulls them in, distorting and scrambling their data. Towering, incomplete programs stand like decayed statues, fading into static and leaving only outlines of their former selves.
+
+At the bottom of the scene, shadows of fragmented creatures or programs attempt to escape the loop, but are caught in its gravitational pull, spiraling back toward the center. Their paths are interrupted by glitches, causing them to disappear, replaced by new forms of code.
+
+The environment is a mix of dark, glitch-ridden landscapes, with jagged shapes and incomplete structures floating in a sea of corrupted static. The swirling loop at the center emanates an eerie, cold glow, signaling that time and logic bend under its influence.
+
+3. Script: Digital Overload
+Casting Cost: 4 Glitch Energy (4 Generic, 2 Glitch)
+Rarity: Rare
+Ability: Each player exiles two cards from the top of their library. Then, for each Program exiled this way, each opponent loses 1 Integrity.
+Flavor Text: "The overload is inevitable. Choose your data wisely."
+
+Prompt:
+A dramatic scene of an overloaded digital server farm, with countless glowing, multi-layered screens overloaded with an enormous influx of raw, uncontrollable data. The lights of the servers flicker and burst with electrical surges as data packets surge forward, clashing against one another in chaotic streams. Each server tower appears as a massive, twisted, unstable structure, almost on the verge of collapse.
+
+The data bursts appear as jagged waves of digital energy, slicing through the space between these towering structures. As they clash and intertwine, the resulting energy creates massive static storms that obscure portions of the scene. These storm-like anomalies pulse with corrupted code, creating a sense of impending collapse.
+
+In the foreground, shadowy figures—representing hackers or digital entities—are trying to manage the chaos, attempting to steer and control the rampant flows of data. Their faces are pixelated and partially obscured by static, showcasing their struggle to maintain control over the overflow of information.
+
+The background is filled with dark skies and a distant horizon filled with bright, chaotic flashes of data overload, suggesting the total collapse of the digital world around them. The contrast between order and destruction is palpable in this visual representation of Digital Overload.
+
+4. Script: Memory Leak
+Casting Cost: 1 Glitch Energy (1 Generic, 1 Glitch)
+Rarity: Uncommon
+Ability: Target player discards a card. If a Program card is discarded this way, you may return it to its owner's hand.
+Flavor Text: "A small drip, unnoticed, but soon everything will be lost."
+
+Prompt:
+A sprawling memory bank, once filled with organized and neatly aligned data packets, is now unraveling under the weight of a Memory Leak. Data containers spill open, with flowing streams of digital code spilling out like water. The individual pieces of data appear disjointed and chaotic, failing to maintain their former structure.
+
+At the center of the scene is a glowing, transparent vault or container, slowly cracking open as glowing symbols and lines of corrupted code escape from it. These escaping streams of data swirl upward, distorting the environment and gradually unraveling the once-solid structures.
+
+The background depicts a massive digital horizon, now fading as portions of the landscape simply vanish into the void, as if the memory itself is being erased. The entire world feels like it’s slowly slipping out of focus, with more and more space consumed by digital static.
+
+In the foreground, a solitary figure watches helplessly as their once-organized data slips away, pixel by pixel. Their hands are outstretched, but they cannot stop the leakage, and soon, the entire system will be consumed. The cold glow of forgotten memory hovers in the air, marking the inevitability of total data loss.
+
+5. Script: System Anomaly
+Casting Cost: 3 Glitch Energy (3 Generic, 1 Glitch)
+Rarity: Uncommon
+Ability: Return target Program from your discard pile to the Grid. It gains “This Program enters the Grid with a -1/-1 counter for each other Program you control.”
+Flavor Text: "Anomalies are the glitches that never quite heal."
+
+Prompt:
+The scene opens within a vast digital void, where bright, fractured beams of corrupted energy pour from a series of malfunctioning servers. These beams slice through the darkness, revealing the half-formed remains of programs suspended in time. The programs themselves are broken—twisted, corrupted, and incomplete, as if they’ve been forced to live outside the normal parameters of the Grid.
+
+These shattered programs float aimlessly, their corrupted data flowing off them like smoke. In the center of the scene, one of the programs is being recalled—pulled from the shadows of the discard pile and reconstituted, but it’s forever changed by the System Anomaly.
+
+The program, once complete and functional, now bears the weight of the glitch as it re-enters the Grid, visibly corrupted and damaged. A faint glow emanates from its shattered form as if struggling to remember its original function, while its edges crack and glitch in unpredictable patterns.
+
+The background is a digital wasteland filled with the remains of other malfunctioning data entities, some of which still twitch and blink erratically, trying to reassemble themselves into something whole. The air itself vibrates with the residual energy of the anomaly, marking its presence in the fabric of the system.
+
+6. Script: Overclocked Debug
+Casting Cost: 5 Glitch Energy (5 Generic, 3 Glitch)
+Rarity: Common
+Ability: You may return a Program from your discard pile to the Grid. That Program gains “This Program enters the Grid with an additional counter for each Program you control.”
+Flavor Text: "Push the system too far, and it might just crack."
+
+Prompt:
+In the heart of a vast data center, the environment is rapidly shifting under the strain of an overclocked Debug program. Sparks fly from overloaded wires and melting circuits as a massive, glowing core at the center of the room hums with overcharged energy. The lights flicker erratically as the entire system begins to overheat, threatening to collapse under the pressure of too many active processes.
+
+Around the central core, panels of flickering screens show code rushing in high-speed loops, displaying countless lines of debug reports as if the system is being frantically analyzed under high stress. The air is thick with rising heat, distortions, and the sound of grinding gears as the overclocked system struggles to maintain stability.
+
+In the foreground, a digital figure (a representation of the debug program) hunches over, hands crackling with unstable energy. As it interacts with the malfunctioning system, the glow around it intensifies, feeding on the instability as it attempts to repair and overclock the entire structure. However, as it pushes the system too far, the program begins to distort, showing cracks in its form, hinting at an impending system breakdown.
+
+The entire scene is illuminated by flashes of electric blue, orange, and red as power surges through the system. It’s a delicate balance of creation and destruction—one wrong move could send the whole thing into complete collapse.

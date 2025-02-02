@@ -1,0 +1,77 @@
+1. [Mythic Rare] – Root Access Breach
+Cost: 4 Code Energy
+Ability: Search your deck for any two Programs and place them directly onto the battlefield. They gain "If this card would leave play, exile it instead."
+Flavor Text: "The Grid’s deepest secrets lie behind the strongest firewalls. Lucky for me, I have the keys."
+
+Image Prompt:
+A shadowy figure kneels before an enormous, glowing security terminal, their fingers dancing over a holographic keyboard as thousands of lines of rapidly scrolling code stream across the screen. The environment is a high-tech cyber vault, filled with interconnected data nodes and luminous, floating access points that flicker like artificial stars.
+
+Behind the hacker, a massive digital barrier, resembling a translucent, crystalline wall of hexagons, begins to fracture. A glowing fracture line spreads like cracked glass as streams of gold and neon-blue energy leak from the breach. Faint figures—programs long locked away—emerge from the glowing fissure, their bodies composed of shifting numbers and glyphs.
+
+Alarms blare in the background, and security drones hover above, scanning the hacker with red, menacing eyes. But it’s too late—the Root Access Breach is complete. The system has been compromised beyond repair.
+
+2. [Rare] – Execute Command: Override
+Cost: 3 Code Energy
+Ability: Gain control of target Program or Unit until the end of the turn. If it has an activated ability, you may use it once for free this turn.
+Flavor Text: "With the right sequence, anything follows orders."
+
+Image Prompt:
+A sleek, mechanical humanoid construct stands in the center of a neon-lit battlefield, its once-hostile red eyes now flickering blue, signifying a sudden shift in allegiance. Around it, enemy warriors—dressed in cybernetic armor—react in shock, their weapons still raised but hesitating.
+
+Above, a holographic command prompt floats in mid-air, glowing bright cyan and displaying a single command:
+> EXECUTE OVERRIDE
+
+In the background, a technomancer, cloaked in flowing digital code, raises one hand as cascading lines of data spiral from their fingertips into the construct’s neural interface. Sparks fly as the code rewrites reality, bending the artificial mind to a new master’s will.
+
+The battlefield is illuminated by pulsing neon floodlights, and in the distance, towering skyscrapers flicker like unstable code, hinting at the larger hacker war unfolding beyond this single moment.
+
+3. [Rare] – Quantum Debugger
+Cost: 3 Code Energy
+Ability: Choose up to two target Programs or Units. Remove all negative status effects from them. Then, if any were controlled by an opponent, they gain "This card cannot be affected by enemy Scripts until the end of the turn."
+Flavor Text: "Errors are just challenges waiting to be rewritten."
+
+Image Prompt:
+A lone cyber-sorcerer hovers above a massive, glowing digital rune circle, hands outstretched as waves of blue and gold script flow from their fingertips. Before them, two damaged figures—a robotic warrior covered in glitching error symbols and a holographic knight flickering from instability—begin to stabilize, their broken forms reassembling pixel by pixel.
+
+Around them, floating red error messages hover in the air, displaying warnings like "System Failure" and "Critical Bug Detected." But as the quantum energy pulses outward, those messages begin to dissolve, replaced with streams of pristine, cascading code sequences.
+
+The background reveals a vast, digital cityscape with immense server towers stretching into the sky, their surfaces shimmering as the very fabric of the Grid is rewritten in real time. The once-corrupt data flows clean, and for a brief moment, order is restored.
+
+4. [Uncommon] – Forced System Reboot
+Cost: 2 Code Energy
+Ability: Return all Programs to their owners’ hands. Each player may then play one Program without paying its energy cost.
+Flavor Text: "Sometimes, the best fix is turning it off and on again."
+
+Image Prompt:
+A massive control panel displays a singular, ominous message in bold red text:
+"WARNING: SYSTEM REBOOT INITIATED"
+
+The scene is set inside an enormous server hub, where countless cables and floating data orbs weave between skyscraper-sized terminals. As the reboot process begins, entire structures start to flicker and disassemble, their glowing frameworks collapsing into cascading streams of binary code.
+
+In the foreground, several Programs—humanoid digital entities with shimmering bodies of pure energy—are being pulled back into swirling vortexes of light, their forms breaking apart like shattered glass. Some appear frightened, while others stand stoically, prepared to return once the reboot cycle is complete.
+
+Electricity arcs through the air as the entire Grid trembles from the sheer force of the command. Soon, everything will reset—and no one knows exactly how things will reassemble.
+
+5. [Common] – Encrypt Data
+Cost: 1 Code Energy
+Ability: Target Program or Unit gains "Cannot be targeted by enemy Scripts until the end of the turn."
+Flavor Text: "A locked door won’t stop a determined hacker, but it’ll slow them down."
+
+Image Prompt:
+A futuristic data vault hums with radiant blue energy, its reinforced walls lined with glowing symbols and ever-shifting encryption ciphers. Before it, a sleek holographic padlock materializes in mid-air, shifting through thousands of complex permutations per second.
+
+A lone figure, clad in a digitized cloak, watches from the shadows, their face illuminated by the flickering code that spirals around their outstretched hand. The lock pulses once, reacting to their presence, but remains sealed shut.
+
+In the background, red warning triangles blink in and out of existence, each one a sign of failed decryption attempts from unseen enemies. For now, the data is safe—hidden behind an algorithm so intricate that even the most advanced AIs would take centuries to crack.
+
+6. [Common] – Compile Subroutine
+Cost: 1 Code Energy
+Ability: Draw a card. If it is a Program, you may reveal it and add 1 additional Code Energy to your energy pool this turn.
+Flavor Text: "Every great script starts as a simple function."
+
+Image Prompt:
+A massive holographic interface floats above a neon-lit workstation, its screen displaying endless lines of green and white scrolling text. The words dance and shift as the script compiles, each function falling into place with perfect efficiency.
+
+Around the terminal, floating blueprints of cybernetic constructs hover, their skeletal frames pulsing with potential energy. A hovering drone assistant, shaped like a tiny mechanical cube, projects lines of debugging information into the air, ensuring everything runs smoothly.
+
+As the final line of code is executed, the screen flashes "COMPILATION SUCCESSFUL." The developer, clad in sleek cybernetic implants, grins—they’ve just created something new—something that will change the game.

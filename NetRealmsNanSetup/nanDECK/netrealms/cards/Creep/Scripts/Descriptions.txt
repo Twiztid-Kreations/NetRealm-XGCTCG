@@ -1,0 +1,50 @@
+1. Deep Web Scraper (1C)
+Ability: Look at the top four cards of your deck. You may put one into your hand and the rest into your discard pile. Then, each opponent loses 1 Integrity unless they exile a card from their discard pile.
+Flavor Text: "Nothing stays hidden forever—not when the right search terms are used."
+
+Image Prompt:
+A grimy, neon-lit basement cluttered with multiple monitors, each displaying streams of stolen data—bank accounts, chat logs, hidden forum threads. The glow from the screens barely illuminates the hunched-over figure at the desk, their face obscured by a dark hoodie. Fingers tap frantically at a keyboard, lines of code scrolling endlessly. A spiderweb of exposed wires snakes along the floor, connecting to a crude-looking server tower that hums ominously. Somewhere in the darkness, a camera blinks red, recording every move.
+
+2. Malware Injection (2C)
+Ability: Target opponent exiles a card from their hand. If they cannot, they lose 2 Integrity.
+Flavor Text: "Click once, and everything you own belongs to someone else."
+
+Image Prompt:
+A malicious pop-up ad dominates a computer screen, flashing intrusive text: "YOU'VE WON! CLAIM YOUR PRIZE NOW!" A trembling hand hovers over the mouse, unaware of the sinister program lurking beneath the surface. Ghostly, jagged lines of corrupted code twist around the cursor like hungry tendrils, waiting for the inevitable click. In the reflection of the monitor, a shadowy figure with glowing eyes grins wickedly.
+
+Uncommon
+3. Blackmail Cache (2CC)
+Ability: Look at target opponent’s hand and choose a card. That player must either discard it or lose 3 Integrity.
+Flavor Text: "One bad decision, and suddenly you're playing by someone else's rules."
+
+Image Prompt:
+A high-tech briefcase sits open on a conference table, revealing a holo-screen displaying a series of incriminating messages, scandalous photos, and damning financial records. A sweating executive clutches their head in despair as a masked figure, draped in shadows, slides a single data chip across the table. The room is suffocatingly dim, save for the eerie red glow of a security camera in the corner.
+
+4. Shadow Forum Raid (3CC)
+Ability: Each opponent mills three cards. For each Unit card milled this way, they lose 1 Integrity.
+Flavor Text: "Some places aren’t just hidden—they’re protected by the worst kinds of people."
+
+Image Prompt:
+A dark, anonymous forum filled with scrolling text in an unreadable cipher. The digital room is filled with faceless avatars, each sporting a different grotesque mask—some glitching, others shifting between expressions. A sudden rupture tears through the space as a figure in tactical cyber-gear forcefully intrudes, causing avatars to flicker and distort. Encrypted files spill into the void, leaking their contents into the open. The air is thick with static, like a system struggling to process its own demise.
+
+Rare
+5. Zero-Day Breach (3CCC)
+Ability: Target player reveals their hand. Choose two non-Energy cards—they must discard one and exile the other.
+Flavor Text: "The worst part? You won’t even know what hit you."
+
+Image Prompt:
+A glowing skull with empty, pixelated eyes looms over a terminal screen, its form composed entirely of cascading green code. The words "SECURITY COMPROMISED" blink in massive red letters. In the background, panicked employees in a data center scramble as sparks fly from overloaded servers. The breach spreads like wildfire—firewalls crumble, personal data leaks, and distant alarms wail in futility.
+
+6. Identity Leak (4CC)
+Ability: Each opponent discards a card. Then, for each opponent who discarded a card, you draw a card and gain 1 Creep Energy.
+Flavor Text: "Your name, your past, your deepest secrets—for sale to the highest bidder."
+
+Image Prompt:
+A laptop screen shows an open dark web auction. Bidding wars erupt over stolen identities, complete with names, addresses, and social security numbers. A cloaked figure leans back in a dimly lit room, watching the numbers rise with a satisfied smirk. Their fingers are interlocked, and behind them, dozens of holographic profiles float eerily, each one stripped of its privacy. A storm of notifications cascades down the screen, detailing each finalized sale.
+
+7. DDoS Cataclysm (5CCC)
+Ability: Each opponent exiles the top four cards of their deck. For each non-Energy card exiled this way, they lose 1 Integrity.
+Flavor Text: "One attack is an annoyance. A million at once? The whole system collapses."
+
+Image Prompt:
+A digital tsunami crashes down upon a massive corporate server tower, made not of water, but of overlapping windows filled with error messages, pop-ups, and lines of corrupted code. The tower flickers violently, its structure breaking apart as data streams pour out like liquid light. In the foreground, a hacker’s screen displays a command prompt: "ATTACK EXECUTED." Below it, a live count of thousands—no, millions—of infected botnets surging forward in relentless waves. The company’s desperate firewall flickers for a moment... then vanishes entirely.
