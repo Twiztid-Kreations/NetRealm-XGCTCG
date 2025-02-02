@@ -64,22 +64,106 @@ Units (112 total)
 		Anomaly Hunter
 		Codebreaker Sentinel
 		Corrupted Avatar
-
 	Gaming: 21
+		Pixel Knight
+		Respawn Scout
+		Critical Striker
+		Glitch Dragon
+		Avatar Hero
+		Dungeon Crawler
+		AFK Ranger
+		Speedrun Assassin
+		Beta Tester
+		Rage Quitter
+		Boss Monster
+		Level-Up Warrior
+		Patch Notes Guru
+		Stream Sniper
+		RNG Manipulator
+		Lag Beast
+		Arcade Brawler
+		Memory Corruptor
+		Savepoint Guardian
+		Final Boss Avatar
+		Shard Runner
 	Drama: 21
+		Queen of Cancelation
+		Tea Spiller
+		Subtweet Assassin
+		Clout Chaser
+		Flame War General
+		Apology Video Star
+		Drama Channel Gossipmonger
+		Receipts Collector
+		The Gaslighter
+		Petty Argument Goblin
+		Viral Callout Champion
+		Keyboard Crusader
+		Drama Magnet
+		Gatekeeping Sentinel
+		Anonymous Whisperer
+		Dramageddon Witness
+		Toxic Threadmaster
+		The Scandalous Shadow
+		The Clapback King
+		The Exposer
+		Crimson Scammer
 	Multicolor (Hybrid): 7
+		Roll-Safe Rogue
+		Horror Movie Antagonist
+		Cult Classic Ghoul
+		Monster Movie Colossus
+		Silent Film Specter
+		Horror Reel Haunter
+		Cinematic Wyvern
 Lands (20 total)
 	Nonbasic Lands: 15
+		Dark Nexus
+		Fractured Repository
+		Cinema Archive Nexus
+		Haunted Cineplex
+		Streaming Arena
+		Fractured Arcade
 	Basic Lands: 5
+		Glitch Node
+		Code Node
+		Drama Node
+		Gaming Node
+		Creep Node
 Relics (7 total)
 	Colorless Artifacts: 7
+		Encrypted Drive
+		Code Compiler
+		Algorithmic Prism
+		Gamepad of Mastery
+		Holo-Key
+		Corrupted Mirror
+		Error Generator
 Programs (18 total)
 	Code: 4
+		Compiled Wisdom
+		Recursive Threads
+		Daemon’s Pact
+		Quantum Compiler
 	Creep: 2
+		Doxx Vault
+		Watcher’s Curse
 	Glitch: 3
+		Data Corruption
+		Fatal Loop
+		Ghost in the Protocol
 	Gaming: 3
+		Game Over Reset
+		Health Bar Overflow
+		Boss Battle Prelude
 	Drama: 3
+		Fabricated Evidence
+		Public Outcry
+		Digital Witch Hunt
 	Multicolor (Hybrid): 3
+		Rising Tension
+		Fade to Black
+		Behind the Curtains
 Scripts (37 total)
 	Code: 6
 	Creep: 7
