@@ -1,5 +1,5 @@
 Units (112 total)
-	Code: 21
+✓	Code: 21
 		Codeweaver Adept
 		Cipher Guardian
 		Algorithmic Dragon
@@ -21,7 +21,7 @@ Units (112 total)
 		Logic Sentinel
 		Overclocked Hacker
 		Digital Phoenix
-	Creep: 21
+✓	Creep: 21
 		Anonymous Leaker
 		Clickbait Lurker
 		Doxxing Phantom
@@ -43,7 +43,7 @@ Units (112 total)
 		Rumor Swarm
 		Exposé Revenant
 		Underworld Forum Lord
-	Glitch: 21
+✓	Glitch: 21
 		Project N3M3SIS
 		Project L1CK3R
 		Fragmented Marionette
@@ -65,7 +65,7 @@ Units (112 total)
 		Codebreaker Sentinel
 		Corrupted Avatar
 		Shard Runner
-	Gaming: 21
+✓	Gaming: 21
 		Pixel Knight
 		Respawn Scout
 		Critical Striker
@@ -87,7 +87,7 @@ Units (112 total)
 		Savepoint Guardian
 		Final Boss Avatar
 		Glitch Dragon
-	Drama: 21
+✓	Drama: 21
 		Queen of Cancelation
 		Tea Spiller
 		Subtweet Assassin
@@ -110,7 +110,7 @@ Units (112 total)
 		The Exposer
 		Crimson Scammer
 		Dark Carnival
-	Multicolor (Hybrid): 7
+✓	Multicolor (Hybrid): 7
 		Roll-Safe Rogue
 		Horror Movie Antagonist
 		Cult Classic Ghoul
@@ -119,7 +119,7 @@ Units (112 total)
 		Horror Reel Haunter
 		Cinematic Wyvern
 Lands (20 total)
-	Nonbasic Lands: 15
+✓	Nonbasic Lands: 15
 		Dark Nexus
 		Fractured Repository
 		Cinema Archive Nexus
@@ -135,14 +135,14 @@ Lands (20 total)
 		Corrupted Server Farm
 		Viral Propagation Node
 		Backdoor Exploit Hub
-	Basic Lands: 5
+✓	Basic Lands: 5
 		Glitch Node
 		Code Node
 		Drama Node
 		Gaming Node
 		Creep Node
 Relics (7 total)
-	Colorless Artifacts: 7
+✓	Colorless Artifacts: 7
 		Encrypted Drive
 		Code Compiler
 		Algorithmic Prism
@@ -151,39 +151,39 @@ Relics (7 total)
 		Corrupted Mirror
 		Error Generator
 Programs (18 total)
-	Code: 4
+✓	Code: 4
 		Compiled Wisdom
 		Recursive Threads
 		Daemon’s Pact
 		Quantum Compiler
-	Creep: 2
+✓	Creep: 2
 		Doxx Vault
 		Watcher’s Curse
-	Glitch: 3
+✓	Glitch: 3
 		Data Corruption
 		Fatal Loop
-		Ghost in the Protocol
-	Gaming: 3
+		Glitch Storm
+✓	Gaming: 3
 		Game Over Reset
 		Health Bar Overflow
 		Boss Battle Prelude
-	Drama: 3
+✓	Drama: 3
 		Fabricated Evidence
 		Public Outcry
 		Digital Witch Hunt
-	Multicolor (Hybrid): 3
+✓	Multicolor (Hybrid): 3
 		Rising Tension
 		Fade to Black
 		Behind the Curtains
 Scripts (37 total)
-	Code: 6
+✓	Code: 6
 		Root Access Breach
 		Execute Command: Override
 		Quantum Debugger
 		Forced System Reboot
 		Encrypt Data
 		Compile Subroutine
-	Creep: 7
+✓	Creep: 7
 		Deep Web Scraper
 		Malware Injection
 		Blackmail Cache
@@ -191,13 +191,13 @@ Scripts (37 total)
 		Zero-Day Breach
 		Identity Leak
 		DDoS Cataclysm
-	Glitch: 6
-		Script: Data Corruption
-		Glitch Loop
-		Digital Overload
-		Memory Leak
-		System Anomaly
-		Overclocked Debug
+✓	Glitch: 6
+		Data Corruption 
+		Glitch Loop 
+		Digital Overload 
+		Memory Leak 
+		System Anomaly 
+		Overclocked Debug 
 	Gaming: 6
 		Final Boss Showdown
 		Glitching Victory

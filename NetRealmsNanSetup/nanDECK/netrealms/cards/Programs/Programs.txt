@@ -1,0 +1,106 @@
+Compiled Wisdom
+	Casting Cost: 4CC (4 Generic, 2 Code Energy)
+	Rarity: Rare
+	Ability: At the beginning of your upkeep, draw a card for each Program you control.
+	Flavor Text: “The sum of knowledge is greater than its parts
+
+Recursive Threads
+	Casting Cost: 3CC (3 Generic, 2 Code Energy)
+	Rarity: Uncommon
+	Ability: Whenever you mill a card, gain 1 Integrity.
+	Flavor Text: “Threads of magic run endlessly, connecting the impossible.”
+
+Quantum Compiler
+	Casting Cost: 4CC (4 Generic, 2 Code Energy)
+	Rarity: Rare
+	Ability: At the beginning of your end step, choose one: Draw a card, scry 2, or return a Program from your archive to your hand.
+	Flavor Text: “Infinite possibilities, one optimal path.”
+
+Daemon’s Pact
+	Casting Cost: 6C (6 Generic, 1 Code Energy)
+	Rarity: Rare
+	Ability: When Daemon’s Pact enters the Grid, search your archive for a Program and cast it without paying its energy cost.
+	Flavor Text: “The deal is simple: power for control.”
+
+Doxx Vault
+	Casting Cost: 2CC (2 Generic, 2 Creep Energy)
+	Rarity: Uncommon
+	Ability: Whenever an opponent loses Integrity, you may draw a card.
+	Flavor Text: “Knowledge is power, but stolen knowledge is control.”
+
+Watcher’s Curse
+	Casting Cost: 3C (3 Generic, 1 Creep Energy)
+	Rarity: Common
+	Ability: Units your opponents control enter the Grid tapped.
+
+Data Corruption
+	Casting Cost: 3G (3 Generic, 1 Glitch Energy)
+	Rarity: Uncommon
+	Ability: At the beginning of each player's upkeep, they discard a card at random, then draw a card.
+	Flavor Text: “When the data is tainted, so is the outcome.”
+
+Fatal Loop
+	Casting Cost: 3GG (3 Generic, 2 Glitch Energy)
+	Rarity: Rare
+	Ability: At the beginning of your upkeep, you may return a Program card from your archive to the Grid.
+	Flavor Text: “An infinite cycle, forever flawed.”
+
+Glitch Storm
+	Casting Cost: 4G (4 Generic, 1 Glitch Energy)
+	Rarity: Rare
+	Ability: Whenever a player casts a spell, exile the top card of their archive. You may play those cards until the end of your next turn.
+	Flavor Text: “The storm spares no system—it rips through archives like paper.”
+
+Boss Battle Prelude
+	Casting Cost: 5GG (5 Generic, 2 Gaming Energy)
+	Rarity: Rare
+	Ability: At the beginning of your combat step, choose an opponent’s Unit. That Unit cannot block this turn and loses all abilities until the end of the turn.
+	Flavor Text: "Prepare your power-ups—this fight will test your limits."
+
+Game Over Reset
+	Casting Cost: 4G (4 Generic, 1 Gaming Energy)
+	Rarity: Rare
+	Ability: When Game Over Reset enters the Grid, shuffle all Units into their owners' libraries. Each player may draw a card.
+	Flavor Text: "The end is just the beginning."
+
+Health Bar Overflow
+	Casting Cost: 2G (2 Generic, 1 Gaming Energy)
+	Rarity: Common
+	Ability: Enchanted Unit gains +2/+2 and “Whenever this Unit deals combat damage to a player, you gain that much Integrity.”
+	Flavor Text: "Sometimes, all you need is a boost to outlast the opponent."
+
+Fabricated Evidence
+	Casting Cost: 2DD (2 Generic, 2 Drama Energy)
+	Rarity: Rare
+	Ability: Exile target Unit. If that Unit was a Mythic, you gain 4 Integrity.
+	Flavor Text: “The truth doesn’t matter when a lie is more entertaining.”
+
+Public Outcry
+	Casting Cost: 2D (2 Generic, 1 Drama Energy)
+	Rarity: Common
+	Ability: Whenever a Unit deals combat damage to you, its controller loses 1 Integrity.
+	Flavor Text: “The louder the noise, the heavier the guilt.”
+
+Digital Witch Hunt
+	Casting Cost: 4DD (4 Generic, 2 Drama Energy)
+	Rarity: Mythic Rare
+	Ability: When this Program enters the Grid, choose an opponent. That player exiles two Units they control and loses Integrity equal to their total power.
+	Flavor Text: “Online, everyone’s a suspect.”
+
+Rising Tension
+	Casting Cost: 4M (4 Generic, 1 Movie Energy)
+	Rarity: Uncommon
+	Ability: Units you control gain +1/+1. Opponents' Units get -1/-1.
+	Flavor Text: "As the story builds, so does the pressure."
+
+Fade to Black
+	Casting Cost: 2M (2 Generic, 1 Movie Energy)
+	Rarity: Common
+	Ability: Exile target Unit until Fade to Black leaves the Grid.
+	Flavor Text: "Every story ends, but not every character is forgotten."
+
+Behind the Curtains
+	Casting Cost: 3M (3 Generic, 1 Movie Energy)
+	Rarity: Rare
+	Ability: Look at the top three cards of your Grid. You may reveal a Unit or Relic card and put it into your hand. Put the rest on the bottom of your archive.
+	Flavor Text: "Every masterpiece hides a secret."

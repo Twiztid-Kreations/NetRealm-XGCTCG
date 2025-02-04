@@ -1,0 +1,155 @@
+Root Access Breach
+	Rarity: Rare
+	Casting Cost: 2 Code Energy
+	Ability: Target opponent reveals their hand. Choose a card from it. That player discards that card unless they pay 3 Code Energy.
+	Flavor Text: "Bypassing security... Welcome, Administrator."
+	Image Prompt:
+		A sleek, futuristic hacker's terminal glows in the dim light of a cybernetic workspace. Lines of green and red code stream down a holographic display as a shadowy figure in a hood manipulates the system. A high-tech firewall shatters into digital shards as unauthorized access is granted. The atmosphere is tense, with dark blue lighting and a faint red alert siren flashing in the background.
+
+Execute Command: Override
+	Rarity: Mythic Rare
+	Casting Cost: 4 Code Energy
+	Ability: Gain control of target Program or System until the end of your next turn. It gains Haste. If it was an enemy System, you may immediately activate one of its abilities without paying its cost.
+	Flavor Text: "You're not in control anymore. I am."
+	Image Prompt:
+		A massive cybernetic control panel dominates the scene, with glowing red tendrils of digital energy extending from a single terminal. A figure in a sleek, futuristic bodysuit stands before it, hands raised as if conducting an orchestra of chaos. In the distance, a large mechanical fortress is shown shutting down, its defenses compromised. The interface is filled with cascading error messages and a bright, ominous "OVERRIDE ENGAGED" message.
+
+Quantum Debugger
+	Rarity: Uncommon
+	Casting Cost: 3 Code Energy
+	Ability: **Choose one:
+		Remove all glitches from a target Program or System.
+		Counter the effect of a Bug card.
+		Draw a card.**
+	Flavor Text: "Errors are just undiscovered solutions."
+	Image Prompt:
+		A sleek, silver device hovers in the air, surrounded by shimmering strands of blue quantum energy. Within its core, digital anomalies and corrupted data fragments are rapidly being repaired. The background features a futuristic cityscape, with translucent data streams flowing through the buildings like veins of light. A robotic hand reaches out, adjusting the device with precision as holographic error messages dissolve into clean code.
+
+Forced System Reboot
+	Rarity: Rare
+	Casting Cost: 5 Code Energy
+	Ability: Each player shuffles their hand into their deck, then draws five cards. Reset all active Systems to their default state.
+	Flavor Text: "Have you tried turning it off and on again?"
+	Image Prompt:
+		A vast digital landscape collapses and reboots in a stunning display of neon circuitry. Electric pulses ripple outward from a central terminal as towering structures made of code break apart and reconstruct themselves. The atmosphere is filled with floating error messages, rapidly replaced by reboot sequences. A lone AI construct watches from the shadows, its glowing eyes the only constant in the chaos.
+
+Encrypt Data
+	Rarity: Uncommon
+	Casting Cost: 2 Code Energy
+	Ability: Choose a card in your hand. Exile it face down. You may play it on a future turn by paying its original cost plus 1 additional Code Energy.
+	Flavor Text: "If they can’t find it, they can’t steal it."
+	Image Prompt:
+		A futuristic vault made entirely of glowing golden code sits at the center of the image, surrounded by shifting firewall barriers of pure light. A masked figure types rapidly on a holographic keyboard, their fingers leaving trails of digital energy as they lock away crucial data. In the background, ominous figures in black trench coats attempt to break through the security, but the walls shimmer and repel them.
+
+Compile Subroutine
+	Rarity: Common
+	Casting Cost: 1 Code Energy
+	Ability: Look at the top three cards of your deck. You may place one in your hand and shuffle the rest back. If you control a Program, you may draw an additional card.
+	Flavor Text: "Running script… Process complete."
+	Image Prompt:
+		A dazzling, three-dimensional display of glowing blue and white code assembles itself into a functional program. At the heart of the scene, a complex algorithm is visualized as a floating sphere of rotating symbols and numbers, gradually forming into a recognizable shape. The background features an immense data grid stretching into infinity, with circuits lighting up like constellations as the subroutine takes effect.
+
+Deep Web Scraper
+	Rarity: Rare
+	Casting Cost: 4 Creep Energy
+	Ability: Reveal the top five cards of your deck. Choose one and add it to your hand. Banish the rest. If the chosen card is a Program, it costs 1 less to cast this turn.
+	Flavor Text: "Beneath the surface, knowledge festers in the dark."
+	Image Prompt:
+		A shadowy figure in a hoodie sits before multiple glowing monitors, each displaying cryptic symbols, dark web marketplaces, and hidden forums. His face is obscured, but green code cascades over his silhouette, forming eerie skull-like shapes. In the background, strange symbols from an unknown language seem to whisper from the screens. The room is dimly lit, with only the ghostly glow of the screens illuminating the tangled mess of cables and outdated computer hardware.
+
+Malware Injection
+	Rarity: Uncommon
+	Casting Cost: 3 Creep Energy
+	Ability: Target opposing Program loses all abilities and gains "At the start of each turn, lose 1 Energy."
+	Flavor Text: "A single corrupted line of code can turn a titan into a corpse."
+	Image Prompt:
+		A monstrous, digital virus in the shape of a writhing, cybernetic parasite burrows into a glowing, blue holographic construct. The construct's form is disintegrating, transforming from a sleek futuristic avatar into a distorted, glitch-ridden nightmare. The virus has metallic mandibles, and its tendrils spread like veins, corrupting everything it touches. In the background, flashing red warnings scream "SYSTEM COMPROMISED" while lines of malicious code rewrite reality.
+
+Blackmail Cache
+	Rarity: Rare
+	Casting Cost: 5 Creep Energy
+	Ability: Look at target opponent’s hand. Choose one non-Energy card. That player must play it next turn if able. If they cannot, they lose 3 Energy.
+	Flavor Text: "Once you see what they’re hiding, control is just a whisper away."
+	Image Prompt:
+		A dimly lit room filled with stacks of printed emails, disturbing photographs, and USB drives. A shadowy figure in the foreground is holding up a glowing tablet displaying a terrified person's face, their secrets exposed. The screen behind him is filled with classified documents, blacked-out names, and a menacing countdown timer. The vibe is one of digital extortion—cold, calculated, and merciless.
+
+Shadow Forum Raid
+	Rarity: Uncommon
+	Casting Cost: 4 Creep Energy
+	Ability: Each opponent discards a card at random. If a card discarded this way is a Program, you gain 2 Energy.
+	Flavor Text: "When the wrong crowd gathers, the right chaos unfolds."
+	Image Prompt:
+		A dark underground forum, filled with cloaked figures seated around a glowing neon pentagram of corrupted code. Their faces are hidden beneath glitching masks, displaying distorted emojis and static. Threads of text float in the air, filled with slurs, threats, and cryptic plans for digital mayhem. In the background, a massive flood of malicious messages engulfs a bright, blue firewall, cracking it apart.
+
+Zero-Day Breach
+	Rarity: Mythic Rare
+	Casting Cost: 6 Creep Energy
+	Ability: Destroy target Program or System. That player cannot play cards of the same type until the end of their next turn.
+	Flavor Text: "Exploits don’t last forever—use them while they’re still lethal."
+	Image Prompt:
+		A cybernetic skull, half-machine and half-decaying flesh, with neon-blue eyes glowing like firewalls breaking apart. Lines of code swirl around it like an infernal storm. The skull’s mouth is wide open, and streams of corrupted data pour out, ripping apart a digital fortress behind it. A lone hacker’s hands are visible in the foreground, rapidly typing on a keyboard with fingers flickering like holograms, shaping the destruction in real-time.
+
+Identity Leak
+	Rarity: Rare
+	Casting Cost: 3 Creep Energy
+	Ability: Each opponent reveals their hand. Choose one non-Energy card from each hand; its owner discards it.
+	Flavor Text: "You are not your name. You are what they make of you."
+	Image Prompt:
+		A figure in a hoodie stands in the middle of a city at night, but their face is a shifting blur of stolen identities. Floating around them are dozens of stolen ID cards, passports, and social media profiles, each with distorted and glitched-out names and faces. A massive digital billboard behind them reads "WHO ARE YOU REALLY?" as data streams fall like rain, revealing glimpses of exposed personal information—bank accounts, medical records, and login credentials.
+
+DDoS Cataclysm
+	Rarity: Mythic Rare
+	Casting Cost: 7 Creep Energy
+	Ability: All opponents discard two cards. Then, tap all enemy Systems and Programs; they do not untap next turn.
+	Flavor Text: "The flood of mindless requests drowns all in chaos."
+	Image Prompt:
+		A colossal storm of digital skulls, each representing a botnet, swarms toward a massive, glowing server tower. The tower's defenses are crumbling, with cracks forming in its once-impenetrable firewalls. Thousands of lines of data overload the air, forming a tsunami of neon numbers and symbols. In the foreground, a desperate operator is slumped over a console, staring at the words "CONNECTION TIMED OUT" flashing across every screen.
+		
+Data Corruption
+	Rarity: Rare
+	Casting Cost: 3 Glitch Energy
+	Ability: Choose a Program on the field. That Program loses all abilities and gains "At the start of your turn, lose 1 Memory." If this card is cast from the discard pile, double its effect.
+	Flavor Text:"A single corrupted bit can collapse an entire system."
+	Image Description:
+		A digital landscape is shown with cascading red error messages flooding the screen. A once-pristine city of data is now fragmented, with jagged cracks forming between neon skyscrapers. Pixelated glitches spread like a virus, distorting the environment into chaotic, unreadable code. In the foreground, a hand made of glowing blue data begins to dissolve into static.
+
+Glitch Loop
+	Rarity: Uncommon
+	Casting Cost: 2 Glitch Energy
+	Ability:Return target Script from your discard pile to your hand. If it has Glitch Energy in its cost, you may cast it this turn for 1 less.
+	Flavor Text: "Trapped in the infinite recursion of a broken line of code."
+	Image Description:
+		A surreal vortex of looping code spirals into infinity, with multiple ghostly echoes of the same spell being cast over and over again. The colors are an unsettling mix of neon purples and electric greens, flickering as if the image itself is unstable. Binary numbers float through the air, distorting with each cycle, creating an eerie sense of deja vu.
+
+Digital Overload
+	Rarity: Mythic Rare
+	Casting Cost: 5 Glitch Energy
+	Ability:All players discard their hands, then draw cards equal to the number of Scripts they discarded. For each card drawn this way, its owner loses 1 Memory.
+	Flavor Text: "The flood of raw data burns brighter than any firewall."
+	Image Description:
+		An enormous wave of digital energy crashes into a cybernetic fortress, shattering it into thousands of glowing data fragments. Blue and white lightning arcs violently, overloading circuits and shattering screens. Silhouettes of figures, their forms pixelated and warping from the sheer force, try in vain to shield themselves as their data integrity collapses.
+
+Memory Leak
+	Rarity: Rare
+	Casting Cost: 3 Glitch Energy
+	Ability: Target player mills 4 cards. If any of them are Programs, they take 2 damage. If this card is cast from the discard pile, mill an additional 2 cards.
+	Flavor Text: "Bit by bit, it all fades away."
+	Image Description:
+		A humanoid figure made of shimmering code sits hunched over, their form dripping away like liquid data. Streams of glowing blue numbers flow from their head into the void, evaporating into nothingness. The background is dark and fragmented, as if reality itself is being erased one line of code at a time. A faint red warning symbol blinks in the corner of the scene.
+
+System Anomaly
+	Rarity: Uncommon
+	Casting Cost: 4 Glitch Energy
+	Ability: Choose a target card in play. Randomly alter one of its numerical values by ±1. (Power, Cost, or Effect values may change.)If the change makes the card’s effect impossible, exile it.
+	Flavor Text: "Errors breed chaos. Chaos breeds opportunity."
+	Image Description:
+		A futuristic control room filled with holographic displays is in disarray as the screens flicker wildly, showing random errors and shifting values. A sleek robotic administrator looks on in horror as a glowing purple sphere of raw code pulses in the center of the room, distorting everything around it. Numbers and symbols float mid-air, rearranging themselves unpredictably.
+
+Overclocked Debug
+	Rarity: Mythic Rare
+	Casting Cost: 6 Glitch Energy
+	Ability: Destroy all programs in play. Then, exile this card.
+	Flavor Text: "A final, desperate reset before the system implodes."
+	Image Description:
+		A vast cyber-realm is caught in an apocalyptic meltdown, with beams of bright red energy purging the corrupted system. Lines of faulty code disintegrate, leaving only a single glowing figure standing amidst the ruins—rebuilt, stronger, and free of the previous constraints. The air crackles with power as fragments of shattered data float in zero gravity.
+
