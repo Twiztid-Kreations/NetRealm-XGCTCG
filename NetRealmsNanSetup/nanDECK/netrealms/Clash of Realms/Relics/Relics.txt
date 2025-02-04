@@ -1,0 +1,36 @@
+Encrypted Drive (Energy Cost: 2C; Rarity: Common)
+	Effect: Tap: Add one Energy of any color.
+	Flavor Text: “Without the key, it’s just a shiny paperweight.”
+	
+Code Compiler (Energy Cost: 4C; Rarity: Rare)
+	Effect: Tap: Draw a card.
+	Flavor Text: “Feed it chaos; it returns clarity.”
+
+Algorithmic Prism (Energy Cost: 2C; Rarity: Uncommon)
+	Effect: Tap: Add one Energy of any color. Spend this Energy only on Units.
+	Flavor Text: “A spectrum of possibilities, all within reach.”
+
+Gamepad of Mastery
+	Energy Cost: 1G (1 Generic, 1 Game Energy)
+	Rarity: Common
+	Effect: Equipped Unit gains +2/+0.
+	Equip: 2
+	Flavor Text: “Master the pad, master the game.”
+
+Holo-Key
+	Energy Cost: 1G (1 Generic, 1 Glitch Energy)
+	Rarity: rare
+	Effect: Tap: Search your archive for a Program and then exile Holo-Key.
+	Flavor Text: “The doors it unlocks are endless. Just don’t expect to know what’s on the other side."
+	
+Corrupted Mirror
+	Rareity: Uncommon
+	Energy Cost: 2G (2 Generic, 1 Glitch Energy)
+	Effect: Tap: Copy target Unit's abilities until end of turn. You lose 1 Energy
+	Flavor Text: "It reflects more than just an image—it reveals possibilities you wish it wouldn’t."
+	
+Error Generator
+	Energy Cost: 4G (4 Generic, 1 Glitch Energy)
+	Rarity: Rare
+	Effect: Sacrifice Error Generator: Exile the top 2 cards of each player’s archive.
+	Flavor Text: "From the heart of chaos, it rewrites the rules of existence."

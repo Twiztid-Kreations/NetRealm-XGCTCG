@@ -1,0 +1,785 @@
+Codeweaver Adept
+	Casting Cost: 2C (2 Generic, 1 Code Energy)
+	Rarity: Common
+	Attack/Defense: 2/3
+	Ability: Whenever you cast a Program, put a +1/+1 counter on Codeweaver Adept.
+	Flavor Text: “Code is the fabric of our reality. I simply rethread it.”
+
+Cipher Guardian
+	Casting Cost: 3CC (3 Generic, 2 Code Energy)
+	Rarity: Rare
+	Attack/Defense: 4/4
+	Ability: Units you control have Ward 2 (Spells or abilities targeting them cost an additional 2 energy to cast).
+	Flavor Text: “A cipher protects the truth, just as I protect the Grid.”
+
+Algorithmic Dragon
+	Casting Cost: 6CCC (6 Generic, 3 Code Energy)
+	Rarity: Mythic Rare
+	Attack/Defense: 6/6
+	Ability: Flying, Trample. Whenever you cast a Program, create a 1/1 Code Sprite token with “Sacrifice this: Scry 1.”
+	Flavor Text: “An engine of pure logic, soaring through infinite lines of code.”
+
+Syntax Slicer
+	Casting Cost: 4C (4 Generic, 1 Code Energy)
+	Rarity: Uncommon
+	Attack/Defense: 3/3
+	Ability: First Strike. Whenever Syntax Slicer deals damage to a player, exile the top card of their Archive. You may cast that card this turn if it’s a Program.
+	Flavor Text: “Syntax errors? Not on my watch.”
+
+Debugger Infiltrator
+	Casting Cost: 3C (3 Generic, 1 Code Energy)
+	Rarity: Common
+	Attack/Defense: 2/2
+	Ability: When Debugger Infiltrator enters the Grid, look at the top three cards of your Archive. You may put a Program from among them into your hand.
+	Flavor Text: “Find the flaw, correct the flaw, optimize the flaw.”
+
+Quantum Hacker
+	Casting Cost: 5CC (5 Generic, 2 Code Energy)
+	Rarity: Rare
+	Attack/Defense: 5/5
+	Ability: Whenever Quantum Hacker attacks, exile the top card of your Archive face down. You may play that card this turn without paying its casting cost if it’s a Program.
+	Flavor Text: “The future is written in code, but I rewrite the future.”
+
+Code Harvester
+	Casting Cost: 2C (2 Generic, 1 Code Energy)
+	Rarity: Common
+	Attack/Defense: 1/4
+	Ability: Whenever a Program enters the Grid under your control, gain 1 Energy.
+	Flavor Text: “Lines of code, strands of power.”
+
+Logic Arbiter
+	Casting Cost: 4C (4 Generic, 1 Code Energy)
+	Rarity: Uncommon
+	Attack/Defense: 3/5
+	Ability: When Logic Arbiter enters the Grid, exile a target nonland card from an 	opponent’s Archive until Logic Arbiter leaves the Grid.
+	Flavor Text: “If logic prevails, chaos is nothing but a bug.”	
+
+Firewall Golem
+	Casting Cost: 5CC (5 Generic, 2 Code Energy)
+	Rarity: Rare
+	Attack/Defense: 6/6
+	Ability: Defender, Hexproof. Whenever an opponent casts a Program, they must pay an additional 2 Energy or counter it.
+	Flavor Text: “No backdoors, no exploits, no mercy.”
+
+Protocol Enforcer
+	Casting Cost: 3C (3 Generic, 1 Code Energy)
+	Rarity: Uncommon
+	Attack/Defense: 2/4
+	Ability: Vigilance. Whenever an opponent casts a Program outside of their main phase, counter that spell unless they pay 3 Energy.
+	Flavor Text: “All unauthorized access attempts will be denied.”
+
+Recursive Construct
+	Casting Cost: 2C (2 Generic, 1 Code Energy)
+	Rarity: Common
+	Attack/Defense: 1/1
+	Ability: When Recursive Construct dies, create a token that’s a copy of it unless an opponent pays 2 Energy.
+	Flavor Text: “An infinite loop of existence.”
+
+Assembler Bot
+	Casting Cost: 3C (3 Generic, 1 Code Energy)
+	Rarity: Common
+	Attack/Defense: 2/3
+	Ability: When Assembler Bot enters the Grid, create a 1/1 Code Sprite token with “Sacrifice this: Add 1 Energy.”
+	Flavor Text: “Build, compile, deploy.”
+
+Codebound Sentinel
+	Casting Cost: 4C (4 Generic, 1 Code Energy)
+	Rarity: Uncommon
+	Attack/Defense: 4/4
+	Ability: Vigilance, Ward 2.
+	Flavor Text: “Bound to the Grid, sworn to protect it.”
+
+Gridwalker Adept
+	Casting Cost: 3C (3 Generic, 1 Code Energy)
+	Rarity: Common
+	Attack/Defense: 3/2
+	Ability: Whenever you cast a Program, Gridwalker Adept gains Flying until end of turn.
+	Flavor Text: “Traversing the digital cosmos, one script at a time.”
+
+Encrypted Courier
+	Casting Cost: 2C (2 Generic, 1 Code Energy)
+	Rarity: Common
+	Attack/Defense: 1/3
+	Ability: Hexproof. When Encrypted Courier deals combat damage to a player, draw a card.
+	Flavor Text: “No firewall is too strong, no encryption is too deep.”
+
+Hexcode Serpent
+	Casting Cost: 5CC (5 Generic, 2 Code Energy)
+	Rarity: Rare
+	Attack/Defense: 6/4
+	Ability: Deathtouch. Whenever Hexcode Serpent deals combat damage to a player, exile a random card from their Archive.
+	Flavor Text: “A glitch in the system... or the system itself?”
+
+Codebreaker Thief
+	Casting Cost: 2C (2 Generic, 1 Code Energy)
+	Rarity: Uncommon
+	Attack/Defense: 2/2
+	Ability: Whenever Codebreaker Thief deals damage to an opponent, exile the top card of their Archive. You may play that card this turn.
+	Flavor Text: “If they encrypt it, I’ll break it.”
+
+Core Guardian
+	Casting Cost: 6C (6 Generic, 1 Code Energy)
+	Rarity: Rare
+	Attack/Defense: 7/7
+	Ability: Trample, Indestructible.
+	Flavor Text: “At the heart of the Grid, an ancient intelligence stirs.”
+
+Logic Sentinel
+	Casting Cost: 4C (4 Generic, 1 Code Energy)
+	Rarity: Uncommon
+	Attack/Defense: 4/4
+	Ability: Ward 3. Programs you control cost 1 less to cast.
+	Flavor Text: “Efficiency is the highest virtue.”
+
+Overclocked Hacker
+	Casting Cost: 3C (3 Generic, 1 Code Energy)
+	Rarity: Uncommon
+	Attack/Defense: 2/3
+	Ability: Haste. Whenever Overclocked Hacker attacks, draw a card, then discard a card.
+	Flavor Text: “Think fast, hack faster.”
+	
+Digital Phoenix
+	Casting Cost: 5CC (5 Generic, 2 Code Energy)
+	Rarity: Mythic Rare
+	Attack/Defense: 4/4
+	Ability: Flying. When Digital Phoenix dies, return it to the Grid at the beginning of the next upkeep.
+	Flavor Text: “Deleted? No. Rebooted.”
+
+Anonymous Leaker
+	Energy Cost: 2C (2 Generic, 1 Creep Energy)
+	Attack/Defense: 2/2
+	Rarity: Common
+	Ability: Tap: Exile the top card of target opponent's archive. You may look at and play that card until the end of your next turn.
+	Flavor Text: “The truth will come out, even if it’s buried deep.”
+
+Clickbait Lurker
+	Energy Cost: 1C (1 Generic, 1 Creep Energy)
+	Attack/Defense: 1/3
+	Rarity: Common
+	Ability: Whenever Clickbait Lurker blocks, target opponent mills 2 cards.
+	Flavor Text: “It knows how to draw you in, whether you like it or not.”
+
+Doxxing Phantom
+	Energy Cost: 3C (3 Generic, 1 Creep Energy)
+	Attack/Defense: 2/4
+	Rarity: Uncommon
+	Ability: When Doxxing Phantom enters the Grid, target opponent reveals their hand. Choose a card from it. That player discards that card.
+	Flavor Text: “It feeds on your vulnerabilities, leaving you exposed.”
+
+Drama Stirrer
+	Energy Cost: 2CC (2 Generic, 2 Creep Energy)
+	Attack/Defense: 3/2
+	Rarity: Rare
+	Ability: Whenever a Unit enters the Grid, each opponent loses 1 Integrity.
+	Flavor Text: “A single whisper can create an avalanche.”
+
+Catfish Predatrix
+	Energy Cost: 4C (4 Generic, 1 Creep Energy)
+	Attack/Defense: 4/4
+	Rarity: Rare
+	Ability: When Catfish Predatrix enters the Grid, you may exchange control of it with target opponent's Unit until the end of your next turn.
+	Flavor Text: “What you see isn’t always what you get.”
+
+Sock Puppet Army
+	Energy Cost: 2C (2 Generic, 1 Creep Energy)
+	Attack/Defense: 1/1
+	Rarity: Common
+	Ability: When Sock Puppet Army enters the Grid, create two 1/1 “Puppet” tokens.
+	Flavor Text: “A single voice, multiplied and magnified.”
+
+Cancel Construct
+	Energy Cost: 5C (5 Generic, 1 Creep Energy)
+	Attack/Defense: 4/5
+	Rarity: Rare
+	Ability: When Cancel Construct enters the Grid, exile target Unit. If it was Shielded, exile it permanently.
+	Flavor Text: “Once it starts, there’s no escape.”
+
+Spam Bot Swarm
+	Energy Cost: 1C (1 Generic, 1 Creep Energy)
+	Attack/Defense: 1/1
+	Rarity: Common
+	Ability: Tap: Create a 1/1 “Spam Token” with “This Unit cannot block.”
+	Flavor Text: “They’re endless and unavoidable.”
+
+Parasocial Devotee
+	Energy Cost: 3C (3 Generic, 1 Creep Energy)
+	Attack/Defense: 3/2
+	Rarity: Uncommon
+	Ability: When Parasocial Devotee attacks, you may pay 1C. If you do, draw a card.
+	Flavor Text: “Their loyalty knows no limits—even when it should.”
+
+Keyboard Warrior
+	Energy Cost: 2C (2 Generic, 1 Creep Energy)
+	Attack/Defense: 2/3
+	Rarity: Common
+	Ability: Tap: Target opponent mills 1 card for each card you drew this turn.
+	Flavor Text: “Fighting battles one post at a time.”
+
+Darkweb Broker
+	Energy Cost: 3CC (3 Generic, 2 Creep Energy)
+	Attack/Defense: 3/3
+	Rarity: Rare
+	Ability: Tap: Exile a card from your archive. Create a 2/2 “Black Market Dealer” token.
+	Flavor Text: “Secrets have a price.”
+
+Influencer Hunter
+	Energy Cost: 4C (4 Generic, 1 Creep Energy)
+	Attack/Defense: 5/3
+	Rarity: Rare
+	Ability: Whenever Influencer Hunter deals damage to a player, exile target Unit they control.
+	Flavor Text: “No follower count can protect you.”
+
+Creep Dragon
+	Energy Cost: 6CC (6 Generic, 2 Creep Energy)
+	Attack/Defense: 7/7
+	Rarity: Mythic Rare
+	Ability: Flying. When Creep Dragon attacks, target opponent exiles the top three cards of their archive.
+	Flavor Text: "It watches from the shadows, a predator of secrets."
+
+Malware Infector
+	Energy Cost: 2C (2 Generic, 1 Creep Energy)
+	Attack/Defense: 3/1
+	Rarity: Common
+	Ability: When Malware Infector enters the Grid, target opponent's Unit becomes Glitched until the end of your next turn.
+	Flavor Text: “One click, and the infection spreads.”
+
+Phishing Fiend
+	Energy Cost: 3C (3 Generic, 1 Creep Energy)
+	Attack/Defense: 2/3
+	Rarity: Uncommon
+	Ability: When Phishing Fiend deals damage to a player, you may draw a card and discard a card.
+	Flavor Text: “It promises riches, but you’ll only lose everything.”
+
+Forum Flamewalker
+	Energy Cost: 4C (4 Generic, 1 Creep Energy)
+	Attack/Defense: 4/3
+	Rarity: Rare
+	Ability: Whenever a Unit becomes damaged, its controller mills a card.
+	Flavor Text: “They throw matches into every fire they see.”
+
+Data Breach Specter
+	Energy Cost: 5C (5 Generic, 1 Creep Energy)
+	Attack/Defense: 3/5
+	Rarity: Rare
+	Ability: Flying. When Data Breach Specter enters the Grid, exile the top three cards of each opponent's archive.
+	Flavor Text: “It takes what you thought was secure and makes it public.”
+
+Pop-Up Poltergeist
+	Energy Cost: 2C (2 Generic, 1 Creep Energy)
+	Attack/Defense: 1/4
+	Rarity: Uncommon
+	Ability: Tap: Each opponent loses 1 Integrity unless they discard a card.
+	Flavor Text: “It haunts your screen, no matter how many times you close it.”
+
+Black Hat Hacker
+	Energy Cost: 3C (3 Generic, 1 Creep Energy)
+	Attack/Defense: 2/3
+	Rarity: Rare
+	Ability: Tap: Exile a card from an opponent’s archive. Create a 1/1 “Glitched File” token.
+	Flavor Text: “They work in the shadows, dismantling the Grid piece by piece.”
+
+Rumor Swarm
+	Energy Cost: 3CC (3 Generic, 2 Creep Energy)
+	Attack/Defense: 3/3
+	Rarity: Rare
+	Ability: Whenever a card is exiled from an opponent's archive, create a 1/1 “Rumor Token.”
+	Flavor Text: “Whispers grow louder, until they drown out the truth.”
+
+Exposé Revenant
+	Energy Cost: 5CC (5 Generic, 2 Creep Energy)
+	Attack/Defense: 6/4
+	Rarity: Mythic Rare
+	Ability: Whenever Exposé Revenant attacks, target opponent reveals their hand. You may choose a card from it and exile it.
+	Flavor Text: “Some secrets refuse to stay buried.”
+
+Crimson Scammer
+	Energy Cost: 2C (2 Generic, 1 Creep Energy)
+	Attack/Defense: 3/1
+	Rarity: Common
+	Ability: When Crimson Scammer enters the Grid, each opponent mills 1 card.
+	Flavor Text: “It promises riches but delivers ruin.”
+
+Underworld Forum Lord
+	Energy Cost: 6CC (6 Generic, 2 Creep Energy)
+	Attack/Defense: 5/5
+	Rarity: Mythic Rare
+	Ability: At the beginning of your end step, exile the top card of each opponent's archive. For each card exiled this way, create a 2/2 “Corrupt Moderator” token.
+	Flavor Text: “Every thread leads back to them, pulling the strings in the dark.”
+
+Fragmented Marionette
+	Energy Cost: 2G (2 Generic, 1 Glitch Energy)
+	Attack/Defense: 2/2
+	Rarity: Common
+	Ability: When Fragmented Marionette enters the Grid, mill 2 cards.
+	Flavor Text: “It dances to a broken rhythm, never finding its strings.”
+
+Data Phantom
+	Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+	Attack/Defense: 3/2
+	Rarity: Uncommon
+	Ability: Flying. Whenever Data Phantom deals damage to a player, they exile the top card of their archive.
+	Flavor Text: “It feeds on what you’ll never see again.”
+
+Looped Rogue
+	Energy Cost: 2GG (2 Generic, 2 Glitch Energy)
+	Attack/Defense: 3/3
+	Rarity: Rare
+	Ability: Whenever Looped Rogue attacks, it phases out until your next turn.
+	Flavor Text: “You’ll never catch it, but it will find you.”
+
+System Eraser
+	Energy Cost: 4G (4 Generic, 1 Glitch Energy)
+	Attack/Defense: 4/5
+	Rarity: Mythic Rare
+	Ability: When System Eraser enters the Grid, exile up to two target Units.
+	Flavor Text: “All it leaves behind is the absence of what once was.”
+
+Patchwork Soldier
+	Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+	Attack/Defense: 3/2
+	Rarity: Common
+	Ability: Whenever Patchwork Soldier is damaged, its controller mills 1 card.
+	Flavor Text: “Built from scraps, it still finds a way to fight.”
+
+Disruptor Drone
+	Energy Cost: 1G (1 Generic, 1 Glitch Energy)
+	Attack/Defense: 1/1
+	Rarity: Common
+	Ability: Tap: Target Unit loses Shielded until end of turn.
+	Flavor Text: “Small, silent, and devastating.”
+
+Null Stalker
+	Energy Cost: 2G (2 Generic, 1 Glitch Energy)
+	Attack/Defense: 3/2
+	Rarity: Uncommon
+	Ability: Null Stalker can’t be blocked by Units with Shielded.
+	Flavor Text: “No shield can stop the void.”
+
+Overclocked Harbinger
+	Energy Cost: 5G (5 Generic, 1 Glitch Energy)
+	Attack/Defense: 6/4
+	Rarity: Mythic Rare
+	Ability: Haste. At the end of your turn, exile Overclocked Harbinger.
+	Flavor Text: “Too much power burns away too quickly.”
+
+Virus Spawn
+	Energy Cost: 1G (1 Generic, 1 Glitch Energy)
+	Attack/Defense: 1/1
+	Rarity: Common
+	Ability: When Virus Spawn enters the Grid, create a 1/1 “Infected Token.”
+	Flavor Text: “One glitch leads to many.”
+
+Recursive Assassin
+	Energy Cost: 4G (4 Generic, 1 Glitch Energy)
+	Attack/Defense: 4/4
+	Rarity: Rare
+	Ability: Whenever Recursive Assassin destroys a Unit, return it to your hand.
+	Flavor Text: “You can’t kill what’s already been rewritten.”
+
+Proxy Saboteur
+	Energy Cost: 2GG (2 Generic, 2 Glitch Energy)
+	Attack/Defense: 3/3
+	Rarity: Rare
+	Ability: When Proxy Saboteur enters the Grid, destroy target Relic.
+	Flavor Text: “It doesn’t knock—it deletes.”
+
+Shard Runner
+	Energy Cost: 2G (2 Generic, 1 Glitch Energy)
+	Attack/Defense: 3/1
+	Rarity: Common
+	Ability: Haste. Shard Runner deals 1 damage to its controller at the end of each turn.
+	Flavor Text: “Fast, unstable, and unpredictable.”
+
+Glitched Colossus
+	Energy Cost: 6G (6 Generic, 1 Glitch Energy)
+	Attack/Defense: 8/6
+	Rarity: Mythic Rare
+	Ability: Trample. When Glitched Colossus attacks, mill 3 cards.
+	Flavor Text: “Its steps rewrite the battlefield.”
+
+Errorbound Wraith
+	Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+	Attack/Defense: 2/4
+	Rarity: Uncommon
+	Ability: Whenever Errorbound Wraith is targeted by a spell, its controller loses 1 Integrity.
+	Flavor Text: “Touch it, and you’ll share its curse.”
+
+Glitchborn Knight
+	Energy Cost: 4G (4 Generic, 1 Glitch Energy)
+	Attack/Defense: 4/3
+	Rarity: Rare
+	Ability: First strike. Whenever Glitchborn Knight deals combat damage, exile the top card of its controller’s archive.
+	Flavor Text: “Its blade cuts through code and reality alike.”
+
+Static Weaver
+	Energy Cost: 2GG (2 Generic, 2 Glitch Energy)
+	Attack/Defense: 2/5
+	Rarity: Uncommon
+	Ability: Tap: Target Unit gains +1/+1 and becomes Glitched until end of turn.
+	Flavor Text: “It rewrites the code of reality to its advantage.”
+
+Distorted Overseer
+	Energy Cost: 5G (5 Generic, 1 Glitch Energy)
+	Attack/Defense: 5/6
+	Rarity: Mythic Rare
+	Ability: Other Glitched Units you control gain +1/+1.
+	Flavor Text: “It controls the chaos, bending it to its will.”
+
+Anomaly Hunter
+	Energy Cost: 3G (3 Generic, 1 Glitch Energy)
+	Attack/Defense: 3/4
+	Rarity: Rare
+	Ability: Whenever Anomaly Hunter enters the Grid, target opponent reveals their hand. You may exile a card from it until Anomaly Hunter leaves the Grid.
+	Flavor Text: “It seeks out inconsistencies and eliminates them.”
+
+Codebreaker Sentinel
+	Energy Cost: 4GG (4 Generic, 2 Glitch Energy)
+	Attack/Defense: 5/5
+	Rarity: Rare
+	Ability: Whenever Codebreaker Sentinel attacks, you may return a Glitched card from your exile to your archive.
+	Flavor Text: “It unravels the mysteries of lost data.”
+
+Corrupted Avatar
+	Energy Cost: 7G (7 Generic, 1 Glitch Energy)
+	Attack/Defense: 7/7
+	Rarity: Mythic Rare
+	Ability: Flying, Trample. When Corrupted Avatar enters the Grid, mill 5 cards.
+	Flavor Text: “An ancient presence, awakened and broken.”
+
+Pixel Knight
+	Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+	Attack/Defense: 3/2
+	Rarity: Common
+	Ability: First strike.
+	Flavor Text: "Defending the digital realms, one pixel at a time."
+
+Respawn Scout
+	Energy Cost: 1G (1 Generic, 1 Gaming Energy)
+	Attack/Defense: 1/1
+	Rarity: Common
+	Ability: When Respawn Scout dies, return it to your hand.
+	Flavor Text: "Failure is just a checkpoint."
+
+Critical Striker
+	Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+	Attack/Defense: 4/2
+	Rarity: Uncommon
+	Ability: Whenever Critical Striker attacks, it gains +2/+0 until end of turn.
+	Flavor Text: "Victory favors the bold—and the lucky."
+
+Glitch Dragon
+	Energy Cost: 6GG (6 Generic, 2 Gaming Energy)
+	Attack/Defense: 7/7
+	Rarity: Mythic Rare
+	Ability: Flying, Trample. Whenever Glitch Dragon deals combat damage to a player, draw a card.
+	Flavor Text: "Even dragons adapt to the endless levels of the gaming grid."
+
+Avatar Hero
+	Energy Cost: 4G (4 Generic, 1 Gaming Energy)
+	Attack/Defense: 5/5
+	Rarity: Rare
+	Ability: When Avatar Hero enters the Grid, choose a player. That player creates a 1/1 "Sidekick" token with Shielded.
+	Flavor Text: "Every hero needs a loyal sidekick."
+
+Dungeon Crawler
+	Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+	Attack/Defense: 2/3
+	Rarity: Uncommon
+	Ability: Whenever Dungeon Crawler deals combat damage to a player, you may search your archive for an Equipment card and put it into your hand.
+	Flavor Text: "Treasure always lies just behind the next corner."
+
+AFK Ranger
+	Energy Cost: 1G (1 Generic, 1 Gaming Energy)
+	Attack/Defense: 0/4
+	Rarity: Common
+	Ability: AFK Ranger can't attack or block but has "Tap: Gain 1 Integrity."
+	Flavor Text: "They may be away, but they're still contributing."
+
+Speedrun Assassin
+	Energy Cost: 2GG (2 Generic, 2 Gaming Energy)
+	Attack/Defense: 4/1
+	Rarity: Rare
+	Ability: Haste. When Speedrun Assassin deals combat damage to a player, untap it.
+	Flavor Text: "Beating records, one strike at a time."
+
+Beta Tester
+	Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+	Attack/Defense: 2/3
+	Rarity: Common
+	Ability: Tap: Target Unit gains Debugged until end of turn.
+	Flavor Text: "They see the flaws no one else notices."
+
+Rage Quitter
+	Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+	Attack/Defense: 5/1
+	Rarity: Uncommon
+	Ability: Trample. Rage Quitter can't block.
+	Flavor Text: "Anger is a strategy—just not a good one."
+
+Boss Monster
+	Energy Cost: 5G (5 Generic, 1 Gaming Energy)
+	Attack/Defense: 6/6
+	Rarity: Rare
+	Ability: When Boss Monster enters the Grid, all other Units get -1/-1 until end of turn.
+	Flavor Text: "The fight’s just getting started."
+
+Level-Up Warrior
+	Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+	Attack/Defense: 2/2
+	Rarity: Common
+	Ability: At the beginning of your upkeep, put a +1/+1 counter on Level-Up Warrior.
+	Flavor Text: "Grinding through battles, gaining strength with every fight."
+
+Patch Notes Guru
+	Energy Cost: 3GG (3 Generic, 2 Gaming Energy)
+	Attack/Defense: 2/5
+	Rarity: Rare
+	Ability: When Patch Notes Guru enters the Grid, choose one: buff all Units by +1/+1, or nerf all Units by -1/-1 until end of turn.
+	Flavor Text: "The digital balance keeper."
+
+Stream Sniper
+	Energy Cost: 1G (1 Generic, 1 Gaming Energy)
+	Attack/Defense: 1/1
+	Rarity: Common
+	Ability: When Stream Sniper enters the Grid, look at the top card of your opponent's archive.
+	Flavor Text: "Always watching, always waiting."
+
+RNG Manipulator
+	Energy Cost: 4G (4 Generic, 1 Gaming Energy)
+	Attack/Defense: 3/3
+	Rarity: Rare
+	Ability: When RNG Manipulator enters the Grid, roll a six-sided die. Draw cards equal to the result.
+	Flavor Text: "Luck isn’t random when you know the code."
+
+Lag Beast
+	Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+	Attack/Defense: 3/5
+	Rarity: Uncommon
+	Ability: Units your opponent controls enter the Grid tapped.
+	Flavor Text: "It thrives on delay and frustration."
+
+Arcade Brawler
+	Energy Cost: 2G (2 Generic, 1 Gaming Energy)
+	Attack/Defense: 4/3
+	Rarity: Common
+	Ability: Whenever Arcade Brawler blocks or is blocked, you may pay 1 Energy to give it +2/+0 until end of turn.
+	Flavor Text: "Punch, kick, win—repeat."
+
+Memory Corruptor
+	Energy Cost: 4GG (4 Generic, 2 Gaming Energy)
+	Attack/Defense: 2/4
+	Rarity: Rare
+	Ability: When Memory Corruptor enters the Grid, target player mills cards equal to the number of Units they control.
+	Flavor Text: "It rewrites your past, leaving you defenseless."
+
+Savepoint Guardian
+	Energy Cost: 3G (3 Generic, 1 Gaming Energy)
+	Attack/Defense: 0/6
+	Rarity: Uncommon
+	Ability: Shielded. Tap: Target Unit gains Indestructible until end of turn.
+	Flavor Text: "A beacon of safety in an unforgiving world."
+
+Final Boss Avatar
+	Energy Cost: 8GG (8 Generic, 2 Gaming Energy)
+	Attack/Defense: 8/8
+	Rarity: Mythic Rare
+	Ability: Flying, Trample. When Final Boss Avatar enters the Grid, destroy all other Units.
+	Flavor Text: "The final stage awaits—are you ready?"
+
+Queen of Cancelation
+	Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+	Rarity: Mythic Rare
+	Attack/Defense: 5/4
+	Ability: When Queen of Cancelation enters the Grid, choose a Unit. Until the end of the game, that Unit cannot attack, block, or activate abilities.
+	Flavor Text: "One tweet, one downfall."
+
+Tea Spiller
+	Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 2/2
+	Ability: When Tea Spiller enters the Grid, draw a card.
+	Flavor Text: "It’s piping hot, and everyone’s watching."
+
+Subtweet Assassin
+	Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+	Rarity: Uncommon
+	Attack/Defense: 3/2
+	Ability: Tap: Deal 2 damage to a Unit that has already attacked this turn.
+	Flavor Text: "Sharp words hit harder when they’re vague."
+
+Clout Chaser
+	Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 2/1
+	Ability: Whenever Clout Chaser attacks, gain 1 Integrity.
+	Flavor Text: "Fame is fleeting, but the chase never ends."
+
+Flame War General
+	Energy Cost: 5DE (5 Generic, 1 Drama Energy)
+	Rarity: Rare
+	Attack/Defense: 6/4
+	Ability: Units you control gain +2/+0 during your turn.
+	Flavor Text: "Fueled by chaos, armed with outrage."
+
+Apology Video Star
+	Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+	Rarity: Rare
+	Attack/Defense: 2/3
+	Ability: Tap: Regain 2 Integrity.
+	Flavor Text: "I’m here to take accountability... mostly."
+
+Drama Channel Gossipmonger
+	Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 1/3
+	Ability: Tap: Draw a card if an opponent controls a Unit with Drama Energy.
+	Flavor Text: "Always in the know, never in the clear."
+
+Receipts Collector
+	Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+	Rarity: Uncommon
+	Attack/Defense: 2/2
+	Ability: Whenever an opponent activates an ability, you may pay 1. If you do, draw a card.
+	Flavor Text: "Screenshots never lie—unless they’re cropped."
+
+The Gaslighter
+	Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+	Rarity: Rare
+	Attack/Defense: 3/3
+	Ability: Target Unit an opponent controls loses all abilities until your next turn.
+	Flavor Text: "Are you sure that’s what happened?"
+
+Petty Argument Goblin
+	Energy Cost: 1DE (1 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 1/1
+	Ability: Tap: Target opponent loses 1 Integrity.
+	Flavor Text: "Why stop when I’m winning?"
+
+Viral Callout Champion
+	Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+	Rarity: Rare
+	Attack/Defense: 4/3
+	Ability: When Viral Callout Champion enters the Grid, target Unit gains -3/-3 until your next turn.
+	Flavor Text: "They said it, and the internet saw."
+
+Keyboard Crusader
+	Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 2/2
+	Ability: Whenever an opponent activates an ability, Keyboard Crusader gains +1/+1 until end of turn.
+	Flavor Text: "One argument at a time, the internet will be saved."
+
+Drama Magnet
+	Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+	Rarity: Uncommon
+	Attack/Defense: 3/3
+	Ability: Whenever a Unit enters the Grid, Drama Magnet gains +1/+0 until the end of turn.
+
+Gatekeeping Sentinel
+	Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 2/2
+	Ability: Tap: Target Unit cannot attack or block this turn unless its controller pays 1 Energy.
+	Flavor Text: "True fans only."
+
+Anonymous Whisperer
+	Energy Cost: 1DE (1 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 1/2
+	Ability: Tap: Target Unit gains -1/-1 until the end of turn.
+	Flavor Text: "Behind every rumor, there’s a whisper in the dark."
+
+Dramageddon Witness
+	Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+	Rarity: Uncommon
+	Attack/Defense: 2/4
+	Ability: When Dramageddon Witness enters the Grid, draw a card.
+	Flavor Text: "They didn’t start the fire, but they’re here to watch it burn."
+
+Toxic Threadmaster
+	Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+	Rarity: Rare
+	Attack/Defense: 3/5
+	Ability: Tap: Choose a Unit. It cannot attack or block until your next turn.
+	Flavor Text: "Once you’re tangled, there’s no escape."
+
+The Scandalous Shadow
+	Energy Cost: 2DE (2 Generic, 1 Drama Energy)
+	Rarity: Common
+	Attack/Defense: 2/1
+	Ability: When The Scandalous Shadow attacks, target opponent loses 1 Integrity.
+	Flavor Text: "In the darkness, secrets come to light."
+
+The Clapback King
+	Energy Cost: 3DE (3 Generic, 1 Drama Energy)
+	Rarity: Rare
+	Attack/Defense: 4/2
+	Ability: When The Clapback King enters the Grid, deal 2 damage to a Unit or Player.
+	Flavor Text: "They always have the last word."
+
+The Exposer
+	Energy Cost: 4DE (4 Generic, 1 Drama Energy)
+	Rarity: Mythic Rare
+	Attack/Defense: 5/5
+	Ability: When The Exposer enters the Grid, all opponent-controlled Units lose all abilities until the end of your next turn.
+	Flavor Text: "Nothing stays hidden forever."
+
+Dark Carnival
+	Energy Cost: 6M (6 Generic, 1 Movie Energy)
+	Rarity: Rare
+	Attack/Defense: 5/5
+	Ability: When Dark Carnival enters the Grid, create two 1/1 “Carnival Clown” tokens. Whenever a Clown token dies, deal 2 damage to any target.
+	Flavor Text: "Laughter echoes through the night, and it’s anything but joyful."
+
+Horror Movie Antagonist
+	Energy Cost: 4M (4 Generic, 1 Movie Energy)
+	Rarity: Rare
+	Attack/Defense: 4/4
+	Ability: Whenever Horror Movie Antagonist destroys a Unit, its controller loses 1 Integrity.
+	Flavor Text: "The monster you never see coming."
+
+Cult Classic Ghoul
+	Energy Cost: 3M (3 Generic, 1 Movie Energy)
+	Rarity: Uncommon
+	Attack/Defense: 3/2
+	Ability: Cult Classic Ghoul gets +1/+1 for each Unit in your discard pile.
+	Flavor Text: "It thrives on forgotten tales and late-night reruns."
+
+Monster Movie Colossus
+	Energy Cost: 6M (6 Generic, 1 Movie Energy)
+	Rarity: Mythic Rare
+	Attack/Defense: 8/6
+	Ability: Trample. Whenever Monster Movie Colossus attacks, destroy target Relic.
+	Flavor Text: "Nothing survives the wrath of the beast."
+
+Silent Film Specter
+	Energy Cost: 1M (1 Generic, 1 Movie Energy)
+	Rarity: Common
+	Attack/Defense: 1/2
+	Ability: Silent Film Specter can’t be blocked if you control another Unit with Movie Energy.
+
+Horror Reel Haunter
+	Energy Cost: 4M (4 Generic, 1 Movie Energy)
+	Rarity: Rare
+	Attack/Defense: 3/4
+	Ability: At the beginning of your end step, if Horror Reel Haunter dealt damage this turn, create a 1/1 “Specter” token with Flying.
+	Flavor Text: "The fear spreads, frame by frame."
+
+Cinematic Wyvern
+	Energy Cost: 6M (6 Generic, 1 Movie Energy)
+	Rarity: Mythic Rare
+	Attack/Defense: 6/6
+	Ability: Flying, Trample. When Cinematic Wyvern enters the Grid, draw a card for each Movie energy spent to cast it.
+	Flavor Text: "Its wings are the curtain, and its roar is the climax."
+
+Roll-Safe Rogue
+	Energy Cost: 3ME (3 Generic, 1 Meme Energy)
+	Rarity: Uncommon
+	Attack/Defense: 2/3
+	Ability: You can’t lose Integrity as long as Roll-Safe Rogue is untapped.
+	Flavor Text: "If you don’t play the game, you can’t lose."
+
+
+
+

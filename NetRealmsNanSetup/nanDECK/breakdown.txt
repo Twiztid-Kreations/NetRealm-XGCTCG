@@ -64,11 +64,12 @@ Units (112 total)
 		Anomaly Hunter
 		Codebreaker Sentinel
 		Corrupted Avatar
+		Shard Runner
 	Gaming: 21
 		Pixel Knight
 		Respawn Scout
 		Critical Striker
-		Glitch Dragon
+		Crimson Circuit Wyvern
 		Avatar Hero
 		Dungeon Crawler
 		AFK Ranger
@@ -85,7 +86,7 @@ Units (112 total)
 		Memory Corruptor
 		Savepoint Guardian
 		Final Boss Avatar
-		Shard Runner
+		Glitch Dragon
 	Drama: 21
 		Queen of Cancelation
 		Tea Spiller
@@ -108,6 +109,7 @@ Units (112 total)
 		The Clapback King
 		The Exposer
 		Crimson Scammer
+		Dark Carnival
 	Multicolor (Hybrid): 7
 		Roll-Safe Rogue
 		Horror Movie Antagonist
