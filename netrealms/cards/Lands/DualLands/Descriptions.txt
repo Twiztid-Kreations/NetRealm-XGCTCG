@@ -1,0 +1,108 @@
+Darknet Nexus
+Type: Land – Dual (Creep/Code Energy)
+Rarity: Rare
+Ability:
+Darknet Nexus enters the Grid tapped unless you pay 1 Integrity.
+Tap: Add (cr) or (cr).
+Flavor Text: "At the crossroads of shadows and firewalls lies the true core of the hidden web."
+
+Fractured Repository
+Type: Land – Dual (Glitch/Code Energy)
+Rarity: Rare
+Ability:
+Fractured Repository enters the Grid tapped unless you exile the top card of your archive.
+Tap: Add 1G (1 Glitch Energy) or 1CO (1 Code Energy).
+Flavor Text: "The key to innovation lies in the fractures of perfection."
+
+Cinema Archive Nexus
+Type: Land – Dual (Movie/Code Energy)
+Rarity: Rare
+Ability:
+Cinema Archive Nexus enters the Grid tapped unless you reveal a Code Unit from your hand.
+Tap: Add (co)
+Flavor Text: "Where the magic of storytelling meets the precision of code, legends are immortalized in endless loops."
+
+Haunted Cineplex
+Type: Land – Dual (Creep/Movie Energy)
+Rarity: Rare
+Ability:
+Haunted Cineplex enters the Grid tapped unless you reveal a Creep or Movie Unit from your hand.
+Tap: Add 1CR (1 Creep Energy) or 1MO (1 Movie Energy).
+Flavor Text: "In the shadows between the reels, the stories become too real to escape."
+
+Streaming Arena
+Type: Land – Dual (Gaming/Drama Energy)
+Rarity: Rare
+Ability:
+Streaming Arena enters the Grid tapped unless you control a Gaming or Drama Unit.
+Tap: Add 1GM (1 Gaming Energy) or 1DR (1 Drama Energy).
+Flavor Text: "Where victory and betrayal are broadcast to millions, every move is a spectacle."
+
+Fractured Arcade
+Type: Land – Dual (Gaming/Glitch Energy)
+Rarity: Rare
+Ability:
+Fractured Arcade enters the Grid tapped unless you’ve milled a card this turn.
+Tap: Add 1GM (1 Gaming Energy) or 1GL (1 Glitch Energy).
+Flavor Text: "Where high scores are haunted by broken pixels and echoes of corrupted code."
+
+Hacked Datastream
+Produces: Code & Glitch Energy
+Ability: Whenever you spend Glitch Energy to cast a Program, you may draw a card, then discard a card.
+Flavor Text: "A backdoor left wide open for those who know where to look."
+Prompt: A digital river of corrupted code flows through a futuristic cityscape. Glowing symbols flicker in and out of existence as shadowy figures siphon data from the stream.
+
+Ghost in the Wires
+Produces: Code & Creep Energy
+Ability: Whenever you use Creep Energy to activate an ability, you may exile a card from an opponent’s discard pile.
+Flavor Text: "Not all hauntings are supernatural—some are simply leftover data refusing to die."
+Prompt: A flickering, half-formed humanoid made of static and broken code emerges from a tangled web of glowing wires, its eyes hollow yet watching.
+
+PvP Coliseum
+Produces: Gaming & Drama Energy
+Ability: Whenever a Unit takes damage, its controller loses 1 Integrity.
+Flavor Text: "Victory is sweet, but the salt makes it unforgettable."
+Prompt: A massive, neon-lit arena filled with thousands of digital spectators. Two warriors, one in futuristic armor and another cloaked in shadows, clash with pixelated weapons as a giant scoreboard looms above them.
+
+Error 404 Nexus
+Produces: Glitch & Code Energy
+Ability: If a Program you control would be destroyed, exile it instead. It may be recast this turn as if it had Flash.
+Flavor Text: "Nothing ever truly disappears in the Grid."
+Prompt: A broken digital void where fragments of lost data float aimlessly. Glowing red "404" signs flicker, surrounded by ghostly outlines of missing code.
+
+Shadow Market
+Produces: Creep & Drama Energy
+Ability: Pay 2 Integrity: Add one energy of any type. Any player may activate this ability.
+Flavor Text: "Where secrets are currency, and trust is a liability."
+Prompt: A dark alley in a cyberpunk city, lined with neon signs written in an unreadable script. Hooded figures exchange glowing data chips, while security drones patrol above.
+
+Glitched Game Lobby
+Produces: Glitch & Gaming Energy
+Ability: Once per turn, you may exile a card from your hand. If you do, create a 1/1 Pixel Phantom Unit.
+Flavor Text: "Stuck in the waiting room of a game that never starts."
+Prompt: A surreal, empty game lobby with character avatars frozen in mid-motion. In the distance, the words "Loading..." flicker, never reaching completion.
+
+"Corrupted System" Set (Special Effect When All Three Are in Play!)
+
+Corrupted Server Farm
+Tap: Add (co) or (dr)
+Ability: At the start of your turn, each opponent mills the top card of their deck. If it's a Program, they lose 1 Integrity.
+Flavor Text: "The system is infected, and every request spreads the decay."
+Prompt: A vast, decaying server farm with cables wrapped around crumbling data towers. Red warning signs flash: "CRITICAL ERROR."
+
+Viral Propagation Node
+Tap: Add (cr) or (gl)
+Ability: Whenever you gain Glitch Energy, each opponent loses 1 Integrity unless they discard a card.
+Flavor Text: "A single spark of chaos spreads like wildfire."
+Prompt: A pulsating digital virus, expanding like a fractal across a massive computer network. Tiny, corrupted files scurry like insects across the system.
+
+Backdoor Exploit Hub
+Produces: Gaming & Code Energy
+Ability: Once per turn, you may pay 2 Life. If you do, exile the top two cards of an opponent’s deck. You may cast one of those cards this turn using any energy type.
+Flavor Text: "If you know where to look, no system is secure."
+Prompt: A hacker’s secret hideout filled with glowing screens, rapidly scrolling lines of code, and a massive digital key hovering above a lock-shaped interface.
+
+Corrupted System Set Bonus Effect:
+If you control Corrupted Server Farm, Viral Propagation Node, and Backdoor Exploit Hub at the same time, you may exile them to create a 6/6 Corrupted AI Unit with "Whenever a player loses Integrity, you gain that much Integrity."
+
+Flavor Text: "The singularity has arrived, and it feeds on despair."
